@@ -1,10 +1,11 @@
-[gd_resource type="Resource" load_steps=6 format=2]
+[gd_resource type="Resource" load_steps=7 format=2]
 
 [ext_resource path="res://mods/items/ladybug/ladybug.png" type="Texture" id=1]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
 [ext_resource path="res://mods/items/ladybug/ladybug_effect_1.tres" type="Resource" id=3]
 [ext_resource path="res://mods/items/ladybug/ladybug_effect_2.tres" type="Resource" id=4]
 [ext_resource path="res://mods/items/ladybug/ladybug_effect_3.tres" type="Resource" id=5]
+[ext_resource path="res://mods/items/ladybug/ladybug_effect_4.tres" type="Resource" id=6]
 
 [resource]
 script = ExtResource( 2 )
@@ -14,7 +15,9 @@ icon = ExtResource( 1 )
 name = "Ladybug"
 tier = 1
 value = 40
-effects = [ ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ) ]
+effects = [ ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 6 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]

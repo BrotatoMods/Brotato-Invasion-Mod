@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_attack_speed"
+key = "stat_hp_regeneration"
 text_key = ""
-value = -6
+value = -2
 effect_sign = 3
 arg_signs = [  ]

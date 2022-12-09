@@ -1,7 +1,8 @@
-[gd_resource type="Resource" load_steps=4 format=2]
+[gd_resource type="Resource" load_steps=5 format=2]
 
 [ext_resource path="res://mods/items/horse_shoe/horse_shoe_effect_1.tres" type="Resource" id=1]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
+[ext_resource path="res://mods/items/horse_shoe/horse_shoe_effect_2.tres" type="Resource" id=3]
 [ext_resource path="res://mods/items/horse_shoe/horse_shoe.png" type="Texture" id=4]
 
 [resource]
@@ -12,7 +13,9 @@ icon = ExtResource( 4 )
 name = "Horse Shoe"
 tier = 0
 value = 10
-effects = [ ExtResource( 1 ) ]
+effects = [ ExtResource( 1 ), ExtResource( 3 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]

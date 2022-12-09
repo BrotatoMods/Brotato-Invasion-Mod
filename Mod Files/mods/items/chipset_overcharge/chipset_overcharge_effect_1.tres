@@ -8,5 +8,6 @@ key = "stat_engineering"
 text_key = "EFFECT_GAIN_STAT_FOR_EVERY_STAT"
 value = 2
 effect_sign = 3
+arg_signs = [  ]
 nb_stat_scaled = -1
 stat_scaled = "stat_armor"

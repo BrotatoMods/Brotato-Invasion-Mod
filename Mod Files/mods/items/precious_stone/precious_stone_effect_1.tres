@@ -6,5 +6,6 @@
 script = ExtResource( 1 )
 key = "stat_elemental_damage"
 text_key = ""
-value = 12
+value = 8
 effect_sign = 3
+arg_signs = [  ]

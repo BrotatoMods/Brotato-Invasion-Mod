@@ -10,6 +10,7 @@ key = "explode_on_hit"
 text_key = "effect_explode_on_hit"
 value = 1
 effect_sign = 0
+arg_signs = [  ]
 chance = 0.1
 explosion_scene = ExtResource( 2 )
 scale = 1.0
