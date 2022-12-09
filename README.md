@@ -6,9 +6,9 @@ The latest updates and progress info will be posted on the [Space Potatoes Disco
 
 ## Links
 
-- [Space Potatoes Discord](https://discord.gg/j39jE6k)
-- https://store.steampowered.com/app/1144910/Space_Gladiators/
-- https://store.steampowered.com/app/1942280/Brotato/
+- [Discord (Space Potatoes)](https://discord.gg/j39jE6k)
+- [Steam - Space Gladiators](https://store.steampowered.com/app/1144910/Space_Gladiators/)
+- [Steam - Brotato](https://store.steampowered.com/app/1942280/Brotato/)
 
 ### Space Gladiators Wiki
 
