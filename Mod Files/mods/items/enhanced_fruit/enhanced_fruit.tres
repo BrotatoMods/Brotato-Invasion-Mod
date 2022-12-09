@@ -1,0 +1,21 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://mods/items/enhanced_fruit/enhanced_fruit_effect_1.tres" type="Resource" id=1]
+[ext_resource path="res://mods/items/enhanced_fruit/enhanced_fruit_effect_2.tres" type="Resource" id=2]
+[ext_resource path="res://mods/items/enhanced_fruit/enhanced_fruit.png" type="Texture" id=3]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
+[ext_resource path="res://mods/items/enhanced_fruit/enhanced_fruit_effect_3.tres" type="Resource" id=5]
+
+[resource]
+script = ExtResource( 4 )
+my_id = "item_enhanced_fruit"
+unlocked_by_default = true
+icon = ExtResource( 3 )
+name = "Enhanced Fruit"
+tier = 1
+value = 25
+effects = [ ExtResource( 5 ), ExtResource( 1 ), ExtResource( 2 ) ]
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_engineering", "pickup" ]

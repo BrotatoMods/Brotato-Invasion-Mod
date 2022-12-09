@@ -1,0 +1,23 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://mods/weapons/melee/nail_bat/2/nail_bat_2_stats.tres" type="Resource" id=1]
+[ext_resource path="res://mods/weapons/melee/nail_bat/3/nail_bat_3_data.tres" type="Resource" id=2]
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=3]
+[ext_resource path="res://mods/weapons/melee/nail_bat/nail_bat_icon.png" type="Texture" id=4]
+[ext_resource path="res://mods/weapons/melee/nail_bat/nail_bat.tscn" type="PackedScene" id=5]
+
+[resource]
+script = ExtResource( 3 )
+my_id = "weapon_nail_bat_2"
+unlocked_by_default = true
+icon = ExtResource( 4 )
+name = "Nail Bat"
+tier = 1
+value = 31
+effects = [  ]
+weapon_id = "weapon_nail_bat"
+type = 0
+weapon_classes = [ 1 ]
+scene = ExtResource( 5 )
+stats = ExtResource( 1 )
+upgrades_into = ExtResource( 2 )

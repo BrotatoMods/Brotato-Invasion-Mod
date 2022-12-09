@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=1]
+[ext_resource path="res://mods/weapons/ranged/clone/clone_icon.png" type="Texture" id=2]
+[ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_stats.tres" type="Resource" id=3]
+[ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_effect_1.tres" type="Resource" id=4]
+[ext_resource path="res://mods/weapons/ranged/clone/clone.tscn" type="PackedScene" id=5]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "weapon_clone_4"
+unlocked_by_default = true
+icon = ExtResource( 2 )
+name = "Clone"
+tier = 3
+value = 122
+effects = [ ExtResource( 4 ) ]
+weapon_id = "weapon_clone"
+type = 1
+weapon_classes = [ 7 ]
+scene = ExtResource( 5 )
+stats = ExtResource( 3 )

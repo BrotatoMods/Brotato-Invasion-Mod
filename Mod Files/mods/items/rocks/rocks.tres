@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=7 format=2]
+
+[ext_resource path="res://mods/items/rocks/rocks.png" type="Texture" id=1]
+[ext_resource path="res://mods/items/rocks/rocks_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://mods/items/rocks/rocks_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
+[ext_resource path="res://mods/items/rocks/rocks_effect_4.tres" type="Resource" id=5]
+[ext_resource path="res://mods/items/rocks/rocks_effect_3.tres" type="Resource" id=6]
+
+[resource]
+script = ExtResource( 4 )
+my_id = "item_rocks"
+unlocked_by_default = true
+icon = ExtResource( 1 )
+name = "Little Rocks"
+tier = 1
+value = 30
+effects = [ ExtResource( 2 ), ExtResource( 3 ), ExtResource( 6 ), ExtResource( 5 ) ]
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_ranged_damage", "stat_armor" ]

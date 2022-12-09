@@ -1,0 +1,20 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods/items/lava_balls/lava_balls_effect_1.tres" type="Resource" id=1]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
+[ext_resource path="res://mods/items/lava_balls/lava_balls_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://mods/items/lava_balls/lava_balls.png" type="Texture" id=4]
+
+[resource]
+script = ExtResource( 2 )
+my_id = "item_lava_balls"
+unlocked_by_default = true
+icon = ExtResource( 4 )
+name = "Lava Balls"
+tier = 1
+value = 20
+effects = [ ExtResource( 1 ), ExtResource( 3 ) ]
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_elemental_damage", "stat_hp_regeneration" ]

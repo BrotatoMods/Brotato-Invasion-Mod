@@ -1,0 +1,23 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=1]
+[ext_resource path="res://weapons/melee/fist/fist.tscn" type="PackedScene" id=2]
+[ext_resource path="res://mods/weapons/melee/big_hand/big_hand_icon.png" type="Texture" id=3]
+[ext_resource path="res://weapons/melee/fist/2/fist_2_stats.tres" type="Resource" id=4]
+[ext_resource path="res://weapons/melee/fist/3/fist_3_data.tres" type="Resource" id=5]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "weapon_big_hand_2"
+unlocked_by_default = true
+icon = ExtResource( 3 )
+name = "WEAPON_FIST"
+tier = 1
+value = 24
+effects = [  ]
+weapon_id = "weapon_fist"
+type = 0
+weapon_classes = [ 4 ]
+scene = ExtResource( 2 )
+stats = ExtResource( 4 )
+upgrades_into = ExtResource( 5 )

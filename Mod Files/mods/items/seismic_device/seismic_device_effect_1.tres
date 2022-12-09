@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://effects/items/dmg_when_pickup_gold_effect.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+key = "dmg_when_pickup_gold_from_luck"
+text_key = "EFFECT_DEAL_DMG_WHEN_PICKUP_GOLD"
+value = 20
+effect_sign = 3
+chance = 100
+stat = "stat_engineering"

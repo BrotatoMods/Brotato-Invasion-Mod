@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://effects/burning_data.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+chance = 0.1
+damage = 1.0
+duration = 3
+spread = 0
+type = 0

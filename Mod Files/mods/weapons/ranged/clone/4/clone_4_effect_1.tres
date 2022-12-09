@@ -1,0 +1,14 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://effects/weapons/weapon_stack_effect.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+key = "EFFECT_WEAPON_STACK"
+text_key = ""
+value = 4
+effect_sign = 3
+weapon_stacked_name = "Clone"
+weapon_stacked_id = "weapon_clone"
+stat_displayed_name = "stat_damage"
+stat_name = "damage"

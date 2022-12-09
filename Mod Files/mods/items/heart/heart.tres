@@ -1,0 +1,21 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://mods/items/heart/heart_effect_2.tres" type="Resource" id=1]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
+[ext_resource path="res://mods/items/heart/heart_effect_1.tres" type="Resource" id=3]
+[ext_resource path="res://mods/items/heart/heart.png" type="Texture" id=4]
+[ext_resource path="res://mods/items/heart/heart_effect_3.tres" type="Resource" id=5]
+
+[resource]
+script = ExtResource( 2 )
+my_id = "item_heart"
+unlocked_by_default = true
+icon = ExtResource( 4 )
+name = "Heart"
+tier = 2
+value = 80
+effects = [ ExtResource( 3 ), ExtResource( 1 ), ExtResource( 5 ) ]
+unique = true
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_max_hp", "stat_hp_regeneration", "stat_speed" ]

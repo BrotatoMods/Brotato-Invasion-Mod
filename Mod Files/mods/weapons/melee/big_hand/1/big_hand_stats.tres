@@ -1,0 +1,29 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://weapons/weapon_stats/melee_weapon_stats.gd" type="Script" id=1]
+[ext_resource path="res://weapons/melee_sounds/whoosh_swish_high_fast_01.wav" type="AudioStream" id=2]
+[ext_resource path="res://weapons/melee_sounds/whoosh_swish_high_fast_02.wav" type="AudioStream" id=3]
+[ext_resource path="res://weapons/melee_sounds/whoosh_swish_high_fast_04.wav" type="AudioStream" id=4]
+[ext_resource path="res://weapons/melee_sounds/whoosh_swish_high_fast_03.wav" type="AudioStream" id=5]
+
+[resource]
+script = ExtResource( 1 )
+cooldown = 17
+damage = 6
+accuracy = 1.0
+crit_chance = 0.01
+crit_damage = 1.5
+min_range = 0
+max_range = 180
+knockback = 20
+effect_scale = 1.0
+scaling_stats = [ [ "stat_melee_damage", 0.85 ], [ "stat_max_hp", 0.2 ] ]
+lifesteal = 0.0
+shooting_sounds = [ ExtResource( 2 ), ExtResource( 3 ), ExtResource( 5 ), ExtResource( 4 ) ]
+sound_db_mod = -5
+is_healing = false
+recoil = 25
+recoil_duration = 0.1
+deal_dmg_on_return = false
+attack_type = 0
+alternate_attack_type = false

@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://effects/items/gain_stat_for_every_stat_effect.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+key = "stat_percent_damage"
+text_key = "EFFECT_GAIN_STAT_FOR_EVERY_STAT"
+value = 3
+effect_sign = 3
+nb_stat_scaled = -1
+stat_scaled = "stat_harvesting"
