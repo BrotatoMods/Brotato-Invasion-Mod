@@ -5,20 +5,20 @@
 [ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_03.wav" type="AudioStream" id=3]
 [ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_02.wav" type="AudioStream" id=4]
 [ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_01.wav" type="AudioStream" id=5]
-[ext_resource path="res://mods/weapons/ranged/clone/clone_inactive.png" type="Texture" id=6]
+[ext_resource path="res://mods/weapons/ranged/clone/clone_x3_inactive.png" type="Texture" id=6]
 
 [resource]
 script = ExtResource( 1 )
-cooldown = 30
-damage = 25
+cooldown = 38
+damage = 10
 accuracy = 1.0
 crit_chance = 0.03
 crit_damage = 2.0
 min_range = 0
-max_range = 175
-knockback = 20
+max_range = 300
+knockback = 10
 effect_scale = 1.0
-scaling_stats = [ [ "stat_ranged_damage", 1.0 ], [ "stat_elemental_damage", 0.5 ] ]
+scaling_stats = [ [ "stat_melee_damage", 0.3 ], [ "stat_ranged_damage", 0.3 ], [ "stat_elemental_damage", 0.3 ], [ "stat_engineering", 0.3 ] ]
 lifesteal = 0.0
 shooting_sounds = [ ExtResource( 5 ), ExtResource( 4 ), ExtResource( 3 ) ]
 sound_db_mod = -5
@@ -26,12 +26,12 @@ is_healing = false
 custom_on_cooldown_sprite = ExtResource( 6 )
 recoil = 40
 recoil_duration = 0.1
-nb_projectiles = 1
+nb_projectiles = 3
 projectile_spread = 0.0
-piercing = 0
-piercing_dmg_reduction = 0.5
+piercing = 1
+piercing_dmg_reduction = 0.4
 bounce = 0
 bounce_dmg_reduction = 0.5
-projectile_speed = 2000
+projectile_speed = 1000
 increase_projectile_speed_with_range = false
 projectile_scene = ExtResource( 2 )

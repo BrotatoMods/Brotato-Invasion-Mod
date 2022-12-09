@@ -4,7 +4,7 @@
 [ext_resource path="res://mods/weapons/ranged/clone/2/clone_2_effect_1.tres" type="Resource" id=2]
 [ext_resource path="res://mods/weapons/ranged/clone/3/clone_3_data.tres" type="Resource" id=3]
 [ext_resource path="res://mods/weapons/ranged/clone/2/clone_2_stats.tres" type="Resource" id=4]
-[ext_resource path="res://mods/weapons/ranged/clone/clone.tscn" type="PackedScene" id=5]
+[ext_resource path="res://mods/weapons/ranged/clone/clone_x2.tscn" type="PackedScene" id=5]
 [ext_resource path="res://items/global/weapon_data.gd" type="Script" id=6]
 
 [resource]
@@ -12,7 +12,7 @@ script = ExtResource( 6 )
 my_id = "weapon_clone_2"
 unlocked_by_default = true
 icon = ExtResource( 1 )
-name = "Clone"
+name = "Clones"
 tier = 1
 value = 31
 effects = [ ExtResource( 2 ) ]

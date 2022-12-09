@@ -1,17 +1,52 @@
-[gd_resource type="Resource" load_steps=6 format=2]
+[gd_resource type="Resource" load_steps=13 format=2]
 
 [ext_resource path="res://items/global/weapon_data.gd" type="Script" id=1]
 [ext_resource path="res://mods/weapons/ranged/clone/clone_icon.png" type="Texture" id=2]
-[ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_stats.tres" type="Resource" id=3]
+[ext_resource path="res://mods/weapons/ranged/clone/clone_x1_inactive.png" type="Texture" id=3]
 [ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_effect_1.tres" type="Resource" id=4]
-[ext_resource path="res://mods/weapons/ranged/clone/clone.tscn" type="PackedScene" id=5]
+[ext_resource path="res://mods/weapons/ranged/clone/clone_x4.tscn" type="PackedScene" id=5]
+[ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_02.wav" type="AudioStream" id=6]
+[ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_01.wav" type="AudioStream" id=7]
+[ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_03.wav" type="AudioStream" id=8]
+[ext_resource path="res://weapons/weapon_stats/ranged_weapon_stats.gd" type="Script" id=9]
+[ext_resource path="res://mods/weapons/ranged/clone/clone_projectile/clone_projectile.tscn" type="PackedScene" id=10]
+[ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_stats.tres" type="Resource" id=11]
+
+[sub_resource type="Resource" id=1]
+script = ExtResource( 9 )
+cooldown = 20
+damage = 35
+accuracy = 1.0
+crit_chance = 0.03
+crit_damage = 2.0
+min_range = 0
+max_range = 175
+knockback = 10
+effect_scale = 1.0
+scaling_stats = [ [ "stat_ranged_damage", 1.0 ], [ "stat_elemental_damage", 0.5 ] ]
+lifesteal = 0.0
+shooting_sounds = [ ExtResource( 7 ), ExtResource( 6 ), ExtResource( 8 ) ]
+sound_db_mod = -5
+is_healing = false
+custom_on_cooldown_sprite = ExtResource( 3 )
+recoil = 40
+recoil_duration = 0.1
+nb_projectiles = 1
+projectile_spread = 0.0
+piercing = 0
+piercing_dmg_reduction = 0.5
+bounce = 0
+bounce_dmg_reduction = 0.5
+projectile_speed = 2000
+increase_projectile_speed_with_range = false
+projectile_scene = ExtResource( 10 )
 
 [resource]
 script = ExtResource( 1 )
 my_id = "weapon_clone_4"
 unlocked_by_default = true
 icon = ExtResource( 2 )
-name = "Clone"
+name = "Clones"
 tier = 3
 value = 122
 effects = [ ExtResource( 4 ) ]
@@ -19,4 +54,5 @@ weapon_id = "weapon_clone"
 type = 1
 weapon_classes = [ 7 ]
 scene = ExtResource( 5 )
-stats = ExtResource( 3 )
+stats = SubResource( 1 )
+upgrades_into = ExtResource( 11 )

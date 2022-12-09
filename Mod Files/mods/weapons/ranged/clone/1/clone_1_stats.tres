@@ -5,17 +5,17 @@
 [ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_01.wav" type="AudioStream" id=3]
 [ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_02.wav" type="AudioStream" id=4]
 [ext_resource path="res://weapons/melee_sounds/whoosh_swish_small_harsh_03.wav" type="AudioStream" id=5]
-[ext_resource path="res://mods/weapons/ranged/clone/clone_inactive.png" type="Texture" id=6]
+[ext_resource path="res://mods/weapons/ranged/clone/clone_x1_inactive.png" type="Texture" id=6]
 
 [resource]
 script = ExtResource( 1 )
 cooldown = 45
-damage = 10
+damage = 8
 accuracy = 1.0
 crit_chance = 0.03
 crit_damage = 2.0
 min_range = 0
-max_range = 175
+max_range = 300
 knockback = 10
 effect_scale = 1.0
 scaling_stats = [ [ "stat_melee_damage", 0.3 ], [ "stat_ranged_damage", 0.3 ], [ "stat_elemental_damage", 0.3 ], [ "stat_engineering", 0.3 ] ]
