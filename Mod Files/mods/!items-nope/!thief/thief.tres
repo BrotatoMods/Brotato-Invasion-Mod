@@ -1,0 +1,20 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods/!items-nope/!thief/thief_effect_2.tres" type="Resource" id=1]
+[ext_resource path="res://mods/!items-nope/!thief/thief_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://mods/!items-nope/!thief/thief.png" type="Texture" id=3]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
+
+[resource]
+script = ExtResource( 4 )
+my_id = "item_thief"
+unlocked_by_default = true
+icon = ExtResource( 3 )
+name = "Thief"
+tier = 0
+value = 30
+effects = [ ExtResource( 2 ), ExtResource( 1 ) ]
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_harvesting" ]

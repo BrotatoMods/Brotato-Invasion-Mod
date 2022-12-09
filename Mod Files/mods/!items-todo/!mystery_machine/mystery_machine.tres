@@ -1,0 +1,20 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods/!items-todo/!mystery_machine/mystery_machine.png" type="Texture" id=1]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
+[ext_resource path="res://mods/!items-todo/!mystery_machine/mystery_machine_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://mods/!items-todo/!mystery_machine/mystery_machine_effect_1.tres" type="Resource" id=4]
+
+[resource]
+script = ExtResource( 2 )
+my_id = "item_mystery_machine"
+unlocked_by_default = true
+icon = ExtResource( 1 )
+name = "Mystery Machine"
+tier = 0
+value = 15
+effects = [ ExtResource( 4 ), ExtResource( 3 ) ]
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_max_hp", "stat_hp_regeneration" ]

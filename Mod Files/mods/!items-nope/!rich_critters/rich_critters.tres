@@ -1,0 +1,20 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods/!items-nope/!rich_critters/rich_critters_effect_2.tres" type="Resource" id=1]
+[ext_resource path="res://mods/!items-nope/!rich_critters/rich_critters_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://mods/!items-nope/!rich_critters/rich_critters.png" type="Texture" id=3]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
+
+[resource]
+script = ExtResource( 4 )
+my_id = "item_rich_critters"
+unlocked_by_default = true
+icon = ExtResource( 3 )
+name = "Rich Critters"
+tier = 2
+value = 50
+effects = [ ExtResource( 2 ), ExtResource( 1 ) ]
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_lifesteal" ]
