@@ -13,7 +13,7 @@ To use it, set up a Brotato.pck file that's using dami's script. ATOW there are 
 - [DebugLoader](https://github.com/ithinkandicode/Brotato-DebugLoader/releases) (wiki page [here](https://brotato.wiki.spellsandguns.com/Mod:DebugLoader))
 - [dami's Arsenal](https://brotato.wiki.spellsandguns.com/Mod:Dami%27s_Arsenal)
 
-One that's set up, add a fodler named *mods* to the Brotato game folder, and drop this mod's ZIP into *mods*.
+One that's set up, add a folder named *mods* to the Brotato game folder, and drop this mod's ZIP into *mods*.
 
 ## Links
 
