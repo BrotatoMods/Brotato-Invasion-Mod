@@ -11,7 +11,7 @@ Invasion uses dami's multi mod support script. This means it's distributed as a 
 To use it, set up a Brotato.pck file that's using dami's script. ATOW there are two pre-compiled builds available in these mods:
 
 - [DebugLoader](https://github.com/ithinkandicode/Brotato-DebugLoader/releases) (wiki page [here](https://brotato.wiki.spellsandguns.com/Mod:DebugLoader))
-- [dami's Aresnal](https://brotato.wiki.spellsandguns.com/Mod:Dami%27s_Arsenal)
+- [dami's Arsenal](https://brotato.wiki.spellsandguns.com/Mod:Dami%27s_Arsenal)
 
 One that's set up, add a fodler named *mods* to the Brotato game folder, and drop this mod's ZIP into *mods*.
 
