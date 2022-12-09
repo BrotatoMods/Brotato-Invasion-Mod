@@ -4,7 +4,7 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_hp_regen"
+key = "stat_hp_regeneration"
 text_key = ""
 value = 1
 effect_sign = 3
