@@ -18,6 +18,6 @@ effects = [ ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ) ]
 has_gameplay_modifications = false
 tracking_text = ""
 unique = false
-max_nb = 2
+max_nb = -1
 item_appearances = [  ]
 tags = [ "stat_harvesting" ]

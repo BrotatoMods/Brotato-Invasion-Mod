@@ -4,7 +4,7 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_life_steal"
+key = "stat_lifesteal"
 text_key = ""
 value = -2
 effect_sign = 3

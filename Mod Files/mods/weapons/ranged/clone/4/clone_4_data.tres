@@ -1,7 +1,8 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=6 format=2]
 
 [ext_resource path="res://items/global/weapon_data.gd" type="Script" id=1]
 [ext_resource path="res://mods/weapons/ranged/clone/clone_icon.png" type="Texture" id=2]
+[ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_effect_1.tres" type="Resource" id=3]
 [ext_resource path="res://mods/weapons/ranged/clone/clone_x4.tscn" type="PackedScene" id=5]
 [ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_stats.tres" type="Resource" id=11]
 
@@ -13,7 +14,7 @@ icon = ExtResource( 2 )
 name = "Clone"
 tier = 3
 value = 122
-effects = [  ]
+effects = [ ExtResource( 3 ) ]
 has_gameplay_modifications = false
 tracking_text = ""
 weapon_id = "weapon_clone"

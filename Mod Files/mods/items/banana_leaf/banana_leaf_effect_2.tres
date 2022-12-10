@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_harvesting"
+key = "stat_crit_chance"
 text_key = ""
-value = 15
+value = -1
 effect_sign = 3
 arg_signs = [  ]
