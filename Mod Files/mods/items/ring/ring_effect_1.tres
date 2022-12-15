@@ -6,5 +6,6 @@
 script = ExtResource( 1 )
 key = "chance_double_gold"
 text_key = "effect_chance_double_gold"
-value = 10
+value = 15
 effect_sign = 3
+arg_signs = [  ]

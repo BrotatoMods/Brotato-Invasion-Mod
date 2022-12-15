@@ -1,0 +1,25 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=1]
+[ext_resource path="res://mods/weapons/ranged/metal_cannon/metal_cannon_icon.png" type="Texture" id=2]
+[ext_resource path="res://mods/weapons/ranged/metal_cannon/metal_cannon.tscn" type="PackedScene" id=3]
+[ext_resource path="res://mods/weapons/ranged/metal_cannon/3/metal_cannon_3_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods/weapons/ranged/metal_cannon/2/metal_cannon_2_stats.tres" type="Resource" id=5]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "weapon_pistol_2"
+unlocked_by_default = true
+icon = ExtResource( 2 )
+name = "WEAPON_PISTOL"
+tier = 1
+value = 22
+effects = [  ]
+has_gameplay_modifications = false
+tracking_text = ""
+weapon_id = "weapon_pistol"
+type = 1
+weapon_classes = [ 0 ]
+scene = ExtResource( 3 )
+stats = ExtResource( 5 )
+upgrades_into = ExtResource( 4 )

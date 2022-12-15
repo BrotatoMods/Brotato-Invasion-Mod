@@ -8,3 +8,4 @@ key = "free_rerolls"
 text_key = "EFFECT_FREE_SHOP_REROLL"
 value = 3
 effect_sign = 3
+arg_signs = [  ]

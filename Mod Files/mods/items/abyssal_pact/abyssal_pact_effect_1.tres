@@ -8,3 +8,4 @@ key = "stat_lifesteal"
 text_key = ""
 value = 25
 effect_sign = 3
+arg_signs = [  ]

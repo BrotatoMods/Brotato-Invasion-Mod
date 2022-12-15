@@ -8,3 +8,4 @@ key = "items_price"
 text_key = ""
 value = -20
 effect_sign = 0
+arg_signs = [  ]

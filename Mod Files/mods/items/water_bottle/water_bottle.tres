@@ -9,16 +9,16 @@
 
 [resource]
 script = ExtResource( 2 )
-my_id = "item_water_bottle"
+my_id = "item_waffle"
 unlocked_by_default = true
 icon = ExtResource( 1 )
 name = "Water Bottle"
 tier = 1
-value = 30
+value = 45
 effects = [ ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 6 ) ]
 has_gameplay_modifications = false
 tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_max_hp", "stat_harvesting", "pickup" ]
+tags = [ "stat_max_hp", "stat_harvesting", "luck" ]

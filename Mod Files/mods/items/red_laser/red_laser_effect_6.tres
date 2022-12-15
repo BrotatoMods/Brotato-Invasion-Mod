@@ -6,5 +6,6 @@
 script = ExtResource( 1 )
 key = "stat_dodge"
 text_key = ""
-value = -22
+value = -20
 effect_sign = 3
+arg_signs = [  ]

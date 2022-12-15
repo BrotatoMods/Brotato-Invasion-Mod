@@ -21,4 +21,4 @@ tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_ranged_damage", "stat_luck" ]
+tags = [ "stat_ranged_damage", "stat_elemental_damage", "stat_luck" ]

@@ -1,0 +1,35 @@
+[gd_resource type="Resource" load_steps=7 format=2]
+
+[ext_resource path="res://weapons/weapon_stats/ranged_weapon_stats.gd" type="Script" id=1]
+[ext_resource path="res://weapons/ranged/pistol/gun_pistol_shot_04.wav" type="AudioStream" id=2]
+[ext_resource path="res://weapons/ranged/pistol/gun_pistol_shot_03.wav" type="AudioStream" id=3]
+[ext_resource path="res://weapons/ranged/pistol/gun_pistol_shot_01.wav" type="AudioStream" id=4]
+[ext_resource path="res://weapons/ranged/pistol/gun_pistol_shot_02.wav" type="AudioStream" id=5]
+[ext_resource path="res://weapons/ranged/pistol/gun_pistol_shot_05.wav" type="AudioStream" id=6]
+
+[resource]
+script = ExtResource( 1 )
+cooldown = 60
+damage = 12
+accuracy = 0.9
+crit_chance = 0.03
+crit_damage = 2.0
+min_range = 0
+max_range = 400
+knockback = 15
+effect_scale = 1.0
+scaling_stats = [ [ "stat_ranged_damage", 0.2 ], [ "stat_armor", 1.5 ] ]
+lifesteal = 0.0
+shooting_sounds = [ ExtResource( 4 ), ExtResource( 5 ), ExtResource( 3 ), ExtResource( 2 ), ExtResource( 6 ) ]
+sound_db_mod = -10
+is_healing = false
+recoil = 25
+recoil_duration = 0.1
+nb_projectiles = 1
+projectile_spread = 0.0
+piercing = 1
+piercing_dmg_reduction = 0.5
+bounce = 0
+bounce_dmg_reduction = 0.5
+projectile_speed = 3000
+increase_projectile_speed_with_range = false

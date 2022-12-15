@@ -6,5 +6,6 @@
 script = ExtResource( 1 )
 key = "stat_range"
 text_key = ""
-value = 90
+value = 60
 effect_sign = 3
+arg_signs = [  ]

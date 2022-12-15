@@ -4,7 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_melee_damage"
+key = "enemy_speed"
 text_key = ""
-value = 1
-effect_sign = 3
+value = 2
+effect_sign = 1
+arg_signs = [  ]
