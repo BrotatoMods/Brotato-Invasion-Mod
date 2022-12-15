@@ -9,7 +9,7 @@
 
 [resource]
 script = ExtResource( 2 )
-my_id = "item_waffle"
+my_id = "item_water_bottle"
 unlocked_by_default = true
 icon = ExtResource( 1 )
 name = "Water Bottle"

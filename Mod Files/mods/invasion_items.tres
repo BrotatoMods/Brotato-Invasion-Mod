@@ -1,4 +1,4 @@
-[gd_resource type="Resource" load_steps=92 format=2]
+[gd_resource type="Resource" load_steps=93 format=2]
 
 [ext_resource path="res://mods/items/baby_clothes/baby_clothes.tres" type="Resource" id=1]
 [ext_resource path="res://mods/items/ball_and_chain/ball_and_chain.tres" type="Resource" id=2]
@@ -79,6 +79,7 @@
 [ext_resource path="res://mods/items/outfit_metal_plate/outfit_metal_plate.tres" type="Resource" id=77]
 [ext_resource path="res://mods/items/spiky_head/spiky_head.tres" type="Resource" id=78]
 [ext_resource path="res://mods/items/decaying_bodies/decaying_bodies.tres" type="Resource" id=79]
+[ext_resource path="res://mods/items/water_bottle/water_bottle.tres" type="Resource" id=80]
 [ext_resource path="res://mods/items/small_hand/small_hand.tres" type="Resource" id=83]
 [ext_resource path="res://mods/items/z_info/invasion_info.tres" type="Resource" id=86]
 [ext_resource path="res://mods/items/waffle_enhanced/waffle_enhanced.tres" type="Resource" id=87]
@@ -94,7 +95,7 @@
 
 [resource]
 script = ExtResource( 23 )
-items = [ ExtResource( 1 ), ExtResource( 3 ), ExtResource( 5 ), ExtResource( 4 ), ExtResource( 6 ), ExtResource( 7 ), ExtResource( 2 ), ExtResource( 19 ), ExtResource( 15 ), ExtResource( 12 ), ExtResource( 21 ), ExtResource( 17 ), ExtResource( 10 ), ExtResource( 13 ), ExtResource( 9 ), ExtResource( 18 ), ExtResource( 14 ), ExtResource( 53 ), ExtResource( 11 ), ExtResource( 22 ), ExtResource( 20 ), ExtResource( 8 ), ExtResource( 34 ), ExtResource( 16 ), ExtResource( 98 ), ExtResource( 90 ), ExtResource( 41 ), ExtResource( 91 ), ExtResource( 95 ), ExtResource( 92 ), ExtResource( 32 ), ExtResource( 93 ), ExtResource( 97 ), ExtResource( 27 ), ExtResource( 26 ), ExtResource( 50 ), ExtResource( 39 ), ExtResource( 42 ), ExtResource( 37 ), ExtResource( 28 ), ExtResource( 40 ), ExtResource( 30 ), ExtResource( 31 ), ExtResource( 33 ), ExtResource( 36 ), ExtResource( 43 ), ExtResource( 44 ), ExtResource( 46 ), ExtResource( 25 ), ExtResource( 38 ), ExtResource( 45 ), ExtResource( 29 ), ExtResource( 35 ), ExtResource( 61 ), ExtResource( 64 ), ExtResource( 62 ), ExtResource( 47 ), ExtResource( 57 ), ExtResource( 59 ), ExtResource( 66 ), ExtResource( 54 ), ExtResource( 51 ), ExtResource( 49 ), ExtResource( 48 ), ExtResource( 24 ), ExtResource( 65 ), ExtResource( 52 ), ExtResource( 55 ), ExtResource( 76 ), ExtResource( 83 ), ExtResource( 78 ), ExtResource( 72 ), ExtResource( 89 ), ExtResource( 88 ), ExtResource( 75 ), ExtResource( 74 ), ExtResource( 73 ), ExtResource( 69 ), ExtResource( 70 ), ExtResource( 71 ), ExtResource( 87 ), ExtResource( 86 ), ExtResource( 56 ), ExtResource( 60 ), ExtResource( 58 ), ExtResource( 63 ), ExtResource( 68 ), ExtResource( 77 ), ExtResource( 67 ), ExtResource( 79 ) ]
+items = [ ExtResource( 1 ), ExtResource( 3 ), ExtResource( 5 ), ExtResource( 4 ), ExtResource( 6 ), ExtResource( 7 ), ExtResource( 2 ), ExtResource( 19 ), ExtResource( 15 ), ExtResource( 12 ), ExtResource( 21 ), ExtResource( 17 ), ExtResource( 10 ), ExtResource( 13 ), ExtResource( 9 ), ExtResource( 18 ), ExtResource( 14 ), ExtResource( 53 ), ExtResource( 11 ), ExtResource( 22 ), ExtResource( 20 ), ExtResource( 8 ), ExtResource( 34 ), ExtResource( 16 ), ExtResource( 98 ), ExtResource( 90 ), ExtResource( 41 ), ExtResource( 91 ), ExtResource( 95 ), ExtResource( 92 ), ExtResource( 32 ), ExtResource( 93 ), ExtResource( 97 ), ExtResource( 27 ), ExtResource( 26 ), ExtResource( 50 ), ExtResource( 39 ), ExtResource( 42 ), ExtResource( 37 ), ExtResource( 28 ), ExtResource( 40 ), ExtResource( 30 ), ExtResource( 31 ), ExtResource( 33 ), ExtResource( 36 ), ExtResource( 43 ), ExtResource( 44 ), ExtResource( 46 ), ExtResource( 25 ), ExtResource( 38 ), ExtResource( 45 ), ExtResource( 29 ), ExtResource( 35 ), ExtResource( 61 ), ExtResource( 64 ), ExtResource( 62 ), ExtResource( 47 ), ExtResource( 57 ), ExtResource( 59 ), ExtResource( 66 ), ExtResource( 54 ), ExtResource( 51 ), ExtResource( 49 ), ExtResource( 48 ), ExtResource( 24 ), ExtResource( 65 ), ExtResource( 52 ), ExtResource( 55 ), ExtResource( 76 ), ExtResource( 83 ), ExtResource( 78 ), ExtResource( 72 ), ExtResource( 89 ), ExtResource( 88 ), ExtResource( 75 ), ExtResource( 74 ), ExtResource( 73 ), ExtResource( 69 ), ExtResource( 70 ), ExtResource( 71 ), ExtResource( 87 ), ExtResource( 86 ), ExtResource( 56 ), ExtResource( 60 ), ExtResource( 58 ), ExtResource( 63 ), ExtResource( 68 ), ExtResource( 77 ), ExtResource( 67 ), ExtResource( 79 ), ExtResource( 80 ) ]
 weapons = [  ]
 characters = [  ]
 weapons_characters = [  ]
