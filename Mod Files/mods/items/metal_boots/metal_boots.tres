@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods/items/metal_boots/metal_boots_effect_2.tres" type="Resource" id=1]
+[ext_resource path="res://mods/items/metal_boots/metal_boots_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://mods/items/metal_boots/metal_boots.png" type="Texture" id=3]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
+
+[resource]
+script = ExtResource( 4 )
+my_id = "item_metal_boots"
+unlocked_by_default = true
+icon = ExtResource( 3 )
+name = "Metal Boots"
+tier = 2
+value = 70
+effects = [ ExtResource( 2 ), ExtResource( 1 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_armor", "stat_speed" ]
