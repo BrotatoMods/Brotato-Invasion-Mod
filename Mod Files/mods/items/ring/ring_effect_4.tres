@@ -4,8 +4,7 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_harvesting"
+key = "stat_melee_damage"
 text_key = ""
-value = 20
+value = -4
 effect_sign = 3
-arg_signs = [  ]

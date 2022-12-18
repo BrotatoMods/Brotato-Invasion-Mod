@@ -4,7 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_max_hp"
+key = "stat_speed"
 text_key = ""
 value = -5
 effect_sign = 3
+arg_signs = [  ]

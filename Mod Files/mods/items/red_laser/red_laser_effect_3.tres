@@ -6,6 +6,6 @@
 script = ExtResource( 1 )
 key = "stat_engineering"
 text_key = ""
-value = 4
+value = 5
 effect_sign = 3
 arg_signs = [  ]
