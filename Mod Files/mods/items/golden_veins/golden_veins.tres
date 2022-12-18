@@ -21,4 +21,4 @@ tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_harvesting" ]
+tags = [ "stat_melee_damage", "stat_harvesting" ]

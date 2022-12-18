@@ -18,4 +18,4 @@ tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [  ]
+tags = [ "modinfo" ]

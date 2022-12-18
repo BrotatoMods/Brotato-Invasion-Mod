@@ -21,4 +21,4 @@ tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_max_hp", "stat_speed" ]
+tags = [ "stat_max_hp", "stat_engineering", "stat_speed" ]

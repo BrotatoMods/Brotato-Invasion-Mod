@@ -20,4 +20,4 @@ tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_percent_damage", "more_enemies", "less_enemy_speed" ]
+tags = [ "stat_percent_damage", "less_enemy_speed", "more_enemies" ]

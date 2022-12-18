@@ -20,4 +20,4 @@ tracking_text = ""
 unique = true
 max_nb = -1
 item_appearances = [  ]
-tags = [ "economy", "stat_harvesting" ]
+tags = [ "economy", "stat_luck" ]

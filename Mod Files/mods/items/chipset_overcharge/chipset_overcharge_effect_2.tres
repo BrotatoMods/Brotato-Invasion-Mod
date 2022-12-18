@@ -8,3 +8,4 @@ key = "stat_armor"
 text_key = ""
 value = -5
 effect_sign = 3
+arg_signs = [  ]

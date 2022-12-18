@@ -23,4 +23,4 @@ tracking_text = ""
 unique = false
 max_nb = 2
 item_appearances = [  ]
-tags = [ "stat_engineering", "stat_hp_regeneration" ]
+tags = [ "stat_engineering", "stat_elemental_damage", "stat_hp_regeneration", "xp_gain" ]
