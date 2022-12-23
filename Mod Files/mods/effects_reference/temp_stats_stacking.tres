@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://effects/items/stat_effect.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+key = "stat_percent_damage"
+text_key = "effect_stack_stat"
+value = 5
+effect_sign = 3
+arg_signs = [  ]
+effect_key = "temp_stats_stacking"
