@@ -1,12 +1,13 @@
 [gd_resource type="Resource" load_steps=2 format=2]
 
-[ext_resource path="res://effects/items/stat_effect.gd" type="Script" id=1]
+[ext_resource path="res://effects/items/gain_stat_for_every_stat_effect.gd" type="Script" id=1]
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_armor"
-text_key = "EFFECT_GAIN_STAT_END_OF_WAVE"
-value = 1
-effect_sign = 3
-arg_signs = [  ]
-effect_key = "stats_end_of_wave"
+key = "stat_dodge"
+text_key = "effect_gain_stat_for_every_stat"
+value = 2
+effect_sign = 4
+arg_signs = [ 0, 0, 0, 0, 5 ]
+nb_stat_scaled = 1
+stat_scaled = "stat_armor"

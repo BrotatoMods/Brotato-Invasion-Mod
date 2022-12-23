@@ -1,9 +1,8 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=4 format=2]
 
 [ext_resource path="res://mods/items/banana_leaf/banana_leaf.png" type="Texture" id=1]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
 [ext_resource path="res://mods/items/banana_leaf/banana_leaf_effect_1.tres" type="Resource" id=3]
-[ext_resource path="res://mods/items/banana_leaf/banana_leaf_effect_2.tres" type="Resource" id=4]
 
 [resource]
 script = ExtResource( 2 )
@@ -11,9 +10,9 @@ my_id = "item_banana_leaf"
 unlocked_by_default = true
 icon = ExtResource( 1 )
 name = "Banana Leaf"
-tier = 0
-value = 20
-effects = [ ExtResource( 3 ), ExtResource( 4 ) ]
+tier = 1
+value = 40
+effects = [ ExtResource( 3 ) ]
 has_gameplay_modifications = false
 tracking_text = ""
 unique = false

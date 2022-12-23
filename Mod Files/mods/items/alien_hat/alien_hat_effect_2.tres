@@ -5,8 +5,8 @@
 [resource]
 script = ExtResource( 1 )
 key = "stat_armor"
-text_key = "effect_gain_stat_end_of_wave"
-value = 1
+text_key = "effect_stack_stat"
+value = -1
 effect_sign = 3
 arg_signs = [  ]
-effect_key = "stats_end_of_wave"
+effect_key = "temp_stats_stacking"

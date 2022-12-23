@@ -4,9 +4,9 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "knockback"
-text_key = "effect_on_hit"
-value = 1
+key = "stat_attack_speed"
+text_key = "effect_stack_stat"
+value = 4
 effect_sign = 3
 arg_signs = [  ]
-effect_key = "temp_stats_on_hit"
+effect_key = "temp_stats_stacking"

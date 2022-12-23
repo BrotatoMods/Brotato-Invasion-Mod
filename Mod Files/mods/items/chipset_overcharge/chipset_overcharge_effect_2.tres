@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_armor"
+key = "stat_engineering"
 text_key = ""
-value = -5
+value = 2
 effect_sign = 3
 arg_signs = [  ]
