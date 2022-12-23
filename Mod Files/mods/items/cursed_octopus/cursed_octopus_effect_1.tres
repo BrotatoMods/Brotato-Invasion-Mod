@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://effects/items/unique_weapon_effect.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+key = "stat_range"
+text_key = "EFFECT_UNIQUE_WEAPON_BONUS"
+value = 20
+effect_sign = 4
+arg_signs = [ 0, 0, 5 ]
+effect_key = "unique_weapon_effects"

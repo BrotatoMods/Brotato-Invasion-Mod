@@ -1,0 +1,21 @@
+[gd_resource type="Resource" load_steps=4 format=2]
+
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=1]
+[ext_resource path="res://mods/items/pet_food/pet_food.png" type="Texture" id=2]
+[ext_resource path="res://mods/items/pet_food/pet_food_effect_1.tres" type="Resource" id=3]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "item_pet_food"
+unlocked_by_default = true
+icon = ExtResource( 2 )
+name = "Pet Food"
+tier = 0
+value = 15
+effects = [ ExtResource( 3 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_engineering" ]
