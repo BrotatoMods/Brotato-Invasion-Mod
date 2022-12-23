@@ -2,6 +2,13 @@
 
 Showing most recent changes first.
 
+- [0.4.0-alpha (Critters)](#040-alpha-critters)
+- [0.3.0-alpha (Shields)](#030-alpha-shields)
+- [0.2.0-alpha (Armor Pieces)](#020-alpha-armor-pieces)
+- [0.1.1-alpha-fix](#011-alpha-fix)
+- [0.1.1-alpha](#011-alpha)
+- [0.1.0](#010)
+
 ## 0.4.0-alpha (Critters)
 
 - Introduces **critters**: Sacrifice a bit of Harvesting to plant them in the ground, and they'll reward you with bonus stats at the end of each wave.
@@ -36,7 +43,16 @@ Showing most recent changes first.
 
 ### Item Balancing
 
-Thanks to ChristmassyJune for these suggestions (shown in *italics*):
+- All Shields: Now uncommon
+- Alien Hat: Reworked, now gives +atk spd p/sec but costs -armor p/sec (probably OP!)
+- Disgusting: Now uncommon, so you can tailor your build around it sooner.
+- Banana Leaf: Changed to give %Dodge at the end of each wave, now uncommon
+- Lava Balls: Elemental +4 > +3, Max HP -3 > -2
+- Devil Armor: Attack speed per -1 Armor: +3% > +10% (massive buff!)
+- Full Moon: Damage +5% > +8%
+- Hairy Foot: -20 Range > -6% Speed
+
+Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 
 - [View context on Discord](https://discord.com/channels/1050093805363269693/1050096077954633779/1055595281464438824)
 - *Tier: Lotus (could be better being uncommon)* - Common in v0.3
@@ -61,6 +77,12 @@ Thanks to ChristmassyJune for these suggestions (shown in *italics*):
 - *OP: Surgical Bot (too much lifesteal)* - Was reworked in 0.3 to give HP Regen instead
 - *OP: Red Laser* - Was reworked in 0.3
 - *Cost: Brain (good but needs to be cheaper)* - That cost might have been from an older version, reduced cost anyway
+
+### Weapon Balancing
+
+- Nail Bat: Major buffs (cooldown, dmg, Lifesteal scaling)
+- Big Hand: Increased scaling for Max HP
+- Clone: Buffed scaling at higher tiers
 
 ## 0.3.0-alpha (Shields)
 
