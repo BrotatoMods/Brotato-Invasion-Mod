@@ -9,5 +9,5 @@ text_key = "effect_gain_stat_for_every_stat"
 value = 4
 effect_sign = 4
 arg_signs = [ 0, 0, 0, 0, 3 ]
-nb_stat_scaled = -1
+nb_stat_scaled = 1
 stat_scaled = "stat_harvesting"

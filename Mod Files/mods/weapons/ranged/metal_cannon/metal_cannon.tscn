@@ -15,7 +15,7 @@ shader_param/outline_color = Color( 1, 1, 1, 1 )
 resource_local_to_scene = true
 radius = 72.4431
 
-[node name="NuclearLauncher" instance=ExtResource( 3 )]
+[node name="MetalCannon" instance=ExtResource( 3 )]
 script = ExtResource( 4 )
 outline_shader_mat = SubResource( 2 )
 

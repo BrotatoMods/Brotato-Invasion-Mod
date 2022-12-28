@@ -8,18 +8,18 @@
 
 [resource]
 script = ExtResource( 2 )
-my_id = "weapon_pistol_1"
+my_id = "weapon_metal_cannon_1"
 unlocked_by_default = true
 icon = ExtResource( 1 )
-name = "WEAPON_PISTOL"
+name = "WEAPON_METAL_CANNON"
 tier = 0
 value = 10
 effects = [  ]
 has_gameplay_modifications = false
 tracking_text = ""
-weapon_id = "weapon_pistol"
+weapon_id = "weapon_metal_cannon"
 type = 1
-weapon_classes = [ 0 ]
+weapon_classes = [ 2 ]
 scene = ExtResource( 5 )
 stats = ExtResource( 4 )
 upgrades_into = ExtResource( 3 )

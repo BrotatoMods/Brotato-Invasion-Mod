@@ -13,9 +13,10 @@ Showing most recent changes first.
 
 ## 0.5.0-alpha
 
-### New Weapon (1)
+### New Weapons (2)
 
 - Cudgel - Scales with Armor
+- Metal Cannon - Scales with Armor
 
 ### New Items (4)
 

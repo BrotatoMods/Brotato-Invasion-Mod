@@ -48,8 +48,7 @@ func find_negative_stats()->Array:
 		var stat_key = stats[i]
 		var stat_val = RunData.effects[stat_key]
 		var stat_sign = sign(stat_val) # -1 = neg, 0 = zero, 1 = pos
-		print(stat_key + "=" + str(stat_val) + "("+ str(stat_sign) +")")
 		if stat_sign == -1:
 			neg_stats.push_back(stat_key)
-	print(neg_stats)
 	return neg_stats
+

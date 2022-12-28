@@ -4,7 +4,7 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "knockback"
+key = "stat_armor"
 text_key = "effect_on_hit"
 value = 1
 effect_sign = 3

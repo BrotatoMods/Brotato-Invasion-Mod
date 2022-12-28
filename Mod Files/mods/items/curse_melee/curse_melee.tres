@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods/items/curse_melee/curse_melee.png" type="Texture" id=1]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
+[ext_resource path="res://mods/items/curse_melee/curse_melee_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://mods/items/curse_melee/curse_melee_effect_1.tres" type="Resource" id=4]
+
+[resource]
+script = ExtResource( 2 )
+my_id = "item_curse_melee"
+unlocked_by_default = true
+icon = ExtResource( 1 )
+name = "Curse of the Warrior"
+tier = 2
+value = 70
+effects = [ ExtResource( 4 ), ExtResource( 3 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+unique = true
+max_nb = -1
+item_appearances = [  ]
+tags = [ "stat_melee_damage" ]

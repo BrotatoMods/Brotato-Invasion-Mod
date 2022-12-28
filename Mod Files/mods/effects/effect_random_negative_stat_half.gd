@@ -4,7 +4,7 @@ extends Effect
 # value = increase      (translation: 0)
 # key   = affected stat (translation: 1)
 
-const stats = [
+const all_stats = [
 	"stat_max_hp",
 	"stat_armor",
 	"stat_crit_chance",
@@ -48,12 +48,22 @@ func get_args()->Array:
 
 func find_negative_stats()->Array:
 	var neg_stats = []
-	for i in stats.size():
-		var stat_key = stats[i]
+	for i in all_stats.size():
+		var stat_key = all_stats[i]
 		var stat_val = RunData.effects[stat_key]
 		var stat_sign = sign(stat_val) # -1 = neg, 0 = zero, 1 = pos
-		print(stat_key + "=" + str(stat_val) + "("+ str(stat_sign) +")")
 		if stat_sign == -1:
 			neg_stats.push_back(stat_key)
-	print(neg_stats)
 	return neg_stats
+
+# @todo: Use this instead of `find_negative_stats`
+# target_stat_sign: -1 = neg, 0 = zero, 1 = pos
+func find_stats_by_sign(target_stat_sign:int)->Array:
+	var found_stats = []
+	for i in all_stats.size():
+		var stat_key = all_stats[i]
+		var stat_val = RunData.effects[stat_key]
+		var stat_sign = sign(stat_val) # -1 = neg, 0 = zero, 1 = pos
+		if stat_sign == target_stat_sign:
+			found_stats.push_back(stat_key)
+	return found_stats
