@@ -6,7 +6,7 @@
 script = ExtResource( 1 )
 key = "stat_range"
 text_key = "EFFECT_UNIQUE_WEAPON_BONUS"
-value = 20
+value = 30
 effect_sign = 4
 arg_signs = [ 0, 0, 5 ]
 effect_key = "unique_weapon_effects"

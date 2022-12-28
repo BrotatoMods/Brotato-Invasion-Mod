@@ -8,3 +8,4 @@ key = "stat_luck"
 text_key = ""
 value = 15
 effect_sign = 3
+arg_signs = [  ]

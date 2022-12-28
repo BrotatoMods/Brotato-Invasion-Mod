@@ -6,6 +6,6 @@
 script = ExtResource( 1 )
 chance = 1.0
 damage = 5.0
-duration = 3
+duration = 10
 spread = 0
 type = 0

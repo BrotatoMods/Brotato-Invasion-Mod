@@ -6,6 +6,6 @@
 script = ExtResource( 1 )
 key = "bounce_damage"
 text_key = "EFFECT_BOUNCE_DAMAGE_CUSTOM"
-value = 15
+value = 25
 effect_sign = 3
 arg_signs = [  ]

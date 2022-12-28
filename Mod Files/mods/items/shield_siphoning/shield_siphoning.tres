@@ -19,4 +19,4 @@ tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_hp_regeneration", "stat_dodge" ]
+tags = [ "stat_max_hp", "stat_armor" ]

@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_hp_regeneration"
-text_key = ""
-value = 3
+key = "burning_cooldown_reduction"
+text_key = "effect_burning_cooldown_reduction"
+value = 30
 effect_sign = 3
 arg_signs = [  ]

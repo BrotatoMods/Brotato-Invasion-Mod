@@ -4,9 +4,9 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_max_hp"
+key = "stat_dodge"
 text_key = "effect_on_hit"
-value = 2
+value = -25
 effect_sign = 3
 arg_signs = [  ]
 effect_key = "temp_stats_on_hit"

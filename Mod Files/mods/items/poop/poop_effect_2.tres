@@ -1,10 +1,14 @@
 [gd_resource type="Resource" load_steps=2 format=2]
 
-[ext_resource path="res://items/global/effect.gd" type="Script" id=1]
+[ext_resource path="res://mods/effects/effect_multiply_stat.gd" type="Script" id=1]
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_hp_regeneration"
-text_key = ""
-value = 4
-effect_sign = 3
+key = "stat_max_hp"
+text_key = "EFFECT_MULTIPLY_HALF"
+value = 2
+effect_sign = 4
+arg_signs = [ 1, 1, 2, 1 ]
+change_type = 1
+random = false
+random_sign = 1

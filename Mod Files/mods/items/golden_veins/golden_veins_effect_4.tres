@@ -8,3 +8,4 @@ key = "stat_ranged_damage"
 text_key = ""
 value = -3
 effect_sign = 3
+arg_signs = [  ]

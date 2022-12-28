@@ -8,3 +8,4 @@ key = "stat_speed"
 text_key = ""
 value = 2
 effect_sign = 3
+arg_signs = [  ]

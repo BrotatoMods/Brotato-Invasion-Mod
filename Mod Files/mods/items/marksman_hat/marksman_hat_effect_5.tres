@@ -8,3 +8,4 @@ key = "stat_dodge"
 text_key = ""
 value = -12
 effect_sign = 3
+arg_signs = [  ]

@@ -8,3 +8,4 @@ key = "stat_max_hp"
 text_key = ""
 value = 10
 effect_sign = 3
+arg_signs = [  ]

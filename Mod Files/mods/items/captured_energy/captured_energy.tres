@@ -21,6 +21,6 @@ effects = [ ExtResource( 7 ), ExtResource( 6 ), ExtResource( 4 ), ExtResource( 3
 has_gameplay_modifications = false
 tracking_text = ""
 unique = false
-max_nb = 2
+max_nb = -1
 item_appearances = [  ]
 tags = [ "stat_engineering", "stat_elemental_damage", "stat_hp_regeneration", "xp_gain" ]

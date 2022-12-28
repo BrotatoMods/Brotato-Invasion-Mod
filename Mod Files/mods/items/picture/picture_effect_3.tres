@@ -6,5 +6,6 @@
 script = ExtResource( 1 )
 key = "items_price"
 text_key = ""
-value = 15
-effect_sign = 1
+value = -15
+effect_sign = 0
+arg_signs = [  ]

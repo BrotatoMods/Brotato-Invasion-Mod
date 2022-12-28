@@ -6,6 +6,6 @@
 script = ExtResource( 1 )
 key = "enemy_speed"
 text_key = ""
-value = -30
+value = -20
 effect_sign = 0
 arg_signs = [  ]

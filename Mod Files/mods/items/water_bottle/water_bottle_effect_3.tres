@@ -8,3 +8,4 @@ key = "consumable_heal"
 text_key = "effect_consumable_heal"
 value = 1
 effect_sign = 3
+arg_signs = [  ]

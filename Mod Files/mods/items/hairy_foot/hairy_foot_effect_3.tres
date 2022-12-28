@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_dodge"
+key = "items_price"
 text_key = ""
-value = -3
-effect_sign = 3
+value = 2
+effect_sign = 1
 arg_signs = [  ]

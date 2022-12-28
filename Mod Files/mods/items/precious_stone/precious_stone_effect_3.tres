@@ -8,3 +8,4 @@ key = "stat_range"
 text_key = ""
 value = -50
 effect_sign = 3
+arg_signs = [  ]

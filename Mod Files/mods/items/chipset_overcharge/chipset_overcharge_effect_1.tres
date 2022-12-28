@@ -9,5 +9,5 @@ text_key = "EFFECT_GAIN_STAT_FOR_EVERY_STAT"
 value = 2
 effect_sign = 4
 arg_signs = [ 0, 0, 0, 0, 3 ]
-nb_stat_scaled = 2
+nb_stat_scaled = 1
 stat_scaled = "stat_engineering"

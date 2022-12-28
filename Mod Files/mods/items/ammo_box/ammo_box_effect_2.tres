@@ -7,5 +7,5 @@ script = ExtResource( 1 )
 key = "weapons_price"
 text_key = ""
 value = 20
-effect_sign = 3
+effect_sign = 1
 arg_signs = [  ]
