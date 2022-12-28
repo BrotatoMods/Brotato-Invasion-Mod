@@ -2,12 +2,47 @@
 
 Showing most recent changes first.
 
+- [0.5.0-alpha](#050-alpha)
 - [0.4.0-alpha (Critters)](#040-alpha-critters)
 - [0.3.0-alpha (Shields)](#030-alpha-shields)
 - [0.2.0-alpha (Armor Pieces)](#020-alpha-armor-pieces)
 - [0.1.1-alpha-fix](#011-alpha-fix)
 - [0.1.1-alpha](#011-alpha)
 - [0.1.0](#010)
+
+
+## 0.5.0-alpha
+
+### New Weapon (1)
+
+- Cudgel - Scales with Armor
+
+### New Items (4)
+
+| Name | Notes |
+| ---- | ----- |
+| Curse of the Warrior | Shops only sell ranged weapons |
+| Curse of the Ranger  | Shops only sell melee weapons  |
+| Fox           | Trees drop more materials. More trees spawn |
+| Mystery Gift  | Gain 2 random items (can be **any** tier) |
+
+### Changes
+
+- Nearly every item has been rebalanced, thanks to Pétra's excellent suggestions ([view on Discord](https://discord.com/channels/1050093805363269693/1050096077954633779/1056306987572396172))
+
+### Fixes
+
+- Siphoning Shield: Now increases MaxHP instead of HPRegen, because temporary HPRegen increases are ignored by the game
+- Broken Vase: Fix procing when you collect materials, instead of when an enemy dies
+- Broken Vase: Fix crit scaling being ignored (now scales with Luck instead, because it's unfortunately not possible to scale damage with anything except Luck with this effect)
+- Seismic Device: Scale with Luck instead of Engineering, same reason as above
+
+### Credits
+
+- Thanks to RogueAbyss for the Curse of the Warror/Ranger ideas
+- Thanks to Pétra for the huge amount of balance suggestions
+
+
 
 ## 0.4.0-alpha (Critters)
 
@@ -84,6 +119,12 @@ Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 - Big Hand: Increased scaling for Max HP
 - Clone: Buffed scaling at higher tiers
 
+### Notes
+
+- Fruit Bag stats idea from [ArosRising](https://discord.com/channels/630060181086142487/1033154329718292540/1053833206975185027) ("Golden Apple")
+
+
+
 ## 0.3.0-alpha (Shields)
 
 - Preview version, only released on Discord & GitHub
@@ -139,6 +180,7 @@ Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 - Vampirism: Harvesting: -5 > -15
 
 
+
 ## 0.2.0-alpha (Armor Pieces)
 
 - Preview version, only released on Discord & GitHub
@@ -151,10 +193,12 @@ Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 - Thanks to Pétra for many item ideas
 
 
+
 ## 0.1.1-alpha-fix
 
 - Fixed the download for the Mod Loader PCK.
 - Released 2022-12-13 (13th Dec)
+
 
 
 ## 0.1.1-alpha
@@ -162,6 +206,7 @@ Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 - Initial release on the wiki.
 - Lots of balance tweaks and a few fixes. Changelog is here.
 - Released 2022-12-11 (11th Dec)
+
 
 
 ## 0.1.0
