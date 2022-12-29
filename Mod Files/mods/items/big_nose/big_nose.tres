@@ -20,4 +20,4 @@ tracking_text = ""
 unique = true
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_damage" ]
+tags = [ "stat_percent_damage" ]

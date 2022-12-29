@@ -1,0 +1,48 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://projectiles/player_projectile.tscn" type="PackedScene" id=1]
+[ext_resource path="res://projectiles/delayed_player_projectile.gd" type="Script" id=2]
+[ext_resource path="res://mods/weapons/melee/alien_arm/projectile/worm_projectile.png" type="Texture" id=3]
+
+[sub_resource type="Animation" id=1]
+length = 0.001
+
+[sub_resource type="Animation" id=2]
+resource_name = "fire"
+length = 0.1
+step = 0.02
+tracks/0/type = "method"
+tracks/0/path = NodePath(".")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"values": [ {
+"args": [ true ],
+"method": "set_physics_process"
+} ]
+}
+
+[node name="BulletWorm" instance=ExtResource( 1 )]
+script = ExtResource( 2 )
+enable_physics_process = true
+rotation_speed = 0
+
+[node name="Sprite" parent="." index="0"]
+texture = ExtResource( 3 )
+
+[node name="Collision" parent="Hitbox" index="0"]
+position = Vector2( 24, 0 )
+
+[node name="VisibilityNotifier2D" parent="." index="2"]
+position = Vector2( 24, 0 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." index="4"]
+autoplay = "fire"
+anims/RESET = SubResource( 1 )
+anims/fire = SubResource( 2 )
+
+[editable path="Hitbox"]

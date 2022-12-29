@@ -6,8 +6,8 @@
 script = ExtResource( 1 )
 key = "dmg_when_pickup_gold_from_luck"
 text_key = "EFFECT_DEAL_DMG_WHEN_PICKUP_GOLD"
-value = 50
+value = 100
 effect_sign = 3
 arg_signs = [  ]
-chance = 100
+chance = 50
 stat = "stat_luck"

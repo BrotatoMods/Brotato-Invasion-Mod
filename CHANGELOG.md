@@ -2,16 +2,28 @@
 
 Showing most recent changes first.
 
-- [0.5.0-alpha](#050-alpha)
-- [0.4.0-alpha (Critters)](#040-alpha-critters)
-- [0.3.0-alpha (Shields)](#030-alpha-shields)
-- [0.2.0-alpha (Armor Pieces)](#020-alpha-armor-pieces)
-- [0.1.1-alpha-fix](#011-alpha-fix)
-- [0.1.1-alpha](#011-alpha)
+- [0.5.1](#051)
+- [0.5.0](#050)
+- [0.4.0 (Critters)](#040-critters)
+- [0.3.0 (Shields)](#030-shields)
+- [0.2.0 (Armor Pieces)](#020-armor-pieces)
+- [0.1.1-fix](#011-fix)
+- [0.1.1](#011)
 - [0.1.0](#010)
 
 
-## 0.5.0-alpha
+## 0.5.1
+
+- This is a WIP version that doesn't reflect the next version (which will be 0.6).
+- New weapon: Alien Arm. Scales exclusively with MaxHP and HPRegen, and shoots worms.
+  - In theory this is an interesting idea, as you only have 2 stats to level
+  - In play though, it feels underwhelming as focusing on just 2 stats means you miss out on most items
+  - I thought I'd share it anyway so you can try it out. It's still pretty fun, just way too limited.
+- General WIP balance tweaks
+
+
+
+## 0.5.0
 
 ### New Weapons (2)
 
@@ -45,7 +57,7 @@ Showing most recent changes first.
 
 
 
-## 0.4.0-alpha (Critters)
+## 0.4.0 (Critters)
 
 - Introduces **critters**: Sacrifice a bit of Harvesting to plant them in the ground, and they'll reward you with bonus stats at the end of each wave.
 - New Items: Critters (4): *Aggressive Critter, Drugged Critter, Explosive Critter, Rich Critter*
@@ -126,7 +138,7 @@ Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 
 
 
-## 0.3.0-alpha (Shields)
+## 0.3.0 (Shields)
 
 - Preview version, only released on Discord & GitHub
 - Introduces **shields**, which convert some of the damage you take into temporary stats, while also increasing Dodge slightly
@@ -182,7 +194,7 @@ Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 
 
 
-## 0.2.0-alpha (Armor Pieces)
+## 0.2.0 (Armor Pieces)
 
 - Preview version, only released on Discord & GitHub
 - Introduces armor pieces, which give stats based on your current Armor.
@@ -195,14 +207,14 @@ Thanks to ChristmassyJune for these suggestions too: (shown in *italics*)
 
 
 
-## 0.1.1-alpha-fix
+## 0.1.1-fix
 
 - Fixed the download for the Mod Loader PCK.
 - Released 2022-12-13 (13th Dec)
 
 
 
-## 0.1.1-alpha
+## 0.1.1
 
 - Initial release on the wiki.
 - Lots of balance tweaks and a few fixes. Changelog is here.

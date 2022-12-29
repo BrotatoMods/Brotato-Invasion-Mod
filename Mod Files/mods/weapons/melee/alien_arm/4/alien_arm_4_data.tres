@@ -1,0 +1,24 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://mods/weapons/melee/alien_arm/4/alien_arm_4_stats.tres" type="Resource" id=1]
+[ext_resource path="res://mods/weapons/melee/alien_arm/alien_arm_icon.png" type="Texture" id=2]
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=3]
+[ext_resource path="res://mods/weapons/melee/alien_arm/alien_arm.tscn" type="PackedScene" id=4]
+[ext_resource path="res://mods/weapons/melee/alien_arm/4/alien_arm_4_effect_1.tres" type="Resource" id=5]
+
+[resource]
+script = ExtResource( 3 )
+my_id = "weapon_alien_arm_4"
+unlocked_by_default = true
+icon = ExtResource( 2 )
+name = "WEAPON_ALIEN_ARM"
+tier = 3
+value = 20
+effects = [ ExtResource( 5 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+weapon_id = "weapon_alien_arm"
+type = 0
+weapon_classes = [ 1 ]
+scene = ExtResource( 4 )
+stats = ExtResource( 1 )
