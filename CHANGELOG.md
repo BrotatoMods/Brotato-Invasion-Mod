@@ -2,6 +2,7 @@
 
 Showing most recent changes first.
 
+- [0.6.0](#060)
 - [0.5.1](#051)
 - [0.5.0](#050)
 - [0.4.0 (Critters)](#040-critters)
@@ -10,6 +11,18 @@ Showing most recent changes first.
 - [0.1.1-fix](#011-fix)
 - [0.1.1](#011)
 - [0.1.0](#010)
+
+## 0.6.0
+
+## New Weapons
+
+- Alien Arm (Melee)
+	- Spawns worms on hit
+	- Scales with HP Regeneration
+- Demon Stick (Ranged)
+	- Bounces on crit
+	- Scales with HP Regeneration
+
 
 
 ## 0.5.1
