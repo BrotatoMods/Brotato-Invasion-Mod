@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/syringe_icon.png-2955b357c293bd23f4ee113c560989f9.stex"
+path="res://Darkly77-Invasion/_import/syringe_icon.png-953e0eb7bcb336e75c8dbe22d53dd58b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/syringe/syringe_icon.png"
-dest_files=[ "res://.import/syringe_icon.png-2955b357c293bd23f4ee113c560989f9.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/melee/syringe/syringe_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/syringe_icon.png-953e0eb7bcb336e75c8dbe22d53dd58b.stex" ]
 
 [params]
 

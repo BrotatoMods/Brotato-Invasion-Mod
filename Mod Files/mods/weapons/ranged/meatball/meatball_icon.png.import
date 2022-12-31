@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/meatball_icon.png-d02e256e0c53be6a0669ccadba7eef13.stex"
+path="res://Darkly77-Invasion/_import/meatball_icon.png-30370a23d17fcd36a15bcf06b564a389.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/meatball/meatball_icon.png"
-dest_files=[ "res://.import/meatball_icon.png-d02e256e0c53be6a0669ccadba7eef13.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/ranged/meatball/meatball_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/meatball_icon.png-30370a23d17fcd36a15bcf06b564a389.stex" ]
 
 [params]
 

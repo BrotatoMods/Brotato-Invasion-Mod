@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/big_hand.png-726ad43eb40cabe9a11a68f382768aa6.stex"
+path="res://Darkly77-Invasion/_import/big_hand.png-3468bd06e04a02370d4c39078e7d0d0a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/big_hand/big_hand.png"
-dest_files=[ "res://.import/big_hand.png-726ad43eb40cabe9a11a68f382768aa6.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/melee/big_hand/big_hand.png"
+dest_files=[ "res://Darkly77-Invasion/_import/big_hand.png-3468bd06e04a02370d4c39078e7d0d0a.stex" ]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
-[ext_resource path="res://mods/items/remote_detonator/remote_detonator_stats.tres" type="Resource" id=1]
+[ext_resource path="res://Darkly77-Invasion/mods/items/remote_detonator/remote_detonator_stats.tres" type="Resource" id=1]
 [ext_resource path="res://projectiles/explosion.tscn" type="PackedScene" id=2]
 [ext_resource path="res://effects/items/item_exploding_effect.gd" type="Script" id=3]
 

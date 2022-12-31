@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/captured_energy.png-20b45614dc2a3a602af63dc62f0e0213.stex"
+path="res://Darkly77-Invasion/_import/captured_energy.png-d47400b9d6dee217db1223795059d6f5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/captured_energy/captured_energy.png"
-dest_files=[ "res://.import/captured_energy.png-20b45614dc2a3a602af63dc62f0e0213.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/captured_energy/captured_energy.png"
+dest_files=[ "res://Darkly77-Invasion/_import/captured_energy.png-d47400b9d6dee217db1223795059d6f5.stex" ]
 
 [params]
 

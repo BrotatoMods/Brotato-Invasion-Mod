@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/nail_bat.png-69baf249684a9562ea244bcd76bbc746.stex"
+path="res://Darkly77-Invasion/_import/nail_bat.png-acce5df0d9afc7792b439b4851b78e3b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/nail_bat/nail_bat.png"
-dest_files=[ "res://.import/nail_bat.png-69baf249684a9562ea244bcd76bbc746.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/melee/nail_bat/nail_bat.png"
+dest_files=[ "res://Darkly77-Invasion/_import/nail_bat.png-acce5df0d9afc7792b439b4851b78e3b.stex" ]
 
 [params]
 

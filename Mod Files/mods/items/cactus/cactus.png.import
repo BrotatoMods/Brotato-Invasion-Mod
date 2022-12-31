@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cactus.png-c9537efda32021657b5d92acc0c949f5.stex"
+path="res://Darkly77-Invasion/_import/cactus.png-4a9e3f9da24372ed02d8d5c247d423b8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/cactus/cactus.png"
-dest_files=[ "res://.import/cactus.png-c9537efda32021657b5d92acc0c949f5.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/cactus/cactus.png"
+dest_files=[ "res://Darkly77-Invasion/_import/cactus.png-4a9e3f9da24372ed02d8d5c247d423b8.stex" ]
 
 [params]
 

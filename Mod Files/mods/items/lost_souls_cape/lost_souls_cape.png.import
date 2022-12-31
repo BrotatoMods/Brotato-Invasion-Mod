@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lost_souls_cape.png-8c3baa659a8a9e87af3bd2a44c1c60cc.stex"
+path="res://Darkly77-Invasion/_import/lost_souls_cape.png-f168b4f52e9a92e3d172aaf325727e24.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/lost_souls_cape/lost_souls_cape.png"
-dest_files=[ "res://.import/lost_souls_cape.png-8c3baa659a8a9e87af3bd2a44c1c60cc.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/lost_souls_cape/lost_souls_cape.png"
+dest_files=[ "res://Darkly77-Invasion/_import/lost_souls_cape.png-f168b4f52e9a92e3d172aaf325727e24.stex" ]
 
 [params]
 

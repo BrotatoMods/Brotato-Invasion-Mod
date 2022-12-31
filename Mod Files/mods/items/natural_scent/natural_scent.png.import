@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/natural_scent.png-5cc535046b96b82d2a3de5968a7782a8.stex"
+path="res://Darkly77-Invasion/_import/natural_scent.png-5009ee66d818a8894858ba86bfefb584.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/natural_scent/natural_scent.png"
-dest_files=[ "res://.import/natural_scent.png-5cc535046b96b82d2a3de5968a7782a8.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/natural_scent/natural_scent.png"
+dest_files=[ "res://Darkly77-Invasion/_import/natural_scent.png-5009ee66d818a8894858ba86bfefb584.stex" ]
 
 [params]
 

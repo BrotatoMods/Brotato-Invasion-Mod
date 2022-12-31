@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shield_plasma.png-4d39a9a19d828968a4fccb598185f677.stex"
+path="res://Darkly77-Invasion/_import/shield_plasma.png-5ffd18e8330ca76382606d215d5cdd30.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/shield_plasma/shield_plasma.png"
-dest_files=[ "res://.import/shield_plasma.png-4d39a9a19d828968a4fccb598185f677.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/shield_plasma/shield_plasma.png"
+dest_files=[ "res://Darkly77-Invasion/_import/shield_plasma.png-5ffd18e8330ca76382606d215d5cdd30.stex" ]
 
 [params]
 

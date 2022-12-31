@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outfit_gold_armor.png-5ebf77088a2789d4b8548a05ad29a8c6.stex"
+path="res://Darkly77-Invasion/_import/outfit_gold_armor.png-8e47d8da17ebfc08c1733e7892b19125.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/outfit_gold_armor/outfit_gold_armor.png"
-dest_files=[ "res://.import/outfit_gold_armor.png-5ebf77088a2789d4b8548a05ad29a8c6.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/outfit_gold_armor/outfit_gold_armor.png"
+dest_files=[ "res://Darkly77-Invasion/_import/outfit_gold_armor.png-8e47d8da17ebfc08c1733e7892b19125.stex" ]
 
 [params]
 

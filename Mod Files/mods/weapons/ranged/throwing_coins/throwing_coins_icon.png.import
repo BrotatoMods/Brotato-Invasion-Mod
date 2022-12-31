@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/throwing_coins_icon.png-2e7e4b13b2a97daa59ddae2519a35220.stex"
+path="res://Darkly77-Invasion/_import/throwing_coins_icon.png-9be79ba3c4d69152c8af8f25aac75444.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/throwing_coins/throwing_coins_icon.png"
-dest_files=[ "res://.import/throwing_coins_icon.png-2e7e4b13b2a97daa59ddae2519a35220.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/ranged/throwing_coins/throwing_coins_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/throwing_coins_icon.png-9be79ba3c4d69152c8af8f25aac75444.stex" ]
 
 [params]
 

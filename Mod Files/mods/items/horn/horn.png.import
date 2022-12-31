@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/horn.png-530a55b4feb713a45a8938a8c264b47a.stex"
+path="res://Darkly77-Invasion/_import/horn.png-249556bea9d308e6d990a22d118822ef.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/horn/horn.png"
-dest_files=[ "res://.import/horn.png-530a55b4feb713a45a8938a8c264b47a.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/horn/horn.png"
+dest_files=[ "res://Darkly77-Invasion/_import/horn.png-249556bea9d308e6d990a22d118822ef.stex" ]
 
 [params]
 

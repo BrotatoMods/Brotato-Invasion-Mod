@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/necklace.png-dc548af7cf531215c58b18e10d268f14.stex"
+path="res://Darkly77-Invasion/_import/necklace.png-77cf3cecc0428fb5109d575f6ab06828.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/necklace/necklace.png"
-dest_files=[ "res://.import/necklace.png-dc548af7cf531215c58b18e10d268f14.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/necklace/necklace.png"
+dest_files=[ "res://Darkly77-Invasion/_import/necklace.png-77cf3cecc0428fb5109d575f6ab06828.stex" ]
 
 [params]
 

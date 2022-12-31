@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lava_balls.png-7e8645015c66c50c064976a3c2ff3278.stex"
+path="res://Darkly77-Invasion/_import/lava_balls.png-5adb694469425cf1e9cb0ef18cc4ec89.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/lava_balls/lava_balls.png"
-dest_files=[ "res://.import/lava_balls.png-7e8645015c66c50c064976a3c2ff3278.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/lava_balls/lava_balls.png"
+dest_files=[ "res://Darkly77-Invasion/_import/lava_balls.png-5adb694469425cf1e9cb0ef18cc4ec89.stex" ]
 
 [params]
 

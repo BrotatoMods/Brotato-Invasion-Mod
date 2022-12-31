@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/statuette.png-770a776dd9c3239521baf0f46490a973.stex"
+path="res://Darkly77-Invasion/_import/statuette.png-740a83f156d4ef1d768407661d2fbc06.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/statuette/statuette.png"
-dest_files=[ "res://.import/statuette.png-770a776dd9c3239521baf0f46490a973.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/statuette/statuette.png"
+dest_files=[ "res://Darkly77-Invasion/_import/statuette.png-740a83f156d4ef1d768407661d2fbc06.stex" ]
 
 [params]
 

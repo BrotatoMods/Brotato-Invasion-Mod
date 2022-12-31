@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plasma_grenade_icon.png-1df0d0f645a55fb07e8b9e69ac2515f3.stex"
+path="res://Darkly77-Invasion/_import/plasma_grenade_icon.png-c4f9f746b8ef4bbfd22c49fe4d6358a7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/plasma_grenade/plasma_grenade_icon.png"
-dest_files=[ "res://.import/plasma_grenade_icon.png-1df0d0f645a55fb07e8b9e69ac2515f3.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/ranged/plasma_grenade/plasma_grenade_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/plasma_grenade_icon.png-c4f9f746b8ef4bbfd22c49fe4d6358a7.stex" ]
 
 [params]
 

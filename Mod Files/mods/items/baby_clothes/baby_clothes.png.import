@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/baby_clothes.png-a5a531dede4074a2e4215faa663f8d50.stex"
+path="res://Darkly77-Invasion/_import/baby_clothes.png-31533d54d5924e30952934a8366cbe7d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/baby_clothes/baby_clothes.png"
-dest_files=[ "res://.import/baby_clothes.png-a5a531dede4074a2e4215faa663f8d50.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/baby_clothes/baby_clothes.png"
+dest_files=[ "res://Darkly77-Invasion/_import/baby_clothes.png-31533d54d5924e30952934a8366cbe7d.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/critter_explosive.png-b24b76f341c0816aaa66389aed10a156.stex"
+path="res://Darkly77-Invasion/_import/critter_explosive.png-4ce2b6c5d17fb4cc7351f4fae1af0de4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/critter_explosive/critter_explosive.png"
-dest_files=[ "res://.import/critter_explosive.png-b24b76f341c0816aaa66389aed10a156.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/critter_explosive/critter_explosive.png"
+dest_files=[ "res://Darkly77-Invasion/_import/critter_explosive.png-4ce2b6c5d17fb4cc7351f4fae1af0de4.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/seismic_device.png-ea5a477a04f5d56745f6ba23cc24b980.stex"
+path="res://Darkly77-Invasion/_import/seismic_device.png-a53c6901b445b6fc02ba870ed6bfefd7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/seismic_device/seismic_device.png"
-dest_files=[ "res://.import/seismic_device.png-ea5a477a04f5d56745f6ba23cc24b980.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/seismic_device/seismic_device.png"
+dest_files=[ "res://Darkly77-Invasion/_import/seismic_device.png-a53c6901b445b6fc02ba870ed6bfefd7.stex" ]
 
 [params]
 

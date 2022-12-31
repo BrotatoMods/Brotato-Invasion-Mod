@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barbarian_curse.png-b09673e0e89167268f924db476a691f3.stex"
+path="res://Darkly77-Invasion/_import/barbarian_curse.png-2986bd6cbe9f73266ee52330e1df62f0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/barbarian_curse/barbarian_curse.png"
-dest_files=[ "res://.import/barbarian_curse.png-b09673e0e89167268f924db476a691f3.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/barbarian_curse/barbarian_curse.png"
+dest_files=[ "res://Darkly77-Invasion/_import/barbarian_curse.png-2986bd6cbe9f73266ee52330e1df62f0.stex" ]
 
 [params]
 

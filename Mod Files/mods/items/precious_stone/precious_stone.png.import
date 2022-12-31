@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/precious_stone.png-66d1658bd2ccea41f9ec12fe1cb47097.stex"
+path="res://Darkly77-Invasion/_import/precious_stone.png-b5408f5dbaa5b590810ad263aa6294d0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/precious_stone/precious_stone.png"
-dest_files=[ "res://.import/precious_stone.png-66d1658bd2ccea41f9ec12fe1cb47097.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/precious_stone/precious_stone.png"
+dest_files=[ "res://Darkly77-Invasion/_import/precious_stone.png-b5408f5dbaa5b590810ad263aa6294d0.stex" ]
 
 [params]
 

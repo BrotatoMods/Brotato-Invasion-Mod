@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bolt_gun_icon.png-04eac881b2367d6aaaad2641e8bb1a75.stex"
+path="res://Darkly77-Invasion/_import/bolt_gun_icon.png-5f28514832a845e31c454d6147026ac4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/bolt_gun/bolt_gun_icon.png"
-dest_files=[ "res://.import/bolt_gun_icon.png-04eac881b2367d6aaaad2641e8bb1a75.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/ranged/bolt_gun/bolt_gun_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/bolt_gun_icon.png-5f28514832a845e31c454d6147026ac4.stex" ]
 
 [params]
 

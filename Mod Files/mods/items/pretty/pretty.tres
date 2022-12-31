@@ -1,10 +1,10 @@
 [gd_resource type="Resource" load_steps=6 format=2]
 
-[ext_resource path="res://mods/items/pretty/pretty.png" type="Texture" id=1]
-[ext_resource path="res://mods/items/pretty/pretty_effect_1.tres" type="Resource" id=2]
-[ext_resource path="res://mods/items/pretty/pretty_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://Darkly77-Invasion/mods/items/pretty/pretty.png" type="Texture" id=1]
+[ext_resource path="res://Darkly77-Invasion/mods/items/pretty/pretty_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://Darkly77-Invasion/mods/items/pretty/pretty_effect_2.tres" type="Resource" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
-[ext_resource path="res://mods/items/pretty/pretty_effect_3.tres" type="Resource" id=6]
+[ext_resource path="res://Darkly77-Invasion/mods/items/pretty/pretty_effect_3.tres" type="Resource" id=6]
 
 [resource]
 script = ExtResource( 4 )
@@ -20,4 +20,4 @@ tracking_text = ""
 unique = false
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_luck" ]
+tags = [ "stat_max_hp", "stat_luck" ]

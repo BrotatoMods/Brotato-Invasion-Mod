@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/surgical_bot.png-a39e7b72da8cc9cee28e4e651d849380.stex"
+path="res://Darkly77-Invasion/_import/surgical_bot.png-94fd047d3f7215d8c65704547a6fa563.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/surgical_bot/surgical_bot.png"
-dest_files=[ "res://.import/surgical_bot.png-a39e7b72da8cc9cee28e4e651d849380.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/surgical_bot/surgical_bot.png"
+dest_files=[ "res://Darkly77-Invasion/_import/surgical_bot.png-94fd047d3f7215d8c65704547a6fa563.stex" ]
 
 [params]
 

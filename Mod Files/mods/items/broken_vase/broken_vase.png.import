@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/broken_vase.png-94974e958abcbbf50288e089a7acd242.stex"
+path="res://Darkly77-Invasion/_import/broken_vase.png-54249912921aefa6a8476a934ce6ca47.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/broken_vase/broken_vase.png"
-dest_files=[ "res://.import/broken_vase.png-94974e958abcbbf50288e089a7acd242.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/broken_vase/broken_vase.png"
+dest_files=[ "res://Darkly77-Invasion/_import/broken_vase.png-54249912921aefa6a8476a934ce6ca47.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/horse_shoe.png-54440971a5c971beaa4aca5ec92fd9cf.stex"
+path="res://Darkly77-Invasion/_import/horse_shoe.png-cd7f479cff1c41fce294c3d77d42f5ea.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/horse_shoe/horse_shoe.png"
-dest_files=[ "res://.import/horse_shoe.png-54440971a5c971beaa4aca5ec92fd9cf.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/horse_shoe/horse_shoe.png"
+dest_files=[ "res://Darkly77-Invasion/_import/horse_shoe.png-cd7f479cff1c41fce294c3d77d42f5ea.stex" ]
 
 [params]
 

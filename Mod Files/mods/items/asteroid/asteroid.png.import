@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/asteroid.png-4f5f919e37e74ab644c4a7ee0c1bdb29.stex"
+path="res://Darkly77-Invasion/_import/asteroid.png-c4e4776a249eef73f78bf443ac1e517b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/asteroid/asteroid.png"
-dest_files=[ "res://.import/asteroid.png-4f5f919e37e74ab644c4a7ee0c1bdb29.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/asteroid/asteroid.png"
+dest_files=[ "res://Darkly77-Invasion/_import/asteroid.png-c4e4776a249eef73f78bf443ac1e517b.stex" ]
 
 [params]
 

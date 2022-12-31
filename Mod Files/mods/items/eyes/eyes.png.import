@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/eyes.png-44d0c5260b3db92404394a9ad6dac56d.stex"
+path="res://Darkly77-Invasion/_import/eyes.png-1a6d55b23c7a647c18a2422818b59a81.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/eyes/eyes.png"
-dest_files=[ "res://.import/eyes.png-44d0c5260b3db92404394a9ad6dac56d.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/eyes/eyes.png"
+dest_files=[ "res://Darkly77-Invasion/_import/eyes.png-1a6d55b23c7a647c18a2422818b59a81.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/knowledge.png-9b1f06088c1159b93ed31d867e1bcf23.stex"
+path="res://Darkly77-Invasion/_import/knowledge.png-39c8b7f9d5f4c1399e70707e8c573616.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/knowledge/knowledge.png"
-dest_files=[ "res://.import/knowledge.png-9b1f06088c1159b93ed31d867e1bcf23.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/knowledge/knowledge.png"
+dest_files=[ "res://Darkly77-Invasion/_import/knowledge.png-39c8b7f9d5f4c1399e70707e8c573616.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cudgel_icon.png-c323034d12b938144c042210f493261c.stex"
+path="res://Darkly77-Invasion/_import/cudgel_icon.png-fa9c75f98342ddf0ab4dafa3e0de6fbf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/cudgel/cudgel_icon.png"
-dest_files=[ "res://.import/cudgel_icon.png-c323034d12b938144c042210f493261c.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/melee/cudgel/cudgel_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/cudgel_icon.png-fa9c75f98342ddf0ab4dafa3e0de6fbf.stex" ]
 
 [params]
 

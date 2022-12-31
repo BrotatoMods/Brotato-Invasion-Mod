@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plasma_launcher_icon.png-e917a6a7ce4b97f1f40c7abeaa25093f.stex"
+path="res://Darkly77-Invasion/_import/plasma_launcher_icon.png-4eac4d11c861b2293010cc7352eddd92.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/plasma_launcher/plasma_launcher_icon.png"
-dest_files=[ "res://.import/plasma_launcher_icon.png-e917a6a7ce4b97f1f40c7abeaa25093f.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/ranged/plasma_launcher/plasma_launcher_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/plasma_launcher_icon.png-4eac4d11c861b2293010cc7352eddd92.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/beard.png-24c714adb429ca443a84fc3aa37cf7ee.stex"
+path="res://Darkly77-Invasion/_import/beard.png-d7458b3028333146d9681e037ce34d82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/beard/beard.png"
-dest_files=[ "res://.import/beard.png-24c714adb429ca443a84fc3aa37cf7ee.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/beard/beard.png"
+dest_files=[ "res://Darkly77-Invasion/_import/beard.png-d7458b3028333146d9681e037ce34d82.stex" ]
 
 [params]
 

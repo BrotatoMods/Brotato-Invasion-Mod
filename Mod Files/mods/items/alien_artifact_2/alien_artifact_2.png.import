@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien_artifact_2.png-94b81c7660d659f8269d8cbad376c8bd.stex"
+path="res://Darkly77-Invasion/_import/alien_artifact_2.png-be424573e059cf10cae413f65d7cc9b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/alien_artifact_2/alien_artifact_2.png"
-dest_files=[ "res://.import/alien_artifact_2.png-94b81c7660d659f8269d8cbad376c8bd.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/alien_artifact_2/alien_artifact_2.png"
+dest_files=[ "res://Darkly77-Invasion/_import/alien_artifact_2.png-be424573e059cf10cae413f65d7cc9b6.stex" ]
 
 [params]
 

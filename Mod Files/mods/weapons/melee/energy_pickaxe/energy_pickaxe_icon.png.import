@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/energy_pickaxe_icon.png-6db25d415658600e2e6e81f9baae6fb3.stex"
+path="res://Darkly77-Invasion/_import/energy_pickaxe_icon.png-fa45f137b09e1c9ec746e433a847f5a4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/energy_pickaxe/energy_pickaxe_icon.png"
-dest_files=[ "res://.import/energy_pickaxe_icon.png-6db25d415658600e2e6e81f9baae6fb3.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/melee/energy_pickaxe/energy_pickaxe_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/energy_pickaxe_icon.png-fa45f137b09e1c9ec746e433a847f5a4.stex" ]
 
 [params]
 

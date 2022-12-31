@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pocket_magician.png-033d18f7b298925d630b2b8e2fb2c5bb.stex"
+path="res://Darkly77-Invasion/_import/pocket_magician.png-89146a29361500771ae8bbf0c56d1693.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/pocket_magician/pocket_magician.png"
-dest_files=[ "res://.import/pocket_magician.png-033d18f7b298925d630b2b8e2fb2c5bb.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/pocket_magician/pocket_magician.png"
+dest_files=[ "res://Darkly77-Invasion/_import/pocket_magician.png-89146a29361500771ae8bbf0c56d1693.stex" ]
 
 [params]
 

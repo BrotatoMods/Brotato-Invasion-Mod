@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stitched_bag.png-217cff045b8645ea4224a08a93a42b57.stex"
+path="res://Darkly77-Invasion/_import/stitched_bag.png-d7a914d1bba2dd4d0ec6ab4559ef2d08.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/stitched_bag/stitched_bag.png"
-dest_files=[ "res://.import/stitched_bag.png-217cff045b8645ea4224a08a93a42b57.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/stitched_bag/stitched_bag.png"
+dest_files=[ "res://Darkly77-Invasion/_import/stitched_bag.png-d7a914d1bba2dd4d0ec6ab4559ef2d08.stex" ]
 
 [params]
 

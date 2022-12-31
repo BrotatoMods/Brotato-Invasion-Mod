@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/small_hand.png-181e1eee02d0e588468e1f2c31c07206.stex"
+path="res://Darkly77-Invasion/_import/small_hand.png-81a50bc330aa455709f6df88a4f194bc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/small_hand/small_hand.png"
-dest_files=[ "res://.import/small_hand.png-181e1eee02d0e588468e1f2c31c07206.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/small_hand/small_hand.png"
+dest_files=[ "res://Darkly77-Invasion/_import/small_hand.png-81a50bc330aa455709f6df88a4f194bc.stex" ]
 
 [params]
 

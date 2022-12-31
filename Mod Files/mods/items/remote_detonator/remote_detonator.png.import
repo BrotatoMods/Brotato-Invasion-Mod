@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/remote_detonator.png-5df8d99861dbcf6034c5cc0f711b116b.stex"
+path="res://Darkly77-Invasion/_import/remote_detonator.png-a7d1f5c59c13d7c7f7fdf0a9e0f669fd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/remote_detonator/remote_detonator.png"
-dest_files=[ "res://.import/remote_detonator.png-5df8d99861dbcf6034c5cc0f711b116b.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/remote_detonator/remote_detonator.png"
+dest_files=[ "res://Darkly77-Invasion/_import/remote_detonator.png-a7d1f5c59c13d7c7f7fdf0a9e0f669fd.stex" ]
 
 [params]
 

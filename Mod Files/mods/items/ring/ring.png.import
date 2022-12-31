@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ring.png-9650844b1bc5c283576f74ca9c771873.stex"
+path="res://Darkly77-Invasion/_import/ring.png-52b66ff2dca9760a8de72bc573153a08.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/ring/ring.png"
-dest_files=[ "res://.import/ring.png-9650844b1bc5c283576f74ca9c771873.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/ring/ring.png"
+dest_files=[ "res://Darkly77-Invasion/_import/ring.png-52b66ff2dca9760a8de72bc573153a08.stex" ]
 
 [params]
 

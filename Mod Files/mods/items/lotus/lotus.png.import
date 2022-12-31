@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lotus.png-cccbebd0e1f0d0b85aa7dd6eea618044.stex"
+path="res://Darkly77-Invasion/_import/lotus.png-83938feb4d1bb6ed4d017a4ec850534e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/lotus/lotus.png"
-dest_files=[ "res://.import/lotus.png-cccbebd0e1f0d0b85aa7dd6eea618044.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/lotus/lotus.png"
+dest_files=[ "res://Darkly77-Invasion/_import/lotus.png-83938feb4d1bb6ed4d017a4ec850534e.stex" ]
 
 [params]
 

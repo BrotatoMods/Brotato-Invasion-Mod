@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/energy_fist_icon.png-c504454f14a62dd4ce04570f81b97819.stex"
+path="res://Darkly77-Invasion/_import/energy_fist_icon.png-705a81cb9d8e41e4c60ea03aebd86877.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/energy_fist/energy_fist_icon.png"
-dest_files=[ "res://.import/energy_fist_icon.png-c504454f14a62dd4ce04570f81b97819.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/melee/energy_fist/energy_fist_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/energy_fist_icon.png-705a81cb9d8e41e4c60ea03aebd86877.stex" ]
 
 [params]
 

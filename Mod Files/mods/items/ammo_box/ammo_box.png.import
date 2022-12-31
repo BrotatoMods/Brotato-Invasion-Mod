@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ammo_box.png-018c94b761a38b3bf427c999cf951505.stex"
+path="res://Darkly77-Invasion/_import/ammo_box.png-4fe97864e913330d53e2a0c0b364db37.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/ammo_box/ammo_box.png"
-dest_files=[ "res://.import/ammo_box.png-018c94b761a38b3bf427c999cf951505.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/ammo_box/ammo_box.png"
+dest_files=[ "res://Darkly77-Invasion/_import/ammo_box.png-4fe97864e913330d53e2a0c0b364db37.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/javelin_icon.png-98cc3b33a58ce0699faee71511fc6b94.stex"
+path="res://Darkly77-Invasion/_import/javelin_icon.png-73d2912c5c5dd5b8f56579523836af74.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/javelin/javelin_icon.png"
-dest_files=[ "res://.import/javelin_icon.png-98cc3b33a58ce0699faee71511fc6b94.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/ranged/javelin/javelin_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/javelin_icon.png-73d2912c5c5dd5b8f56579523836af74.stex" ]
 
 [params]
 

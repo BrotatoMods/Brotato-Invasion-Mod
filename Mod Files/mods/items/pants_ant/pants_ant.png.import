@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pants_ant.png-b5a317ebf0d37d013796a3c062beea5f.stex"
+path="res://Darkly77-Invasion/_import/pants_ant.png-5647f2d79e097d6d839a8fb6a39e7b5a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/pants_ant/pants_ant.png"
-dest_files=[ "res://.import/pants_ant.png-b5a317ebf0d37d013796a3c062beea5f.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/pants_ant/pants_ant.png"
+dest_files=[ "res://Darkly77-Invasion/_import/pants_ant.png-5647f2d79e097d6d839a8fb6a39e7b5a.stex" ]
 
 [params]
 

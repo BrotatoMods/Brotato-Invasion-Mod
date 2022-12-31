@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ball_and_chain.png-fd0168b66a54b607ce6e396e5df030b5.stex"
+path="res://Darkly77-Invasion/_import/ball_and_chain.png-42d41f1ccca2e94fd7dbed78a106f296.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/ball_and_chain/ball_and_chain.png"
-dest_files=[ "res://.import/ball_and_chain.png-fd0168b66a54b607ce6e396e5df030b5.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/ball_and_chain/ball_and_chain.png"
+dest_files=[ "res://Darkly77-Invasion/_import/ball_and_chain.png-42d41f1ccca2e94fd7dbed78a106f296.stex" ]
 
 [params]
 

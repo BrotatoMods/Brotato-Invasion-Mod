@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/vampirism.png-d2d4732170dbdbc8c6aeb02bd6dcf944.stex"
+path="res://Darkly77-Invasion/_import/vampirism.png-d38bf3a5c4b56d546eb197ee8f7a5d47.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/vampirism/vampirism.png"
-dest_files=[ "res://.import/vampirism.png-d2d4732170dbdbc8c6aeb02bd6dcf944.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/vampirism/vampirism.png"
+dest_files=[ "res://Darkly77-Invasion/_import/vampirism.png-d38bf3a5c4b56d546eb197ee8f7a5d47.stex" ]
 
 [params]
 

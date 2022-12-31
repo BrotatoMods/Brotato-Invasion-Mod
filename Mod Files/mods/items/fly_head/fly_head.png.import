@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fly_head.png-88626dd39c4f7683179daf0222fe731d.stex"
+path="res://Darkly77-Invasion/_import/fly_head.png-7cd0d7c50a9d4c3f3703e9dcbccf7f7e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/fly_head/fly_head.png"
-dest_files=[ "res://.import/fly_head.png-88626dd39c4f7683179daf0222fe731d.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/fly_head/fly_head.png"
+dest_files=[ "res://Darkly77-Invasion/_import/fly_head.png-7cd0d7c50a9d4c3f3703e9dcbccf7f7e.stex" ]
 
 [params]
 

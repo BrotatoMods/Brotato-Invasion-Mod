@@ -38,7 +38,7 @@ func unapply()->void :
 
 func get_args()->Array:
 	if has_found_items == false:
-		return [green_text(str(value)), "UNUSED", ""]
+		return [ green_text(str(value)), "UNUSED", "???", "???", "???"]
 	else:
 		var items_str = ""
 		for i in items_arr.size():

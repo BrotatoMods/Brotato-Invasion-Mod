@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jacobs_pride.png-e15c184d8dc4b7e4c4f649d6fabc6dbd.stex"
+path="res://Darkly77-Invasion/_import/jacobs_pride.png-4ad9ec394ff8ad2f9171872e9052b143.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/jacobs_pride/jacobs_pride.png"
-dest_files=[ "res://.import/jacobs_pride.png-e15c184d8dc4b7e4c4f649d6fabc6dbd.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/jacobs_pride/jacobs_pride.png"
+dest_files=[ "res://Darkly77-Invasion/_import/jacobs_pride.png-4ad9ec394ff8ad2f9171872e9052b143.stex" ]
 
 [params]
 

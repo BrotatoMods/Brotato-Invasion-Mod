@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/picture.png-614773d543448620b04ef02b3fc1b2d3.stex"
+path="res://Darkly77-Invasion/_import/picture.png-794fe0b351eb038a2177615aaf31c79d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/picture/picture.png"
-dest_files=[ "res://.import/picture.png-614773d543448620b04ef02b3fc1b2d3.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/picture/picture.png"
+dest_files=[ "res://Darkly77-Invasion/_import/picture.png-794fe0b351eb038a2177615aaf31c79d.stex" ]
 
 [params]
 

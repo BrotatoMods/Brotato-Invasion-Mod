@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/marksman_hat.png-7ba05760cfc45d4c5ccc2af4a8727ecd.stex"
+path="res://Darkly77-Invasion/_import/marksman_hat.png-fde581348fa39e26672d970ffa857de5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/marksman_hat/marksman_hat.png"
-dest_files=[ "res://.import/marksman_hat.png-7ba05760cfc45d4c5ccc2af4a8727ecd.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/marksman_hat/marksman_hat.png"
+dest_files=[ "res://Darkly77-Invasion/_import/marksman_hat.png-fde581348fa39e26672d970ffa857de5.stex" ]
 
 [params]
 

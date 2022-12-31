@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coral.png-52ac0e60cb230f5c7e8dd13bcfc0bae9.stex"
+path="res://Darkly77-Invasion/_import/coral.png-91a87a203a41870221f8a6b332e08a2a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/coral/coral.png"
-dest_files=[ "res://.import/coral.png-52ac0e60cb230f5c7e8dd13bcfc0bae9.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/coral/coral.png"
+dest_files=[ "res://Darkly77-Invasion/_import/coral.png-91a87a203a41870221f8a6b332e08a2a.stex" ]
 
 [params]
 

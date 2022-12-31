@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/berserker_mask.png-2cefae34ebff63a409884e7fc0ebabfd.stex"
+path="res://Darkly77-Invasion/_import/berserker_mask.png-9d560b558454e3cb3750c77565e3be27.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/berserker_mask/berserker_mask.png"
-dest_files=[ "res://.import/berserker_mask.png-2cefae34ebff63a409884e7fc0ebabfd.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/berserker_mask/berserker_mask.png"
+dest_files=[ "res://Darkly77-Invasion/_import/berserker_mask.png-9d560b558454e3cb3750c77565e3be27.stex" ]
 
 [params]
 

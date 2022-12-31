@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ogre_helmet.png-297136007b55cf2c3f3c7fb1473857be.stex"
+path="res://Darkly77-Invasion/_import/ogre_helmet.png-d1b930181809ab20eefbaceda30a3591.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/ogre_helmet/ogre_helmet.png"
-dest_files=[ "res://.import/ogre_helmet.png-297136007b55cf2c3f3c7fb1473857be.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/ogre_helmet/ogre_helmet.png"
+dest_files=[ "res://Darkly77-Invasion/_import/ogre_helmet.png-d1b930181809ab20eefbaceda30a3591.stex" ]
 
 [params]
 

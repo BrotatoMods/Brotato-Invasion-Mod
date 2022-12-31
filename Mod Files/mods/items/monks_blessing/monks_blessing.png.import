@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/monks_blessing.png-05001189db258d741715b7df1eab7650.stex"
+path="res://Darkly77-Invasion/_import/monks_blessing.png-18821878e8905d43b63781bf2339feb3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/monks_blessing/monks_blessing.png"
-dest_files=[ "res://.import/monks_blessing.png-05001189db258d741715b7df1eab7650.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/monks_blessing/monks_blessing.png"
+dest_files=[ "res://Darkly77-Invasion/_import/monks_blessing.png-18821878e8905d43b63781bf2339feb3.stex" ]
 
 [params]
 

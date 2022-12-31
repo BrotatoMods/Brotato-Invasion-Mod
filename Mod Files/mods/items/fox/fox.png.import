@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fox.png-f9b02e9bc3f88020966a0b4188821669.stex"
+path="res://Darkly77-Invasion/_import/fox.png-55e096af5d942819cf1fe680f3bf7112.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/fox/fox.png"
-dest_files=[ "res://.import/fox.png-f9b02e9bc3f88020966a0b4188821669.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/fox/fox.png"
+dest_files=[ "res://Darkly77-Invasion/_import/fox.png-55e096af5d942819cf1fe680f3bf7112.stex" ]
 
 [params]
 

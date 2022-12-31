@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/magnificent_egg.png-40ac907747cced57b219627ae232e1c9.stex"
+path="res://Darkly77-Invasion/_import/magnificent_egg.png-439bf9fd834691094adbca9fa6eb1176.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/magnificent_egg/magnificent_egg.png"
-dest_files=[ "res://.import/magnificent_egg.png-40ac907747cced57b219627ae232e1c9.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/magnificent_egg/magnificent_egg.png"
+dest_files=[ "res://Darkly77-Invasion/_import/magnificent_egg.png-439bf9fd834691094adbca9fa6eb1176.stex" ]
 
 [params]
 

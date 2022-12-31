@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/metal_scrapper.png-d0e9a56eb71ef47f479488b4d35ee431.stex"
+path="res://Darkly77-Invasion/_import/metal_scrapper.png-8c928f993373505df82a23b6eaa18cd8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/metal_scrapper/metal_scrapper.png"
-dest_files=[ "res://.import/metal_scrapper.png-d0e9a56eb71ef47f479488b4d35ee431.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/metal_scrapper/metal_scrapper.png"
+dest_files=[ "res://Darkly77-Invasion/_import/metal_scrapper.png-8c928f993373505df82a23b6eaa18cd8.stex" ]
 
 [params]
 

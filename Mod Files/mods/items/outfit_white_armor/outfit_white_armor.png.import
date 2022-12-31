@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outfit_white_armor.png-bfac6fabc78a46f07547bb8c87363878.stex"
+path="res://Darkly77-Invasion/_import/outfit_white_armor.png-c0862b8a55f3746328a719f394ec4f06.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/outfit_white_armor/outfit_white_armor.png"
-dest_files=[ "res://.import/outfit_white_armor.png-bfac6fabc78a46f07547bb8c87363878.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/outfit_white_armor/outfit_white_armor.png"
+dest_files=[ "res://Darkly77-Invasion/_import/outfit_white_armor.png-c0862b8a55f3746328a719f394ec4f06.stex" ]
 
 [params]
 

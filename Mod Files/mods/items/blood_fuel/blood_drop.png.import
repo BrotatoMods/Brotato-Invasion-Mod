@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blood_drop.png-4eb74365458e18436906229c013f8e48.stex"
+path="res://Darkly77-Invasion/_import/blood_drop.png-5b7e628981b1e44281b75bb0982f2179.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/blood_fuel/blood_drop.png"
-dest_files=[ "res://.import/blood_drop.png-4eb74365458e18436906229c013f8e48.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/blood_fuel/blood_drop.png"
+dest_files=[ "res://Darkly77-Invasion/_import/blood_drop.png-5b7e628981b1e44281b75bb0982f2179.stex" ]
 
 [params]
 

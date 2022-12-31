@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shield_coin.png-f5e3a88529761ae94a9b8eb8fa540413.stex"
+path="res://Darkly77-Invasion/_import/shield_coin.png-01ff2449002431b84fc2b7f902d5aa7a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/shield_coin/shield_coin.png"
-dest_files=[ "res://.import/shield_coin.png-f5e3a88529761ae94a9b8eb8fa540413.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/shield_coin/shield_coin.png"
+dest_files=[ "res://Darkly77-Invasion/_import/shield_coin.png-01ff2449002431b84fc2b7f902d5aa7a.stex" ]
 
 [params]
 

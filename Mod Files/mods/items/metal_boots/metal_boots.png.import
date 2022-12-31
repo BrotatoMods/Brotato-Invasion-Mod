@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/metal_boots.png-2429524463f08268a5e5830674ee9abd.stex"
+path="res://Darkly77-Invasion/_import/metal_boots.png-86bafd80741054d6a6c9c95b5343d9b8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/metal_boots/metal_boots.png"
-dest_files=[ "res://.import/metal_boots.png-2429524463f08268a5e5830674ee9abd.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/metal_boots/metal_boots.png"
+dest_files=[ "res://Darkly77-Invasion/_import/metal_boots.png-86bafd80741054d6a6c9c95b5343d9b8.stex" ]
 
 [params]
 

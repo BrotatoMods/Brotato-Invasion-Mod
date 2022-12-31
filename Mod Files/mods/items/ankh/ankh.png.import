@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ankh.png-944f686d98f20426cdb2900b2e26df47.stex"
+path="res://Darkly77-Invasion/_import/ankh.png-a56b30c23ef8ef1880605bb2d3e960ac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/ankh/ankh.png"
-dest_files=[ "res://.import/ankh.png-944f686d98f20426cdb2900b2e26df47.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/ankh/ankh.png"
+dest_files=[ "res://Darkly77-Invasion/_import/ankh.png-a56b30c23ef8ef1880605bb2d3e960ac.stex" ]
 
 [params]
 

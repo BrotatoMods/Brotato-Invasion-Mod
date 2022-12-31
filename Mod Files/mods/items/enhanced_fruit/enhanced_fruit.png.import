@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/enhanced_fruit.png-280231d177ad9fc665bddf9f8725526e.stex"
+path="res://Darkly77-Invasion/_import/enhanced_fruit.png-b9331fb0952cc6fbbc8f5d2256f25ea0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/enhanced_fruit/enhanced_fruit.png"
-dest_files=[ "res://.import/enhanced_fruit.png-280231d177ad9fc665bddf9f8725526e.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/enhanced_fruit/enhanced_fruit.png"
+dest_files=[ "res://Darkly77-Invasion/_import/enhanced_fruit.png-b9331fb0952cc6fbbc8f5d2256f25ea0.stex" ]
 
 [params]
 

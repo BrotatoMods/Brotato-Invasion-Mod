@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien_biofluid.png-139a0be3c4a7c7130a1702c7d452816e.stex"
+path="res://Darkly77-Invasion/_import/alien_biofluid.png-f77df41f9da1cbb91a2c618829aa3ed7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/alien_biofluid/alien_biofluid.png"
-dest_files=[ "res://.import/alien_biofluid.png-139a0be3c4a7c7130a1702c7d452816e.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/alien_biofluid/alien_biofluid.png"
+dest_files=[ "res://Darkly77-Invasion/_import/alien_biofluid.png-f77df41f9da1cbb91a2c618829aa3ed7.stex" ]
 
 [params]
 

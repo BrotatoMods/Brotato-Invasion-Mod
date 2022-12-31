@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/curse_melee.png-b6b4d14836db4686593d9bb40df8c24d.stex"
+path="res://Darkly77-Invasion/_import/curse_melee.png-90d40a97d017bf370a98c2ac064f225d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/curse_melee/curse_melee.png"
-dest_files=[ "res://.import/curse_melee.png-b6b4d14836db4686593d9bb40df8c24d.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/curse_melee/curse_melee.png"
+dest_files=[ "res://Darkly77-Invasion/_import/curse_melee.png-90d40a97d017bf370a98c2ac064f225d.stex" ]
 
 [params]
 

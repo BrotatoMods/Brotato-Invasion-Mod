@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outfit_bronnies_armor.png-8463705a435d47f4245c9720222433b2.stex"
+path="res://Darkly77-Invasion/_import/outfit_bronnies_armor.png-fab63d67a608773cc0b2ca749d32a20d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/outfit_bronnies_armor/outfit_bronnies_armor.png"
-dest_files=[ "res://.import/outfit_bronnies_armor.png-8463705a435d47f4245c9720222433b2.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/outfit_bronnies_armor/outfit_bronnies_armor.png"
+dest_files=[ "res://Darkly77-Invasion/_import/outfit_bronnies_armor.png-fab63d67a608773cc0b2ca749d32a20d.stex" ]
 
 [params]
 

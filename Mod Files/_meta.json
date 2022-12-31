@@ -1,0 +1,11 @@
+{
+  "id": "Darkly77-Invasion",
+  "name": "Invasion",
+  "version": "1.0.0",
+  "compatible_game_version": ["0.6.1.6"],
+  "authors": ["Darkly77"],
+  "description": "Invasion ports items from Blobfish's previous game, Space Gladiators, to Brotato.",
+  "website_url": "https://github.com/BrotatoMods",
+  "dependencies": ["dami-Helper"],
+  "incompatibilities": []
+}

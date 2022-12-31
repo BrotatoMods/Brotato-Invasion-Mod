@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lost_potato.png-1a91810cc2f85b8d819a535b3e0e893f.stex"
+path="res://Darkly77-Invasion/_import/lost_potato.png-4fe2adc3158cc17fbae130ed1b641b39.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/lost_potato/lost_potato.png"
-dest_files=[ "res://.import/lost_potato.png-1a91810cc2f85b8d819a535b3e0e893f.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/lost_potato/lost_potato.png"
+dest_files=[ "res://Darkly77-Invasion/_import/lost_potato.png-4fe2adc3158cc17fbae130ed1b641b39.stex" ]
 
 [params]
 

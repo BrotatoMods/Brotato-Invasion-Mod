@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/voodoo_totem.png-89ffcc1174e336d6c211636d0dc188ff.stex"
+path="res://Darkly77-Invasion/_import/voodoo_totem.png-e5387cfd5a913ddca9335794dd977d4d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/voodoo_totem/voodoo_totem.png"
-dest_files=[ "res://.import/voodoo_totem.png-89ffcc1174e336d6c211636d0dc188ff.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/voodoo_totem/voodoo_totem.png"
+dest_files=[ "res://Darkly77-Invasion/_import/voodoo_totem.png-e5387cfd5a913ddca9335794dd977d4d.stex" ]
 
 [params]
 

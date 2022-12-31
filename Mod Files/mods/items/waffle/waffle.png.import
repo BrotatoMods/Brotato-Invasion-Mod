@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/waffle.png-d92f601074e35b33027064d2ad151754.stex"
+path="res://Darkly77-Invasion/_import/waffle.png-97e57f4120a2849096c056f779c806e9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/waffle/waffle.png"
-dest_files=[ "res://.import/waffle.png-d92f601074e35b33027064d2ad151754.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/waffle/waffle.png"
+dest_files=[ "res://Darkly77-Invasion/_import/waffle.png-97e57f4120a2849096c056f779c806e9.stex" ]
 
 [params]
 

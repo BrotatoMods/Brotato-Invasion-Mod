@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water_bottle.png-2db4db9404bf936000e3452adbaa2187.stex"
+path="res://Darkly77-Invasion/_import/water_bottle.png-4c1b321c74484cb8916ebb5a32db7535.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/water_bottle/water_bottle.png"
-dest_files=[ "res://.import/water_bottle.png-2db4db9404bf936000e3452adbaa2187.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/water_bottle/water_bottle.png"
+dest_files=[ "res://Darkly77-Invasion/_import/water_bottle.png-4c1b321c74484cb8916ebb5a32db7535.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outfit_devil_armor.png-9fd7406fefdfd6248556d8249439b289.stex"
+path="res://Darkly77-Invasion/_import/outfit_devil_armor.png-5597be64a120254bc6bbff1f3ab7d16f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/outfit_devil_armor/outfit_devil_armor.png"
-dest_files=[ "res://.import/outfit_devil_armor.png-9fd7406fefdfd6248556d8249439b289.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/outfit_devil_armor/outfit_devil_armor.png"
+dest_files=[ "res://Darkly77-Invasion/_import/outfit_devil_armor.png-5597be64a120254bc6bbff1f3ab7d16f.stex" ]
 
 [params]
 

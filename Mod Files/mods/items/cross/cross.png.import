@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cross.png-71b55aaede184f2896dbc7637d935a31.stex"
+path="res://Darkly77-Invasion/_import/cross.png-655f0b343ff11b74fc1b062101308ee8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/cross/cross.png"
-dest_files=[ "res://.import/cross.png-71b55aaede184f2896dbc7637d935a31.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/cross/cross.png"
+dest_files=[ "res://Darkly77-Invasion/_import/cross.png-655f0b343ff11b74fc1b062101308ee8.stex" ]
 
 [params]
 

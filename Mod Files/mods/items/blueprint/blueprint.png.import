@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blueprint.png-893afadabc145fee6ab4515debb33cd7.stex"
+path="res://Darkly77-Invasion/_import/blueprint.png-d1f37018c36a4637d0245c773561b107.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/blueprint/blueprint.png"
-dest_files=[ "res://.import/blueprint.png-893afadabc145fee6ab4515debb33cd7.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/blueprint/blueprint.png"
+dest_files=[ "res://Darkly77-Invasion/_import/blueprint.png-d1f37018c36a4637d0245c773561b107.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pet_food.png-7e7354ed393f47f529bf58d30267dbf1.stex"
+path="res://Darkly77-Invasion/_import/pet_food.png-cde4c009661c2a976ee1e2001377ab0c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/pet_food/pet_food.png"
-dest_files=[ "res://.import/pet_food.png-7e7354ed393f47f529bf58d30267dbf1.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/pet_food/pet_food.png"
+dest_files=[ "res://Darkly77-Invasion/_import/pet_food.png-cde4c009661c2a976ee1e2001377ab0c.stex" ]
 
 [params]
 

@@ -1,8 +1,8 @@
 [gd_resource type="Resource" load_steps=5 format=2]
 
-[ext_resource path="res://mods/items/outfit_energy_armor/outfit_energy_armor.png" type="Texture" id=1]
-[ext_resource path="res://mods/items/outfit_energy_armor/outfit_energy_armor_effect_1.tres" type="Resource" id=2]
-[ext_resource path="res://mods/items/outfit_energy_armor/outfit_energy_armor_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://Darkly77-Invasion/mods/items/outfit_energy_armor/outfit_energy_armor.png" type="Texture" id=1]
+[ext_resource path="res://Darkly77-Invasion/mods/items/outfit_energy_armor/outfit_energy_armor_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://Darkly77-Invasion/mods/items/outfit_energy_armor/outfit_energy_armor_effect_2.tres" type="Resource" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
 
 [resource]

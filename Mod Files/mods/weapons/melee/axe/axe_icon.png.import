@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/axe_icon.png-9244d69d2b7f438fbe837d9b58889cc5.stex"
+path="res://Darkly77-Invasion/_import/axe_icon.png-2255e1de673b963efa4adab4e87dd385.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/axe/axe_icon.png"
-dest_files=[ "res://.import/axe_icon.png-9244d69d2b7f438fbe837d9b58889cc5.stex" ]
+source_file="res://Darkly77-Invasion/mods/weapons/melee/axe/axe_icon.png"
+dest_files=[ "res://Darkly77-Invasion/_import/axe_icon.png-2255e1de673b963efa4adab4e87dd385.stex" ]
 
 [params]
 

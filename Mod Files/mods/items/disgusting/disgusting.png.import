@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/disgusting.png-8c1d9be2714980e30b612ab76a1490f6.stex"
+path="res://Darkly77-Invasion/_import/disgusting.png-15a82c60d8c74ebc78be82857078d471.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/disgusting/disgusting.png"
-dest_files=[ "res://.import/disgusting.png-8c1d9be2714980e30b612ab76a1490f6.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/disgusting/disgusting.png"
+dest_files=[ "res://Darkly77-Invasion/_import/disgusting.png-15a82c60d8c74ebc78be82857078d471.stex" ]
 
 [params]
 

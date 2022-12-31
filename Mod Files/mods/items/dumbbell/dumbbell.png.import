@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dumbbell.png-af9066169bad1ed798ff0824e4102972.stex"
+path="res://Darkly77-Invasion/_import/dumbbell.png-21b13d841695592a771df9a5019d6a64.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/dumbbell/dumbbell.png"
-dest_files=[ "res://.import/dumbbell.png-af9066169bad1ed798ff0824e4102972.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/dumbbell/dumbbell.png"
+dest_files=[ "res://Darkly77-Invasion/_import/dumbbell.png-21b13d841695592a771df9a5019d6a64.stex" ]
 
 [params]
 

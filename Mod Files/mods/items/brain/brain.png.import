@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/brain.png-524532eaecaa3560b87289d752c3dc59.stex"
+path="res://Darkly77-Invasion/_import/brain.png-6bb1932b8f66663525ef0918f3349acf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/brain/brain.png"
-dest_files=[ "res://.import/brain.png-524532eaecaa3560b87289d752c3dc59.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/brain/brain.png"
+dest_files=[ "res://Darkly77-Invasion/_import/brain.png-6bb1932b8f66663525ef0918f3349acf.stex" ]
 
 [params]
 

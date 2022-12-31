@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/nanobug.png-815c92eef79be69932f573fffa6856e2.stex"
+path="res://Darkly77-Invasion/_import/nanobug.png-0a33ae3d064470acf7da60237222e99e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/nanobug/nanobug.png"
-dest_files=[ "res://.import/nanobug.png-815c92eef79be69932f573fffa6856e2.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/nanobug/nanobug.png"
+dest_files=[ "res://Darkly77-Invasion/_import/nanobug.png-0a33ae3d064470acf7da60237222e99e.stex" ]
 
 [params]
 

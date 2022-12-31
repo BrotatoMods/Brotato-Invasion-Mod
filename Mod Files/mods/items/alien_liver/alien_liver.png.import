@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien_liver.png-c4683759ec776948e38b74faa1782adb.stex"
+path="res://Darkly77-Invasion/_import/alien_liver.png-8538d4084f022a48e8c18dfb3c828b7d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/alien_liver/alien_liver.png"
-dest_files=[ "res://.import/alien_liver.png-c4683759ec776948e38b74faa1782adb.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/alien_liver/alien_liver.png"
+dest_files=[ "res://Darkly77-Invasion/_import/alien_liver.png-8538d4084f022a48e8c18dfb3c828b7d.stex" ]
 
 [params]
 

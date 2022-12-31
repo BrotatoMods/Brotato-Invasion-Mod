@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rare_coin.png-44e355e4bc5eb7c05f4be5c7906d03cc.stex"
+path="res://Darkly77-Invasion/_import/rare_coin.png-d83c2a5e379a5969caaa72db64263772.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/rare_coin/rare_coin.png"
-dest_files=[ "res://.import/rare_coin.png-44e355e4bc5eb7c05f4be5c7906d03cc.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/rare_coin/rare_coin.png"
+dest_files=[ "res://Darkly77-Invasion/_import/rare_coin.png-d83c2a5e379a5969caaa72db64263772.stex" ]
 
 [params]
 

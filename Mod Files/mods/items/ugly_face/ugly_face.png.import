@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ugly_face.png-9a63916d68a774445ef5a18a6f464306.stex"
+path="res://Darkly77-Invasion/_import/ugly_face.png-f45d1833104d56e7182daae624d55fd0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/ugly_face/ugly_face.png"
-dest_files=[ "res://.import/ugly_face.png-9a63916d68a774445ef5a18a6f464306.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/ugly_face/ugly_face.png"
+dest_files=[ "res://Darkly77-Invasion/_import/ugly_face.png-f45d1833104d56e7182daae624d55fd0.stex" ]
 
 [params]
 

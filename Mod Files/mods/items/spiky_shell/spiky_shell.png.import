@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spiky_shell.png-27a72e8d430bf1c745f56d88a36a1bc6.stex"
+path="res://Darkly77-Invasion/_import/spiky_shell.png-722fde9a76faef724acf770a4b418b69.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/spiky_shell/spiky_shell.png"
-dest_files=[ "res://.import/spiky_shell.png-27a72e8d430bf1c745f56d88a36a1bc6.stex" ]
+source_file="res://Darkly77-Invasion/mods/items/spiky_shell/spiky_shell.png"
+dest_files=[ "res://Darkly77-Invasion/_import/spiky_shell.png-722fde9a76faef724acf770a4b418b69.stex" ]
 
 [params]
 
