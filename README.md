@@ -1,5 +1,9 @@
 # Brotato - Invasion Mod
 
+![GitHub all releases](https://img.shields.io/github/downloads/BrotatoMods/Brotato-Invasion-Mod/total)
+
+<!--![GitHub release (latest by date)](https://img.shields.io/github/downloads/BrotatoMods/Brotato-Invasion-Mod/latest/total)-->
+
 **Invasion** ports items from Blobfish's previous game, Space Gladiators, to Brotato.
 
 The latest updates and progress info will be posted on the [Space Potatoes Discord](https://discord.gg/j39jE6k).
