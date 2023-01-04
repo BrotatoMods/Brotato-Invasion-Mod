@@ -2,7 +2,8 @@
 
 Showing most recent changes first.
 
-- [0.6.0](#060)
+- [0.6.0 (ModLoader)](#060-modloader)
+- [0.5.2](#052)
 - [0.5.1](#051)
 - [0.5.0](#050)
 - [0.4.0 (Critters)](#040-critters)
@@ -12,17 +13,15 @@ Showing most recent changes first.
 - [0.1.1](#011)
 - [0.1.0](#010)
 
-## 0.6.0
+## 0.6.0 (ModLoader)
 
-## New Weapons
+- Updates the mod to work with [ModLoader](https://github.com/GodotModding/godot-mod-loader)
 
-- Alien Arm (Melee)
-	- Spawns worms on hit
-	- Scales with HP Regeneration
-- Demon Stick (Ranged)
-	- Bounces on crit
-	- Scales with HP Regeneration
 
+## 0.5.2
+
+- Add WIP weapon: Demon Stick
+- Cleanup .import files - removes all old files, reducing the .import file count from ~2k to <400
 
 
 ## 0.5.1
@@ -33,7 +32,6 @@ Showing most recent changes first.
   - In play though, it feels underwhelming as focusing on just 2 stats means you miss out on most items
   - I thought I'd share it anyway so you can try it out. It's still pretty fun, just way too limited.
 - General WIP balance tweaks
-
 
 
 ## 0.5.0
