@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/demon_stick_projectile.png-a3ccf300a3c29f8ef7bf1c2ed8415f89.stex"
+path="res://.import/demon_stick_projectile.png-36b799fe55df810be49517ed9f32cadf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/demon_stick/demon_stick_projectile/demon_stick_projectile.png"
-dest_files=[ "res://.import/demon_stick_projectile.png-a3ccf300a3c29f8ef7bf1c2ed8415f89.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/demon_stick_projectile/demon_stick_projectile.png"
+dest_files=[ "res://.import/demon_stick_projectile.png-36b799fe55df810be49517ed9f32cadf.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 [ext_resource path="res://weapons/weapon.tscn" type="PackedScene" id=1]
 [ext_resource path="res://resources/shaders/outline.gdshader" type="Shader" id=2]
-[ext_resource path="res://mods/weapons/melee/alien_arm/alien_arm.png" type="Texture" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/alien_arm.png" type="Texture" id=3]
 [ext_resource path="res://weapons/shooting_behaviors/melee_weapon_shooting_behavior.gd" type="Script" id=4]
 [ext_resource path="res://weapons/melee/melee_weapon.gd" type="Script" id=8]
 

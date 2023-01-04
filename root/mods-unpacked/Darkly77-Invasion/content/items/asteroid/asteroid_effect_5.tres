@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=3 format=2]
 
-[ext_resource path="res://mods/items/asteroid/asteroid_burning_data.tres" type="Resource" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/asteroid/asteroid_burning_data.tres" type="Resource" id=1]
 [ext_resource path="res://effects/items/burn_chance_effect.gd" type="Script" id=2]
 
 [resource]

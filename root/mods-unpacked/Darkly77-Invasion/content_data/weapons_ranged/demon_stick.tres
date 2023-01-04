@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=7 format=2]
+
+[ext_resource path="res://mods-unpacked/Dami-ContentLoader/content_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/1/demon_stick_1_data.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/3/demon_stick_3_data.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/4/demon_stick_4_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/2/demon_stick_2_data.tres" type="Resource" id=5]
+[ext_resource path="res://items/characters/well_rounded/well_rounded_data.tres" type="Resource" id=6]
+
+[resource]
+script = ExtResource( 1 )
+items = [  ]
+weapons = [ ExtResource( 2 ), ExtResource( 5 ), ExtResource( 3 ), ExtResource( 4 ) ]
+characters = [  ]
+weapons_characters = [ [ ExtResource( 6 ) ] ]
+debug_items = [  ]

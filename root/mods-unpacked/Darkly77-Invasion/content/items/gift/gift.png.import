@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gift.png-e177824bfe85a7c6d145f0af10840dbd.stex"
+path="res://.import/gift.png-0f0ae234a3977fa1051d38ef9fea2509.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/gift/gift.png"
-dest_files=[ "res://.import/gift.png-e177824bfe85a7c6d145f0af10840dbd.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/gift/gift.png"
+dest_files=[ "res://.import/gift.png-0f0ae234a3977fa1051d38ef9fea2509.stex" ]
 
 [params]
 

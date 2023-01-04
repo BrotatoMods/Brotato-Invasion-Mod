@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=2]
 
-[ext_resource path="res://mods/weapons/ranged/demon_stick/demon_stick.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/demon_stick.png" type="Texture" id=1]
 [ext_resource path="res://resources/shaders/outline.gdshader" type="Shader" id=2]
 [ext_resource path="res://weapons/weapon.tscn" type="PackedScene" id=3]
 [ext_resource path="res://weapons/ranged/ranged_weapon.gd" type="Script" id=4]

@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/soMetalCannon.wav-ff6ae95992900eb707ffb3d14f1e9e3c.sample"
+path="res://.import/soMetalCannon.wav-f8a5e00906493a2d7deb873a6c544e22.sample"
 
 [deps]
 
-source_file="res://mods/weapons/ranged/metal_cannon/soMetalCannon.wav"
-dest_files=[ "res://.import/soMetalCannon.wav-ff6ae95992900eb707ffb3d14f1e9e3c.sample" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/soMetalCannon.wav"
+dest_files=[ "res://.import/soMetalCannon.wav-f8a5e00906493a2d7deb873a6c544e22.sample" ]
 
 [params]
 

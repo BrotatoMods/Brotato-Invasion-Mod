@@ -5,10 +5,10 @@ type="Translation"
 
 [deps]
 
-files=[ "res://mods/invasion_text.en.translation" ]
+files=[ "res://mods-unpacked/Darkly77-Invasion/translations/invasion_text.en.translation" ]
 
-source_file="res://mods/invasion_text.csv"
-dest_files=[ "res://mods/invasion_text.en.translation" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/translations/invasion_text.csv"
+dest_files=[ "res://mods-unpacked/Darkly77-Invasion/translations/invasion_text.en.translation" ]
 
 [params]
 

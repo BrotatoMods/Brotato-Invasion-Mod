@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chocolate.png-64473cbfb097fb5bd1fa3e1bcace56d8.stex"
+path="res://.import/chocolate.png-407bb6adc4783f1d1132bb4b0772e1f7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/chocolate/chocolate.png"
-dest_files=[ "res://.import/chocolate.png-64473cbfb097fb5bd1fa3e1bcace56d8.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/chocolate/chocolate.png"
+dest_files=[ "res://.import/chocolate.png-407bb6adc4783f1d1132bb4b0772e1f7.stex" ]
 
 [params]
 

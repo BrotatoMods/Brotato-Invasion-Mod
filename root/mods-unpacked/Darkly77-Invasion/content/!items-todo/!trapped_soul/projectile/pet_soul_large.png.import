@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pet_soul_large.png-673a830ee8b563166752259c98ca60da.stex"
+path="res://.import/pet_soul_large.png-4f660636ccce9ca9f7b94963674c8fb5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!trapped_soul/projectile/pet_soul_large.png"
-dest_files=[ "res://.import/pet_soul_large.png-673a830ee8b563166752259c98ca60da.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!trapped_soul/projectile/pet_soul_large.png"
+dest_files=[ "res://.import/pet_soul_large.png-4f660636ccce9ca9f7b94963674c8fb5.stex" ]
 
 [params]
 

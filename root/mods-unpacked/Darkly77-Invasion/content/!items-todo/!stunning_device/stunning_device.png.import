@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stunning_device.png-f64633cbc4f530b5916fc0f8620bbba9.stex"
+path="res://.import/stunning_device.png-79216097581353c9fb5fd47e41c2bdf6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!stunning_device/stunning_device.png"
-dest_files=[ "res://.import/stunning_device.png-f64633cbc4f530b5916fc0f8620bbba9.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!stunning_device/stunning_device.png"
+dest_files=[ "res://.import/stunning_device.png-79216097581353c9fb5fd47e41c2bdf6.stex" ]
 
 [params]
 

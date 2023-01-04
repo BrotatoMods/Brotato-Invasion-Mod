@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shotgun_icon.png-8b4ce23459d5cbf142a2a9fb3d3aa9b7.stex"
+path="res://.import/shotgun_icon.png-c0f8cbe4c00f599b6a056bee20120066.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/shotgun_sg/shotgun_icon.png"
-dest_files=[ "res://.import/shotgun_icon.png-8b4ce23459d5cbf142a2a9fb3d3aa9b7.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/shotgun_sg/shotgun_icon.png"
+dest_files=[ "res://.import/shotgun_icon.png-c0f8cbe4c00f599b6a056bee20120066.stex" ]
 
 [params]
 

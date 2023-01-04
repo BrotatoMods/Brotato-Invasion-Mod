@@ -1,9 +1,9 @@
 [gd_resource type="Resource" load_steps=5 format=2]
 
-[ext_resource path="res://mods/weapons/melee/cudgel/cudgel.tscn" type="PackedScene" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/cudgel/cudgel.tscn" type="PackedScene" id=1]
 [ext_resource path="res://items/global/weapon_data.gd" type="Script" id=2]
-[ext_resource path="res://mods/weapons/melee/cudgel/cudgel_icon.png" type="Texture" id=3]
-[ext_resource path="res://mods/weapons/melee/cudgel/4/cudgel_4_stats.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/cudgel/cudgel_icon.png" type="Texture" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/cudgel/4/cudgel_4_stats.tres" type="Resource" id=4]
 
 [resource]
 script = ExtResource( 2 )

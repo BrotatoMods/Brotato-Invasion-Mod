@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/golden_veins.png-e308c5f297c4d3b497bfd07738235494.stex"
+path="res://.import/golden_veins.png-efdf042597a63601d59461365a9fd979.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/golden_veins/golden_veins.png"
-dest_files=[ "res://.import/golden_veins.png-e308c5f297c4d3b497bfd07738235494.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/golden_veins/golden_veins.png"
+dest_files=[ "res://.import/golden_veins.png-efdf042597a63601d59461365a9fd979.stex" ]
 
 [params]
 

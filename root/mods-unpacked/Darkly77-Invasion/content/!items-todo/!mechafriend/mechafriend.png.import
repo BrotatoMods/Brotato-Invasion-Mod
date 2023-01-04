@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mechafriend.png-0869f95ccdc5d23ff95fadd255da9749.stex"
+path="res://.import/mechafriend.png-2be3338fa40b60da97b9e2630009fa3a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!mechafriend/mechafriend.png"
-dest_files=[ "res://.import/mechafriend.png-0869f95ccdc5d23ff95fadd255da9749.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!mechafriend/mechafriend.png"
+dest_files=[ "res://.import/mechafriend.png-2be3338fa40b60da97b9e2630009fa3a.stex" ]
 
 [params]
 

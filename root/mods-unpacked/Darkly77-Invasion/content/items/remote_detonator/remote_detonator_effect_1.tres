@@ -2,7 +2,7 @@
 
 [ext_resource path="res://effects/items/item_exploding_effect.gd" type="Script" id=1]
 [ext_resource path="res://projectiles/explosion.tscn" type="PackedScene" id=2]
-[ext_resource path="res://mods/items/remote_detonator/remote_detonator_stats.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/remote_detonator/remote_detonator_stats.tres" type="Resource" id=3]
 
 [resource]
 script = ExtResource( 1 )

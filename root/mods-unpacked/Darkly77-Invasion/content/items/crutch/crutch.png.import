@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crutch.png-4bb3b88d6752f44e127425ce83deebee.stex"
+path="res://.import/crutch.png-ac276757dd1965ac24936f9c969ee189.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/crutch/crutch.png"
-dest_files=[ "res://.import/crutch.png-4bb3b88d6752f44e127425ce83deebee.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/crutch/crutch.png"
+dest_files=[ "res://.import/crutch.png-ac276757dd1965ac24936f9c969ee189.stex" ]
 
 [params]
 

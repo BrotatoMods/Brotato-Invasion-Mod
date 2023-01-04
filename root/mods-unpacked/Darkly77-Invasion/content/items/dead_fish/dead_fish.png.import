@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dead_fish.png-663f4db21841a90e2719155feedbd750.stex"
+path="res://.import/dead_fish.png-9c8e20a5e0f59e64e916020e092093a8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/dead_fish/dead_fish.png"
-dest_files=[ "res://.import/dead_fish.png-663f4db21841a90e2719155feedbd750.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/dead_fish/dead_fish.png"
+dest_files=[ "res://.import/dead_fish.png-9c8e20a5e0f59e64e916020e092093a8.stex" ]
 
 [params]
 

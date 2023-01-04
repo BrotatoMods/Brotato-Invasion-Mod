@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blobfish.png-e8941ed99dea5500996b71e13388a8ff.stex"
+path="res://.import/blobfish.png-5a588d629a42fe9b04dfc3f052177daa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/blobfish/blobfish.png"
-dest_files=[ "res://.import/blobfish.png-e8941ed99dea5500996b71e13388a8ff.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/blobfish/blobfish.png"
+dest_files=[ "res://.import/blobfish.png-5a588d629a42fe9b04dfc3f052177daa.stex" ]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=2 format=2]
 
-[ext_resource path="res://mods/effects/effect_gift.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-BFX/effects/effect_gain_items.gd" type="Script" id=1]
 
 [resource]
 script = ExtResource( 1 )
@@ -9,3 +9,4 @@ text_key = "EFFECT_GIFT"
 value = 2
 effect_sign = 4
 arg_signs = [  ]
+min_tier = -1

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cursed_octopus.png-512b8f21e2ed1589219840593d170b0a.stex"
+path="res://.import/cursed_octopus.png-1f8ea2fab2b06fef22ac6df53d92cdb3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/cursed_octopus/cursed_octopus.png"
-dest_files=[ "res://.import/cursed_octopus.png-512b8f21e2ed1589219840593d170b0a.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/cursed_octopus/cursed_octopus.png"
+dest_files=[ "res://.import/cursed_octopus.png-1f8ea2fab2b06fef22ac6df53d92cdb3.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mystery_machine.png-20665854eff675863e54249c2a41765a.stex"
+path="res://.import/mystery_machine.png-fc2fce7bf9850e30e45f59b36f8510da.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!mystery_machine/mystery_machine.png"
-dest_files=[ "res://.import/mystery_machine.png-20665854eff675863e54249c2a41765a.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!mystery_machine/mystery_machine.png"
+dest_files=[ "res://.import/mystery_machine.png-fc2fce7bf9850e30e45f59b36f8510da.stex" ]
 
 [params]
 

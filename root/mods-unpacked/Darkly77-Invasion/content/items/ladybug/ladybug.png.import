@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ladybug.png-9772f57e46dd12edc95849a6a37f4564.stex"
+path="res://.import/ladybug.png-c2a57fbe22d3bf47d662c79583e3d539.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/ladybug/ladybug.png"
-dest_files=[ "res://.import/ladybug.png-9772f57e46dd12edc95849a6a37f4564.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/ladybug/ladybug.png"
+dest_files=[ "res://.import/ladybug.png-c2a57fbe22d3bf47d662c79583e3d539.stex" ]
 
 [params]
 

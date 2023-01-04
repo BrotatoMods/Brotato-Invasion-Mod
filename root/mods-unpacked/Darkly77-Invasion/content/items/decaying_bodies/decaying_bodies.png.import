@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/decaying_bodies.png-a2de5d2dbdfe9a12dcdfeefdb77e8833.stex"
+path="res://.import/decaying_bodies.png-dc4003156b93ad6c90d3b971b6c37d43.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/decaying_bodies/decaying_bodies.png"
-dest_files=[ "res://.import/decaying_bodies.png-a2de5d2dbdfe9a12dcdfeefdb77e8833.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/decaying_bodies/decaying_bodies.png"
+dest_files=[ "res://.import/decaying_bodies.png-dc4003156b93ad6c90d3b971b6c37d43.stex" ]
 
 [params]
 

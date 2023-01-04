@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/curse_ranged.png-81110e98bb01c8f26126d4b99758301a.stex"
+path="res://.import/curse_ranged.png-be04d852a530d8520ba5018917116068.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/curse_ranged/curse_ranged.png"
-dest_files=[ "res://.import/curse_ranged.png-81110e98bb01c8f26126d4b99758301a.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/curse_ranged/curse_ranged.png"
+dest_files=[ "res://.import/curse_ranged.png-be04d852a530d8520ba5018917116068.stex" ]
 
 [params]
 

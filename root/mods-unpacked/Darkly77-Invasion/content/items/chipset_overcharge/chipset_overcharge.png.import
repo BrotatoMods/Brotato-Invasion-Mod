@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chipset_overcharge.png-78e397182a7caf984debc293eb308248.stex"
+path="res://.import/chipset_overcharge.png-6ec7b95108c8b64bcc1f0be66d191f02.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/chipset_overcharge/chipset_overcharge.png"
-dest_files=[ "res://.import/chipset_overcharge.png-78e397182a7caf984debc293eb308248.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/chipset_overcharge/chipset_overcharge.png"
+dest_files=[ "res://.import/chipset_overcharge.png-6ec7b95108c8b64bcc1f0be66d191f02.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plasma_axe_icon.png-3e23dee9deac9aeb79012105f379e3cd.stex"
+path="res://.import/plasma_axe_icon.png-419629936bb13811a16c58aa1b4e6a12.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/plasma_axe/plasma_axe_icon.png"
-dest_files=[ "res://.import/plasma_axe_icon.png-3e23dee9deac9aeb79012105f379e3cd.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/plasma_axe/plasma_axe_icon.png"
+dest_files=[ "res://.import/plasma_axe_icon.png-419629936bb13811a16c58aa1b4e6a12.stex" ]
 
 [params]
 

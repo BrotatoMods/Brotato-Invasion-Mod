@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/whip_icon.png-9013459f6f11bbc68796e9429f36a216.stex"
+path="res://.import/whip_icon.png-dd9889cbeb8218282fb235f25e4a2bad.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/whip/whip_icon.png"
-dest_files=[ "res://.import/whip_icon.png-9013459f6f11bbc68796e9429f36a216.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/whip/whip_icon.png"
+dest_files=[ "res://.import/whip_icon.png-dd9889cbeb8218282fb235f25e4a2bad.stex" ]
 
 [params]
 

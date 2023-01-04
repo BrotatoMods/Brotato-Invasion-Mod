@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/leaky_gas.png-e0a78fe783bfa692de3032289c76a11d.stex"
+path="res://.import/leaky_gas.png-dc08e9d40080a6dcf2118ab81e2c3f8e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!leaky_gas/leaky_gas.png"
-dest_files=[ "res://.import/leaky_gas.png-e0a78fe783bfa692de3032289c76a11d.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!leaky_gas/leaky_gas.png"
+dest_files=[ "res://.import/leaky_gas.png-dc08e9d40080a6dcf2118ab81e2c3f8e.stex" ]
 
 [params]
 

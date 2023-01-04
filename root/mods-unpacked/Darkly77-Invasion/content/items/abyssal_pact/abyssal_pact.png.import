@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/abyssal_pact.png-7e2a022a86a888434773bc988e93ebfc.stex"
+path="res://.import/abyssal_pact.png-1e9cd77ed3b3bb3575d042a6871af2ac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/abyssal_pact/abyssal_pact.png"
-dest_files=[ "res://.import/abyssal_pact.png-7e2a022a86a888434773bc988e93ebfc.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/abyssal_pact/abyssal_pact.png"
+dest_files=[ "res://.import/abyssal_pact.png-1e9cd77ed3b3bb3575d042a6871af2ac.stex" ]
 
 [params]
 

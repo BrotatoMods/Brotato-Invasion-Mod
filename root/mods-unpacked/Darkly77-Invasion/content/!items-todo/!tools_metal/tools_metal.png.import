@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tools_metal.png-4e288099ea80287e8d04b52fb42b05a6.stex"
+path="res://.import/tools_metal.png-2ea617f2dc1ac00451280e34665ab097.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!tools_metal/tools_metal.png"
-dest_files=[ "res://.import/tools_metal.png-4e288099ea80287e8d04b52fb42b05a6.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!tools_metal/tools_metal.png"
+dest_files=[ "res://.import/tools_metal.png-2ea617f2dc1ac00451280e34665ab097.stex" ]
 
 [params]
 

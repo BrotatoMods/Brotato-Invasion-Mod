@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/heaven_dagger_icon.png-3e98a7ae0d1b0d56a35abca745315cca.stex"
+path="res://.import/heaven_dagger_icon.png-b2395cc9b5fdc0e420d9c8699ea4afa9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/heaven_dagger/heaven_dagger_icon.png"
-dest_files=[ "res://.import/heaven_dagger_icon.png-3e98a7ae0d1b0d56a35abca745315cca.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/heaven_dagger/heaven_dagger_icon.png"
+dest_files=[ "res://.import/heaven_dagger_icon.png-b2395cc9b5fdc0e420d9c8699ea4afa9.stex" ]
 
 [params]
 

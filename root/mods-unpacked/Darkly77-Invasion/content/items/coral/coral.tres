@@ -1,8 +1,8 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
-[ext_resource path="res://mods/items/coral/coral.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/coral/coral.png" type="Texture" id=1]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
-[ext_resource path="res://mods/items/coral/coral_effect_1.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/coral/coral_effect_1.tres" type="Resource" id=4]
 
 [resource]
 script = ExtResource( 2 )

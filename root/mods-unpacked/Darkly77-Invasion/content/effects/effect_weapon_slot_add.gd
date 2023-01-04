@@ -43,7 +43,6 @@ func apply_max_weapon_fix():
 		expand_max_slots = true
 
 	if !expand_max_slots:
-		print("EXPANDED:" + "nooooooooope") #@debug
 		return
 	else:
 		# Could update either
@@ -68,7 +67,5 @@ func apply_max_weapon_fix():
 		# EXPAND SLOTS!
 		if expand_melee:
 			RunData.effects["max_melee_weapons"] += value
-			print("EXPANDED:" + "melee") #@debug
 		elif expand_ranged:
 			RunData.effects["max_ranged_weapons"] += value
-			print("EXPANDED:" + "ranged") #@debug

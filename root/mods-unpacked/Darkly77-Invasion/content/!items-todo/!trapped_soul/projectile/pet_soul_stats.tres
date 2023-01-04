@@ -1,7 +1,7 @@
 [gd_resource type="Resource" load_steps=3 format=2]
 
 [ext_resource path="res://weapons/weapon_stats/ranged_weapon_stats.gd" type="Script" id=1]
-[ext_resource path="res://mods/!items-todo/!trapped_soul/projectile/pet_soul_projectile.tscn" type="PackedScene" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!trapped_soul/projectile/pet_soul_projectile.tscn" type="PackedScene" id=2]
 
 [resource]
 script = ExtResource( 1 )

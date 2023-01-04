@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/critter_drugged.png-e400512ddb9d074e474a37030fe83941.stex"
+path="res://.import/critter_drugged.png-6aa672913385f3369be7ca273d70b1d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/critter_drugged/critter_drugged.png"
-dest_files=[ "res://.import/critter_drugged.png-e400512ddb9d074e474a37030fe83941.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/critter_drugged/critter_drugged.png"
+dest_files=[ "res://.import/critter_drugged.png-6aa672913385f3369be7ca273d70b1d1.stex" ]
 
 [params]
 

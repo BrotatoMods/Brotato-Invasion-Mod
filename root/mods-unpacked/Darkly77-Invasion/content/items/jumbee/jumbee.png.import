@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jumbee.png-6b329c824e2a38139f47558769eeaa2c.stex"
+path="res://.import/jumbee.png-ffa3079716e7df480cd1eb5271aed226.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/jumbee/jumbee.png"
-dest_files=[ "res://.import/jumbee.png-6b329c824e2a38139f47558769eeaa2c.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/jumbee/jumbee.png"
+dest_files=[ "res://.import/jumbee.png-ffa3079716e7df480cd1eb5271aed226.stex" ]
 
 [params]
 

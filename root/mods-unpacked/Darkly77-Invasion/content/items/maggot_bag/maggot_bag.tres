@@ -1,10 +1,10 @@
 [gd_resource type="Resource" load_steps=6 format=2]
 
-[ext_resource path="res://mods/items/maggot_bag/maggot_bag.png" type="Texture" id=1]
-[ext_resource path="res://mods/items/maggot_bag/maggot_bag_effect_2.tres" type="Resource" id=2]
-[ext_resource path="res://mods/items/maggot_bag/maggot_bag_effect_1.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/maggot_bag/maggot_bag.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/maggot_bag/maggot_bag_effect_2.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/maggot_bag/maggot_bag_effect_1.tres" type="Resource" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
-[ext_resource path="res://mods/items/maggot_bag/maggot_bag_effect_3.tres" type="Resource" id=5]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/maggot_bag/maggot_bag_effect_3.tres" type="Resource" id=5]
 
 [resource]
 script = ExtResource( 4 )

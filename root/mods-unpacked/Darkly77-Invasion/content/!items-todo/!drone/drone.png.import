@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/drone.png-41824551701deb7eb1d1f02918ea8285.stex"
+path="res://.import/drone.png-a5d56deb712bb87c387d9cde66bf0d81.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!drone/drone.png"
-dest_files=[ "res://.import/drone.png-41824551701deb7eb1d1f02918ea8285.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!drone/drone.png"
+dest_files=[ "res://.import/drone.png-a5d56deb712bb87c387d9cde66bf0d81.stex" ]
 
 [params]
 

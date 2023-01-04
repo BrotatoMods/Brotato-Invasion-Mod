@@ -1,9 +1,9 @@
 [gd_resource type="Resource" load_steps=5 format=2]
 
-[ext_resource path="res://mods/items/lava_balls/lava_balls_effect_1.tres" type="Resource" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/lava_balls/lava_balls_effect_1.tres" type="Resource" id=1]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
-[ext_resource path="res://mods/items/lava_balls/lava_balls_effect_2.tres" type="Resource" id=3]
-[ext_resource path="res://mods/items/lava_balls/lava_balls.png" type="Texture" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/lava_balls/lava_balls_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/lava_balls/lava_balls.png" type="Texture" id=4]
 
 [resource]
 script = ExtResource( 2 )

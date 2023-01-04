@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/throwing_spear_icon.png-6028e8ec458cfdd08fbf9c37b9c0f4e7.stex"
+path="res://.import/throwing_spear_icon.png-df8e99e946642f8e30074e7818cf3402.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/throwing_spear/throwing_spear_icon.png"
-dest_files=[ "res://.import/throwing_spear_icon.png-6028e8ec458cfdd08fbf9c37b9c0f4e7.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/throwing_spear/throwing_spear_icon.png"
+dest_files=[ "res://.import/throwing_spear_icon.png-df8e99e946642f8e30074e7818cf3402.stex" ]
 
 [params]
 

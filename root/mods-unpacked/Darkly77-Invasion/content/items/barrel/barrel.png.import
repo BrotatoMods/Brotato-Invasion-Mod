@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barrel.png-fe757e8854566da5f66a38ce9c38f6cf.stex"
+path="res://.import/barrel.png-95e21d761eeb3a876a22853a692eb689.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/barrel/barrel.png"
-dest_files=[ "res://.import/barrel.png-fe757e8854566da5f66a38ce9c38f6cf.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/barrel/barrel.png"
+dest_files=[ "res://.import/barrel.png-95e21d761eeb3a876a22853a692eb689.stex" ]
 
 [params]
 

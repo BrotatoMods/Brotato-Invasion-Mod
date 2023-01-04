@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outfit_metal_plate.png-3c1affe81c7a5207343a3830713c94de.stex"
+path="res://.import/outfit_metal_plate.png-f43aea999c753a10d495048c67915b06.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/outfit_metal_plate/outfit_metal_plate.png"
-dest_files=[ "res://.import/outfit_metal_plate.png-3c1affe81c7a5207343a3830713c94de.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/outfit_metal_plate/outfit_metal_plate.png"
+dest_files=[ "res://.import/outfit_metal_plate.png-f43aea999c753a10d495048c67915b06.stex" ]
 
 [params]
 

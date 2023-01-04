@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/skull.png-a6425c5e4cf7acb28238d3ff4b38e6a1.stex"
+path="res://.import/skull.png-f9d166a1ac08885fac1ef5089576cc01.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/skull/skull.png"
-dest_files=[ "res://.import/skull.png-a6425c5e4cf7acb28238d3ff4b38e6a1.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/skull/skull.png"
+dest_files=[ "res://.import/skull.png-f9d166a1ac08885fac1ef5089576cc01.stex" ]
 
 [params]
 

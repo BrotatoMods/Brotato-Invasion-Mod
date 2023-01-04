@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/outfit_energy_armor.png-35005800b7d27aa1b1a49bd871c53606.stex"
+path="res://.import/outfit_energy_armor.png-9f4e94a2ba5d64da821fa3292caaaf64.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/outfit_energy_armor/outfit_energy_armor.png"
-dest_files=[ "res://.import/outfit_energy_armor.png-35005800b7d27aa1b1a49bd871c53606.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/outfit_energy_armor/outfit_energy_armor.png"
+dest_files=[ "res://.import/outfit_energy_armor.png-9f4e94a2ba5d64da821fa3292caaaf64.stex" ]
 
 [params]
 

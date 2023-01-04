@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bloody_tooth.png-bb346cce594eb8263e87e864c1ae56c9.stex"
+path="res://.import/bloody_tooth.png-a071ff2c8810c4abccf2ef639bc142f8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/bloody_tooth/bloody_tooth.png"
-dest_files=[ "res://.import/bloody_tooth.png-bb346cce594eb8263e87e864c1ae56c9.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/bloody_tooth/bloody_tooth.png"
+dest_files=[ "res://.import/bloody_tooth.png-a071ff2c8810c4abccf2ef639bc142f8.stex" ]
 
 [params]
 

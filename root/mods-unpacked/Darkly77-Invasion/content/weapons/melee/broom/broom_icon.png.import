@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/broom_icon.png-6db497b66cbb99d9ffaaadc1b64c055b.stex"
+path="res://.import/broom_icon.png-071952a25259fe25741080b2755c3215.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/broom/broom_icon.png"
-dest_files=[ "res://.import/broom_icon.png-6db497b66cbb99d9ffaaadc1b64c055b.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/broom/broom_icon.png"
+dest_files=[ "res://.import/broom_icon.png-071952a25259fe25741080b2755c3215.stex" ]
 
 [params]
 

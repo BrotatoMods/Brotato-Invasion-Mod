@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/integrated_chipset.png-aa67be20717724c3649d542cfb6364d6.stex"
+path="res://.import/integrated_chipset.png-91c3bd96c06b233d017d9845197bbbb4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!integrated_chipset/integrated_chipset.png"
-dest_files=[ "res://.import/integrated_chipset.png-aa67be20717724c3649d542cfb6364d6.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!integrated_chipset/integrated_chipset.png"
+dest_files=[ "res://.import/integrated_chipset.png-91c3bd96c06b233d017d9845197bbbb4.stex" ]
 
 [params]
 

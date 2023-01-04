@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/batteries.png-9a8fc2b4dc339e2c536dc60f1ca75f51.stex"
+path="res://.import/batteries.png-abfc7e9d717dd732ae36177b7acfd6c7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/batteries/batteries.png"
-dest_files=[ "res://.import/batteries.png-9a8fc2b4dc339e2c536dc60f1ca75f51.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/batteries/batteries.png"
+dest_files=[ "res://.import/batteries.png-abfc7e9d717dd732ae36177b7acfd6c7.stex" ]
 
 [params]
 

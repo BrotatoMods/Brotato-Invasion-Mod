@@ -1,10 +1,10 @@
 [gd_resource type="Resource" load_steps=7 format=2]
 
-[ext_resource path="res://mods/mod_data.gd" type="Script" id=1]
-[ext_resource path="res://mods/weapons/ranged/clone/1/clone_1_data.tres" type="Resource" id=2]
-[ext_resource path="res://mods/weapons/ranged/clone/3/clone_3_data.tres" type="Resource" id=3]
-[ext_resource path="res://mods/weapons/ranged/clone/2/clone_2_data.tres" type="Resource" id=4]
-[ext_resource path="res://mods/weapons/ranged/clone/4/clone_4_data.tres" type="Resource" id=5]
+[ext_resource path="res://mods-unpacked/Dami-ContentLoader/content_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/clone/1/clone_1_data.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/clone/3/clone_3_data.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/clone/2/clone_2_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/clone/4/clone_4_data.tres" type="Resource" id=5]
 [ext_resource path="res://items/characters/well_rounded/well_rounded_data.tres" type="Resource" id=6]
 
 [resource]

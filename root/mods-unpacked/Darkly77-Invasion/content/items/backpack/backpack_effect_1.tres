@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=2 format=2]
 
-[ext_resource path="res://mods/effects/effect_weapon_slot_add.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/effects/effect_weapon_slot_add.gd" type="Script" id=1]
 
 [resource]
 script = ExtResource( 1 )

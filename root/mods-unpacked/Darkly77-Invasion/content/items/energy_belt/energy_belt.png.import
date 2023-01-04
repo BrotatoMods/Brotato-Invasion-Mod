@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/energy_belt.png-42a6be26cc1fae77edad7cdcfb2aad38.stex"
+path="res://.import/energy_belt.png-e7565a2f390166dfa2467dc039e9ae59.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/energy_belt/energy_belt.png"
-dest_files=[ "res://.import/energy_belt.png-42a6be26cc1fae77edad7cdcfb2aad38.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/energy_belt/energy_belt.png"
+dest_files=[ "res://.import/energy_belt.png-e7565a2f390166dfa2467dc039e9ae59.stex" ]
 
 [params]
 

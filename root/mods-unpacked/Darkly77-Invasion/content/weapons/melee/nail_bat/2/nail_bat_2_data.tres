@@ -1,10 +1,10 @@
 [gd_resource type="Resource" load_steps=6 format=2]
 
-[ext_resource path="res://mods/weapons/melee/nail_bat/2/nail_bat_2_stats.tres" type="Resource" id=1]
-[ext_resource path="res://mods/weapons/melee/nail_bat/3/nail_bat_3_data.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/2/nail_bat_2_stats.tres" type="Resource" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/3/nail_bat_3_data.tres" type="Resource" id=2]
 [ext_resource path="res://items/global/weapon_data.gd" type="Script" id=3]
-[ext_resource path="res://mods/weapons/melee/nail_bat/nail_bat_icon.png" type="Texture" id=4]
-[ext_resource path="res://mods/weapons/melee/nail_bat/nail_bat.tscn" type="PackedScene" id=5]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/nail_bat_icon.png" type="Texture" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/nail_bat.tscn" type="PackedScene" id=5]
 
 [resource]
 script = ExtResource( 3 )

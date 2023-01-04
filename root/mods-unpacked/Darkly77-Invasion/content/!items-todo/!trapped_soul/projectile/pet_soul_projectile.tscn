@@ -2,7 +2,7 @@
 
 [ext_resource path="res://projectiles/player_projectile.tscn" type="PackedScene" id=1]
 [ext_resource path="res://projectiles/delayed_player_projectile.gd" type="Script" id=2]
-[ext_resource path="res://mods/!items-todo/!trapped_soul/projectile/pet_soul_large.png" type="Texture" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!trapped_soul/projectile/pet_soul_large.png" type="Texture" id=3]
 
 [sub_resource type="RectangleShape2D" id=3]
 extents = Vector2( 31, 52 )

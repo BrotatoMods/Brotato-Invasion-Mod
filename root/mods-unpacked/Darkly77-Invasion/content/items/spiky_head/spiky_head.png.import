@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spiky_head.png-7848e409eaae2a5e148d3098691e9f92.stex"
+path="res://.import/spiky_head.png-b23225bbac45bb2f0109337811e544a8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/spiky_head/spiky_head.png"
-dest_files=[ "res://.import/spiky_head.png-7848e409eaae2a5e148d3098691e9f92.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/spiky_head/spiky_head.png"
+dest_files=[ "res://.import/spiky_head.png-b23225bbac45bb2f0109337811e544a8.stex" ]
 
 [params]
 

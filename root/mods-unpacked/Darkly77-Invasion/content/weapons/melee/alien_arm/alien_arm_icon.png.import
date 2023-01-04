@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien_arm_icon.png-89c07fed34e884c417c73febf25d0904.stex"
+path="res://.import/alien_arm_icon.png-a455c41b8b6c285367f8ad6b0bc15827.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/melee/alien_arm/alien_arm_icon.png"
-dest_files=[ "res://.import/alien_arm_icon.png-89c07fed34e884c417c73febf25d0904.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/alien_arm_icon.png"
+dest_files=[ "res://.import/alien_arm_icon.png-a455c41b8b6c285367f8ad6b0bc15827.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spicy_sauce.png-761e4ca0f5b7e2508c26c06650645b31.stex"
+path="res://.import/spicy_sauce.png-6cb790eb99c3c9ffdadac46a85b34b9a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!spicy_sauce/spicy_sauce.png"
-dest_files=[ "res://.import/spicy_sauce.png-761e4ca0f5b7e2508c26c06650645b31.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!spicy_sauce/spicy_sauce.png"
+dest_files=[ "res://.import/spicy_sauce.png-6cb790eb99c3c9ffdadac46a85b34b9a.stex" ]
 
 [params]
 

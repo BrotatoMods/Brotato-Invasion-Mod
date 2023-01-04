@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/explosive_vest.png-ae8a419bd8c066d0fc07b7a73f7f6a8c.stex"
+path="res://.import/explosive_vest.png-2acb6af2209f9e4da00ceb9d7c253646.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/explosive_vest/explosive_vest.png"
-dest_files=[ "res://.import/explosive_vest.png-ae8a419bd8c066d0fc07b7a73f7f6a8c.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/explosive_vest/explosive_vest.png"
+dest_files=[ "res://.import/explosive_vest.png-2acb6af2209f9e4da00ceb9d7c253646.stex" ]
 
 [params]
 

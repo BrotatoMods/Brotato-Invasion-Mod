@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/energy_ball_green.png-cd318c1858ddab28df68597e7ce688ae.stex"
+path="res://.import/energy_ball_green.png-a5aaa1632834fe5dbe37f7e35467f1f4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/energy_ball_green/energy_ball_green.png"
-dest_files=[ "res://.import/energy_ball_green.png-cd318c1858ddab28df68597e7ce688ae.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/energy_ball_green/energy_ball_green.png"
+dest_files=[ "res://.import/energy_ball_green.png-a5aaa1632834fe5dbe37f7e35467f1f4.stex" ]
 
 [params]
 

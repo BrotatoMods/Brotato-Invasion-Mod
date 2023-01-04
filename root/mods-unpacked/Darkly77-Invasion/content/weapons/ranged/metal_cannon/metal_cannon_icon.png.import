@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/metal_cannon_icon.png-8604ed20a2ae9d3e72293113658e4979.stex"
+path="res://.import/metal_cannon_icon.png-dccaf5771a9948951dc902685ba57539.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/metal_cannon/metal_cannon_icon.png"
-dest_files=[ "res://.import/metal_cannon_icon.png-8604ed20a2ae9d3e72293113658e4979.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon_icon.png"
+dest_files=[ "res://.import/metal_cannon_icon.png-dccaf5771a9948951dc902685ba57539.stex" ]
 
 [params]
 

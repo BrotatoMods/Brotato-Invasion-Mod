@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spicy_food.png-5aa12006aa336a23c526d0533dcb9db4.stex"
+path="res://.import/spicy_food.png-fad12f58c336cc20c3c81576a345365e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/!items-todo/!spicy_food/spicy_food.png"
-dest_files=[ "res://.import/spicy_food.png-5aa12006aa336a23c526d0533dcb9db4.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/!items-todo/!spicy_food/spicy_food.png"
+dest_files=[ "res://.import/spicy_food.png-fad12f58c336cc20c3c81576a345365e.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/clone_x3.png-51908d975b4fadf9f1beb8c6a5fe3b78.stex"
+path="res://.import/clone_x3.png-993673e3eec3210bca486b306ab5c444.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/weapons/ranged/clone/clone_x3.png"
-dest_files=[ "res://.import/clone_x3.png-51908d975b4fadf9f1beb8c6a5fe3b78.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/clone/clone_x3.png"
+dest_files=[ "res://.import/clone_x3.png-993673e3eec3210bca486b306ab5c444.stex" ]
 
 [params]
 

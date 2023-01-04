@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/big_nose.png-0cce2c2acdb3c71a97769592d43543a0.stex"
+path="res://.import/big_nose.png-ca568dcb4f6e4c2f8b0339124b9db9dd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/big_nose/big_nose.png"
-dest_files=[ "res://.import/big_nose.png-0cce2c2acdb3c71a97769592d43543a0.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/big_nose/big_nose.png"
+dest_files=[ "res://.import/big_nose.png-ca568dcb4f6e4c2f8b0339124b9db9dd.stex" ]
 
 [params]
 

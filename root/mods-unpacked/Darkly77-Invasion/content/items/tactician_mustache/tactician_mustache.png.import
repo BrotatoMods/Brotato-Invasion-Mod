@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tactician_mustache.png-894ec8fa5958ecb3ae31d625a0ad2d51.stex"
+path="res://.import/tactician_mustache.png-f2f2ded1f281b047171fe2a06ca2143e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/tactician_mustache/tactician_mustache.png"
-dest_files=[ "res://.import/tactician_mustache.png-894ec8fa5958ecb3ae31d625a0ad2d51.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/tactician_mustache/tactician_mustache.png"
+dest_files=[ "res://.import/tactician_mustache.png-f2f2ded1f281b047171fe2a06ca2143e.stex" ]
 
 [params]
 

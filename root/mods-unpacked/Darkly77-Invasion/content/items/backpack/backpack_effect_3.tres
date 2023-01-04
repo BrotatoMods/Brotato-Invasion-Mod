@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=3 format=2]
 
-[ext_resource path="res://mods/effects/effect_character_specific_note.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/effects/effect_character_specific_note.gd" type="Script" id=1]
 [ext_resource path="res://items/characters/generalist/generalist_data.tres" type="Resource" id=2]
 
 [resource]

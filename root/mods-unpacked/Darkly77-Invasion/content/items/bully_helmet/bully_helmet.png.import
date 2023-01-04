@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bully_helmet.png-5127b8af0e4a154e7a8b0c8592d5f142.stex"
+path="res://.import/bully_helmet.png-7cc2454848357b6c1520f3cb4edbeb5a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/items/bully_helmet/bully_helmet.png"
-dest_files=[ "res://.import/bully_helmet.png-5127b8af0e4a154e7a8b0c8592d5f142.stex" ]
+source_file="res://mods-unpacked/Darkly77-Invasion/content/items/bully_helmet/bully_helmet.png"
+dest_files=[ "res://.import/bully_helmet.png-7cc2454848357b6c1520f3cb4edbeb5a.stex" ]
 
 [params]
 

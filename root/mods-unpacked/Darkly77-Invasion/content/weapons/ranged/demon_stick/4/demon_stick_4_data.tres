@@ -1,0 +1,24 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/demon_stick.tscn" type="PackedScene" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/demon_stick_icon.png" type="Texture" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/4/demon_stick_4_effect_1.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/4/demon_stick_4_stats.tres" type="Resource" id=5]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "weapon_demon_stick_4"
+unlocked_by_default = true
+icon = ExtResource( 3 )
+name = "WEAPON_DEMON_STICK"
+tier = 3
+value = 120
+effects = [ ExtResource( 4 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+weapon_id = "weapon_demon_stick"
+type = 1
+weapon_classes = [ 2 ]
+scene = ExtResource( 2 )
+stats = ExtResource( 5 )
