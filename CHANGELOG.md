@@ -17,6 +17,20 @@ Showing most recent changes first.
 
 - Updates the mod to work with [ModLoader](https://github.com/GodotModding/godot-mod-loader)
 
+**New Items:**
+
+- Integrated Chipset - Increases iframes duration
+- Mystery Machine - Gain +1 to 2 random stats when you level up
+- Shield Breaker - Deal more dmage against bosses (and elites)
+- Spicy Sauce - Bonus damage to burning enemies
+
+**Changes:**
+
+- @todo: Updated Alien Arm
+- @todo: Updated Demon Stick
+- Rare Coin: Reworked. Now gives a % chance for free rerolls
+- Shields: Now proc on dodge instead of taking damage. Stat gains increased slightly to account for this
+
 
 ## 0.5.2
 
