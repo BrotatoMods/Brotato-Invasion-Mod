@@ -18,20 +18,18 @@ The latest updates and progress info will be posted on the [Space Potatoes Disco
 
 ## Install
 
-Invasion uses dami's multi mod support script. This means it's distributed as a simple, small ZIP containing only the modded items, rather than than a full replacement PCK file.
-
-To use it, set up a Brotato.pck file that's using dami's script. ATOW there are two pre-compiled builds available in these mods:
-
-- [DebugLoader](https://github.com/ithinkandicode/Brotato-DebugLoader/releases) (wiki page [here](https://brotato.wiki.spellsandguns.com/Mod:DebugLoader))
-- [dami's Arsenal](https://brotato.wiki.spellsandguns.com/Mod:Dami%27s_Arsenal)
+Install ModLoader using the pre-compiled PCK for Brotato. [Download it and read instructions here](https://github.com/BrotatoMods/Brotato-ModLoader).
 
 One that's set up, add a folder named *mods* to the Brotato game folder, and drop this mod's ZIP into *mods*.
 
+
 ## Links
 
-- [Discord (Space Potatoes)](https://discord.gg/j39jE6k)
+- [Discord - Invasion Mod](https://discord.gg/KWPMBEa463)
+- [Discord - Brotato](https://discord.gg/j39jE6k)
 - [Steam - Space Gladiators](https://store.steampowered.com/app/1144910/Space_Gladiators/)
 - [Steam - Brotato](https://store.steampowered.com/app/1942280/Brotato/)
+
 
 ### Space Gladiators Wiki
 
