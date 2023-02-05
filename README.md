@@ -8,6 +8,14 @@
 
 The latest updates and progress info will be posted on the [Space Potatoes Discord](https://discord.gg/j39jE6k).
 
+## Requirements
+
+* [ModLoader](https://github.com/GodotModding/godot-mod-loader) - v4+
+* [BFX](https://github.com/BrotatoMods/Brotato-BFX/) - v1.0.1+
+* [Brotils](https://github.com/BrotatoMods/Brotato-Brotils/) - v1.0+
+* [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) - v3.0.2+
+
+
 ## Install
 
 Invasion uses dami's multi mod support script. This means it's distributed as a simple, small ZIP containing only the modded items, rather than than a full replacement PCK file.
