@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/decaying_bodies/decaying_bodies.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/decaying_bodies/invasion_decaying_bodies.png" type="Texture" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/decaying_bodies/decaying_bodies_effect_1.tres" type="Resource" id=2]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=3]
 
@@ -15,7 +15,6 @@ value = 50
 effects = [ ExtResource( 2 ) ]
 has_gameplay_modifications = false
 tracking_text = ""
-unique = true
-max_nb = -1
+max_nb = 1
 item_appearances = [  ]
 tags = [ "stat_crit_chance" ]

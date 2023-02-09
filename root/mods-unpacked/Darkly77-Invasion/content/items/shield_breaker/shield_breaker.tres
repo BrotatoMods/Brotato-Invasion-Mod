@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/shield_breaker/invasion_shield_breaker.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/shield_breaker/shield_breaker_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/shield_breaker/shield_breaker_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
+
+[resource]
+script = ExtResource( 4 )
+my_id = "item_shield_breaker"
+unlocked_by_default = true
+icon = ExtResource( 1 )
+name = "Shield Breaker"
+tier = 2
+value = 70
+effects = [ ExtResource( 2 ), ExtResource( 3 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [  ]

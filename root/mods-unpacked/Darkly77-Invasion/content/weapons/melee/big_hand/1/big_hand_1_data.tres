@@ -1,0 +1,25 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/big_hand.tscn" type="PackedScene" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_weapon_data.gd" type="Script" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/2/big_hand_2_data.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/1/big_hand_1_stats.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/invasion_big_hand_icon.png" type="Texture" id=5]
+
+[resource]
+script = ExtResource( 2 )
+my_id = "weapon_big_hand_1"
+unlocked_by_default = true
+icon = ExtResource( 5 )
+name = "Big Hand"
+tier = 0
+value = 11
+effects = [  ]
+tracking_text = ""
+weapon_id = "weapon_big_hand"
+type = 0
+weapon_classes = [ 4 ]
+scene = ExtResource( 1 )
+stats = ExtResource( 4 )
+upgrades_into = ExtResource( 3 )
+weapon_classes_cl = [  ]

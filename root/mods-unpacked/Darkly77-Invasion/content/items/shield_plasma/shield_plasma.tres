@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=5 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/shield_plasma/shield_plasma.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/shield_plasma/invasion_shield_plasma.png" type="Texture" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/shield_plasma/shield_plasma_effect_1.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/shield_plasma/shield_plasma_effect_2.tres" type="Resource" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]

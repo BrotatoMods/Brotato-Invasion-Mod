@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=12 format=2]
 
-[ext_resource path="res://mods-unpacked/Dami-ContentLoader/content_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/4/metal_cannon_4_data.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/3/metal_cannon_3_data.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/2/metal_cannon_2_data.tres" type="Resource" id=4]
@@ -14,8 +14,11 @@
 
 [resource]
 script = ExtResource( 1 )
+characters = [  ]
 items = [  ]
 weapons = [ ExtResource( 5 ), ExtResource( 4 ), ExtResource( 3 ), ExtResource( 2 ) ]
-characters = [  ]
 weapons_characters = [ [ ExtResource( 6 ), ExtResource( 12 ), ExtResource( 8 ), ExtResource( 10 ), ExtResource( 9 ), ExtResource( 11 ) ], [  ], [  ] ]
+sets = [  ]
+challenges = [  ]
 debug_items = [  ]
+debug_weapons = [  ]

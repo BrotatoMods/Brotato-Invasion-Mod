@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=7 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/ring/ring.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/ring/invasion_ring.png" type="Texture" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/ring/ring_effect_1.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/ring/ring_effect_2.tres" type="Resource" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]

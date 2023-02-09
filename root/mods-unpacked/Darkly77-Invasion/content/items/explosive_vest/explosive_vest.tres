@@ -3,7 +3,7 @@
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/explosive_vest/explosive_vest_effect_2.tres" type="Resource" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/explosive_vest/explosive_vest_effect_1.tres" type="Resource" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/explosive_vest/explosive_vest.png" type="Texture" id=5]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/explosive_vest/invasion_explosive_vest.png" type="Texture" id=5]
 
 [resource]
 script = ExtResource( 4 )
@@ -16,7 +16,6 @@ value = 85
 effects = [ ExtResource( 3 ), ExtResource( 1 ) ]
 has_gameplay_modifications = false
 tracking_text = ""
-unique = true
-max_nb = -1
+max_nb = 1
 item_appearances = [  ]
 tags = [ "stat_engineering", "explosive" ]

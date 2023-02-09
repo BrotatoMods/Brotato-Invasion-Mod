@@ -1,0 +1,19 @@
+[gd_resource type="Resource" load_steps=4 format=2]
+
+[ext_resource path="res://projectiles/explosion.tscn" type="PackedScene" id=1]
+[ext_resource path="res://effects/items/item_exploding_effect.gd" type="Script" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/explosive_barrels/explosive_barrels_explode_stats.tres" type="Resource" id=3]
+
+[resource]
+script = ExtResource( 2 )
+key = "bfx_explode_on_crate_collect"
+text_key = "EFFECT_BFX_EXPLODE_ON_CRATE_COLLECT"
+value = 1
+effect_sign = 0
+arg_signs = [  ]
+chance = 1.0
+explosion_scene = ExtResource( 1 )
+scale = 2.0
+base_smoke_amount = 20
+sound_db_mod = -12
+stats = ExtResource( 3 )

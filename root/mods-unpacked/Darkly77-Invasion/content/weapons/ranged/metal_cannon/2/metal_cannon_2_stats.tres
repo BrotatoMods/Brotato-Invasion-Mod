@@ -2,7 +2,7 @@
 
 [ext_resource path="res://weapons/weapon_stats/ranged_weapon_stats.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon_projectile/metal_cannon_projectile.tscn" type="PackedScene" id=2]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/soMetalCannon.wav" type="AudioStream" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/invasion_soMetalCannon.wav" type="AudioStream" id=3]
 
 [resource]
 script = ExtResource( 1 )

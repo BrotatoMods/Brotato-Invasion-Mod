@@ -1,8 +1,7 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=4 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/rare_coin/rare_coin.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/rare_coin/invasion_rare_coin.png" type="Texture" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/rare_coin/rare_coin_effect_1.tres" type="Resource" id=2]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/rare_coin/rare_coin_effect_2.tres" type="Resource" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
 
 [resource]
@@ -11,12 +10,11 @@ my_id = "item_rare_coin"
 unlocked_by_default = true
 icon = ExtResource( 1 )
 name = "Rare Coin"
-tier = 3
-value = 100
-effects = [ ExtResource( 2 ), ExtResource( 3 ) ]
+tier = 1
+value = 60
+effects = [ ExtResource( 2 ) ]
 has_gameplay_modifications = false
 tracking_text = ""
-unique = true
-max_nb = -1
+max_nb = 1
 item_appearances = [  ]
-tags = [ "stat_harvesting" ]
+tags = [ "economy" ]

@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_harvesting"
-text_key = ""
-value = 300
+key = "bfx_free_reroll_chance"
+text_key = "EFFECT_BFX_FREE_REROLL_CHANCE"
+value = 20
 effect_sign = 3
 arg_signs = [  ]

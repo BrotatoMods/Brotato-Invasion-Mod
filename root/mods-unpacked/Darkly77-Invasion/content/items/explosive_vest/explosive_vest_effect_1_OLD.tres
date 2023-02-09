@@ -1,0 +1,19 @@
+[gd_resource type="Resource" load_steps=4 format=2]
+
+[ext_resource path="res://projectiles/explosion.tscn" type="PackedScene" id=1]
+[ext_resource path="res://effects/items/item_exploding_effect.gd" type="Script" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/explosive_vest/explosive_vest_stats.tres" type="Resource" id=3]
+
+[resource]
+script = ExtResource( 2 )
+key = "explode_on_hit"
+text_key = "effect_explode_on_hit"
+value = 1
+effect_sign = 0
+arg_signs = [  ]
+chance = 0.1
+explosion_scene = ExtResource( 1 )
+scale = 1.0
+base_smoke_amount = 20
+sound_db_mod = -12
+stats = ExtResource( 3 )

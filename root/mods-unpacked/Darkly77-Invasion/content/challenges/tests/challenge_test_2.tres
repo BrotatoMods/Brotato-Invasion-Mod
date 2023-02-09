@@ -1,0 +1,30 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/challenges/cl_challenge_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/invasion_placeholder.png" type="Texture" id=2]
+[ext_resource path="res://items/characters/brawler/brawler_data.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/test/__test.tres" type="Resource" id=4]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "chal_peem2"
+unlocked_by_default = false
+icon = ExtResource( 2 )
+name = "CHAL_TEST2_NAME"
+tier = 0
+value = 1
+effects = [  ]
+tracking_text = ""
+description = "CHAL_CHARACTER_DANGER"
+reward_type = 0
+reward = ExtResource( 4 )
+number = 0
+stat = ""
+additional_args = [  ]
+must_win_run = true
+required_character = ExtResource( 3 )
+required_danger_number = 2
+required_weapons_and = [  ]
+required_weapons_or = [  ]
+required_items_and = [  ]
+required_items_or = [  ]

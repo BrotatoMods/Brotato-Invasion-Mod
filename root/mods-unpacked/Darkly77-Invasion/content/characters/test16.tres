@@ -1,0 +1,31 @@
+[gd_resource type="Resource" load_steps=12 format=2]
+
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/invasion_placeholder.png" type="Texture" id=1]
+[ext_resource path="res://items/characters/character_data.gd" type="Script" id=2]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_eyes_appearance.tres" type="Resource" id=3]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_mouth_appearance.tres" type="Resource" id=4]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_effect_1.tres" type="Resource" id=5]
+[ext_resource path="res://weapons/ranged/pistol/1/pistol_data.tres" type="Resource" id=6]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_effect_2.tres" type="Resource" id=7]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_effect_3.tres" type="Resource" id=8]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_effect_1b.tres" type="Resource" id=9]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_effect_1c.tres" type="Resource" id=10]
+[ext_resource path="res://items/characters/arms_dealer/arms_dealer_effect_1a.tres" type="Resource" id=11]
+
+[resource]
+script = ExtResource( 2 )
+my_id = "character_invasion_test_16"
+unlocked_by_default = true
+icon = ExtResource( 1 )
+name = "CHARACTER_ARMS_DEALER"
+tier = 0
+value = 1
+effects = [ ExtResource( 5 ), ExtResource( 11 ), ExtResource( 9 ), ExtResource( 10 ), ExtResource( 7 ), ExtResource( 8 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+unique = false
+max_nb = -1
+item_appearances = [ ExtResource( 3 ), ExtResource( 4 ) ]
+tags = [  ]
+wanted_tags = [  ]
+starting_weapons = [ ExtResource( 6 ) ]

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=2 format=2]
 
-[ext_resource path="res://effects/items/stat_effect.gd" type="Script" id=1]
+[ext_resource path="res://items/global/effect.gd" type="Script" id=1]
 
 [resource]
 script = ExtResource( 1 )
@@ -9,4 +9,4 @@ text_key = "effect_on_hit"
 value = 5
 effect_sign = 3
 arg_signs = [  ]
-effect_key = "temp_stats_on_hit"
+custom_key = "temp_stats_on_hit"

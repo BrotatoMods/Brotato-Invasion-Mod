@@ -3,20 +3,20 @@
 [ext_resource path="res://weapons/weapon_stats/ranged_weapon_stats.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/demon_stick_projectile/demon_stick_projectile.tscn" type="PackedScene" id=2]
 [ext_resource path="res://weapons/ranged/medical_gun/weapon_fun_small_zapper_02.wav" type="AudioStream" id=3]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/demon_stick_inactive.png" type="Texture" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/demon_stick/invasion_demon_stick_inactive.png" type="Texture" id=4]
 
 [resource]
 script = ExtResource( 1 )
-cooldown = 46
-damage = 10
+cooldown = 43
+damage = 22
 accuracy = 1.0
-crit_chance = 0.25
+crit_chance = 0.4
 crit_damage = 1.5
 min_range = 0
 max_range = 400
 knockback = 0
 effect_scale = 1.0
-scaling_stats = [ [ "stat_ranged_damage", 0.3 ], [ "stat_hp_regeneration", 0.4 ] ]
+scaling_stats = [ [ "stat_elemental_damage", 0.4 ], [ "stat_hp_regeneration", 0.4 ] ]
 lifesteal = 0.0
 shooting_sounds = [ ExtResource( 3 ) ]
 sound_db_mod = -10
@@ -24,6 +24,8 @@ is_healing = false
 custom_on_cooldown_sprite = ExtResource( 4 )
 recoil = 25
 recoil_duration = 0.1
+additional_cooldown_every_x_shots = -1
+additional_cooldown_multiplier = -1.0
 nb_projectiles = 1
 projectile_spread = 0.0
 piercing = 0

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=9 format=2]
 
-[ext_resource path="res://mods-unpacked/Dami-ContentLoader/content_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/1/nail_bat_data.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/3/nail_bat_3_data.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/4/nail_bat_4_data.tres" type="Resource" id=4]
@@ -11,7 +11,11 @@
 
 [resource]
 script = ExtResource( 1 )
+characters = [  ]
 items = [  ]
 weapons = [ ExtResource( 2 ), ExtResource( 5 ), ExtResource( 3 ), ExtResource( 4 ) ]
-characters = [  ]
 weapons_characters = [ [ ExtResource( 7 ), ExtResource( 6 ), ExtResource( 8 ) ], [  ], [  ], [  ] ]
+sets = [  ]
+challenges = [  ]
+debug_items = [  ]
+debug_weapons = [  ]

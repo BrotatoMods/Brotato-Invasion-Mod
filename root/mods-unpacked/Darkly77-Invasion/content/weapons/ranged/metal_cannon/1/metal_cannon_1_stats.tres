@@ -1,7 +1,7 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
 [ext_resource path="res://weapons/weapon_stats/ranged_weapon_stats.gd" type="Script" id=1]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/soMetalCannon.wav" type="AudioStream" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/invasion_soMetalCannon.wav" type="AudioStream" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon_projectile/metal_cannon_projectile.tscn" type="PackedScene" id=7]
 
 [resource]
@@ -22,6 +22,8 @@ sound_db_mod = -10
 is_healing = false
 recoil = 25
 recoil_duration = 0.1
+additional_cooldown_every_x_shots = -1
+additional_cooldown_multiplier = -1.0
 nb_projectiles = 1
 projectile_spread = 0.0
 piercing = 2

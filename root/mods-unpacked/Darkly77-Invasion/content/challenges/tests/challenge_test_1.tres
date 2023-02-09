@@ -1,0 +1,38 @@
+[gd_resource type="Resource" load_steps=13 format=2]
+
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/challenges/cl_challenge_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/invasion_placeholder.png" type="Texture" id=2]
+[ext_resource path="res://items/characters/brawler/brawler_data.tres" type="Resource" id=3]
+[ext_resource path="res://items/all/potato/potato_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/alien_artifact_2/alien_artifact_2.tres" type="Resource" id=5]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/alien_artifact_1/alien_artifact_1.tres" type="Resource" id=6]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/cudgel/1/cudgel_1_data.tres" type="Resource" id=7]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/ammo_box/ammo_box.tres" type="Resource" id=8]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/1/big_hand_1_data.tres" type="Resource" id=9]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/2/alien_arm_2_data.tres" type="Resource" id=10]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/1/alien_arm_1_data.tres" type="Resource" id=11]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/ankh/ankh.tres" type="Resource" id=12]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "chal_peem1"
+unlocked_by_default = false
+icon = ExtResource( 2 )
+name = "CHAL_TEST1_NAME"
+tier = 0
+value = 1
+effects = [  ]
+tracking_text = ""
+description = "CHAL_TEST1_DESCRIPTION"
+reward_type = 0
+reward = ExtResource( 4 )
+number = 0
+stat = ""
+additional_args = [  ]
+must_win_run = true
+required_character = ExtResource( 3 )
+required_danger_number = 2
+required_weapons_and = [ ExtResource( 11 ), ExtResource( 10 ) ]
+required_weapons_or = [ ExtResource( 9 ), ExtResource( 7 ) ]
+required_items_and = [ ExtResource( 6 ), ExtResource( 5 ) ]
+required_items_or = [ ExtResource( 8 ), ExtResource( 12 ) ]

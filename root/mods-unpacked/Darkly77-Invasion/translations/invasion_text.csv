@@ -1,6 +1,6 @@
 keys,en
 ITEM_INVASION_INFO,! Invasion Mod
-ITEM_INVASION_INFO_EFFECT,Welcome to Invasion! [img=20x20]res://mods-unpacked/Darkly77-Invasion/content/items/z_info/potatoheart.png[/img] \nYou're playing on version: [color=#CA64EA]0.5.1-alpha[/color]
+ITEM_INVASION_INFO_EFFECT,Welcome to Invasion! [img=20x20]res://mods-unpacked/Darkly77-Invasion/content/items/z_info/potatoheart.png[/img] \nYou're playing on version: [color=#CA64EA]0.6.1-alpha[/color]
 ITEM_GIFT,Mystery Gift
 EFFECT_BOUNCE_DAMAGE_CUSTOM,[color=#00ff00]+[/color]{0}[color=#00ff00]%[/color] Bounce Damage. Can't go above base damage
 EFFECT_REDUCE_NEGATIVE_STAT,"Reduce a random negative stat to half its negative value (no effect if no stats are negative) \n\nAffected stat: {1} \nIncrease: {0}"
@@ -18,3 +18,6 @@ WEAPON_DEMON_STICK,Demon Stick
 WEAPON_CUDGEL,Cudgel
 WEAPON_ALIEN_ARM,Alien Arm
 CHAR_SPECIFIC_GENERALIST_BACKPACK,Generalist: Increases your max weapon type by {0}. Multiple stacks alternate between melee and ranged
+SET_ALIEN,Alien
+SET_ENERGY,Energy
+SET_PLASMA,Plasma

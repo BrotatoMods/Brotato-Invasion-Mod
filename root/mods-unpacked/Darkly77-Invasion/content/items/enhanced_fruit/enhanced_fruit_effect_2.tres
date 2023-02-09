@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_armor"
-text_key = ""
-value = -1
+key = "consumable_heal"
+text_key = "effect_consumable_heal"
+value = 1
 effect_sign = 3
 arg_signs = [  ]

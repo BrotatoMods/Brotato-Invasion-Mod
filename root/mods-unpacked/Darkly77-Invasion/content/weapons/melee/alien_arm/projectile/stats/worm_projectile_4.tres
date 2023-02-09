@@ -1,0 +1,34 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://weapons/weapon_stats/ranged_weapon_stats.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/projectile/scene/worm_projectile_4.tscn" type="PackedScene" id=2]
+
+[resource]
+script = ExtResource( 1 )
+cooldown = 60
+damage = 4
+accuracy = 1.0
+crit_chance = 0.03
+crit_damage = 2.0
+min_range = 0
+max_range = 9999
+knockback = 0
+effect_scale = 0.1
+scaling_stats = [ [ "stat_hp_regeneration", 0.5 ], [ "stat_range", 0.1 ] ]
+lifesteal = 0.0
+shooting_sounds = [  ]
+sound_db_mod = -5
+is_healing = false
+recoil = 25
+recoil_duration = 0.1
+additional_cooldown_every_x_shots = -1
+additional_cooldown_multiplier = -1.0
+nb_projectiles = 1
+projectile_spread = 0.0
+piercing = 2
+piercing_dmg_reduction = 0.7
+bounce = 0
+bounce_dmg_reduction = 0.5
+projectile_speed = 800
+increase_projectile_speed_with_range = true
+projectile_scene = ExtResource( 2 )

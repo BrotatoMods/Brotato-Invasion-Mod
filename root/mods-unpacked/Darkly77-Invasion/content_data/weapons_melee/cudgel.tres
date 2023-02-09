@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=10 format=2]
 
-[ext_resource path="res://mods-unpacked/Dami-ContentLoader/content_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
 [ext_resource path="res://items/characters/mutant/mutant_data.tres" type="Resource" id=2]
 [ext_resource path="res://items/characters/knight/knight_data.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/cudgel/1/cudgel_1_data.tres" type="Resource" id=4]
@@ -12,8 +12,11 @@
 
 [resource]
 script = ExtResource( 1 )
+characters = [  ]
 items = [  ]
 weapons = [ ExtResource( 4 ), ExtResource( 8 ), ExtResource( 7 ), ExtResource( 5 ) ]
-characters = [  ]
 weapons_characters = [ [ ExtResource( 6 ), ExtResource( 11 ), ExtResource( 2 ) ], [ ExtResource( 3 ) ], [  ] ]
+sets = [  ]
+challenges = [  ]
 debug_items = [  ]
+debug_weapons = [  ]

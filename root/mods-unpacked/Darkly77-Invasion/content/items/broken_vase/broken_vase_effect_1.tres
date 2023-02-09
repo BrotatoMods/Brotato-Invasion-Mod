@@ -1,13 +1,14 @@
 [gd_resource type="Resource" load_steps=2 format=2]
 
-[ext_resource path="res://effects/items/dmg_when_death_effect.gd" type="Script" id=1]
+[ext_resource path="res://effects/items/chance_stat_damage_effect.gd" type="Script" id=1]
 
 [resource]
 script = ExtResource( 1 )
-key = "dmg_when_death_from_luck"
+key = "stat_luck"
 text_key = "EFFECT_DEAL_DMG_WHEN_DEATH"
 value = 50
+custom_key = "dmg_when_death"
+storage_method = 0
 effect_sign = 3
-arg_signs = [  ]
+custom_args = [  ]
 chance = 100
-stat = "stat_luck"

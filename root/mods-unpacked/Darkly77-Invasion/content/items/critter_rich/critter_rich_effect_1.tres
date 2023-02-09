@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=2 format=2]
 
-[ext_resource path="res://effects/items/stat_effect.gd" type="Script" id=1]
+[ext_resource path="res://items/global/effect.gd" type="Script" id=1]
 
 [resource]
 script = ExtResource( 1 )
@@ -9,4 +9,4 @@ text_key = "EFFECT_GAIN_STAT_END_OF_WAVE"
 value = 1
 effect_sign = 3
 arg_signs = [  ]
-effect_key = "stats_end_of_wave"
+custom_key = "stats_end_of_wave"

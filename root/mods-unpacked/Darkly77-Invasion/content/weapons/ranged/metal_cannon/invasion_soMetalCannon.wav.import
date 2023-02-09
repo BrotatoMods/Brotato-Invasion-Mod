@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/invasion_soMetalCannon.wav-c0c52ce5a111aeddc5c0751bf2ee6438.sample"
+
+[deps]
+
+source_file="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/invasion_soMetalCannon.wav"
+dest_files=[ "res://.import/invasion_soMetalCannon.wav-c0c52ce5a111aeddc5c0751bf2ee6438.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

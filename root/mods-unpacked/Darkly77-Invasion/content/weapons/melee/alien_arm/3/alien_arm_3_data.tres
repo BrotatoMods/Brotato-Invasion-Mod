@@ -1,8 +1,8 @@
 [gd_resource type="Resource" load_steps=7 format=2]
 
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/3/alien_arm_3_stats.tres" type="Resource" id=1]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/alien_arm_icon.png" type="Texture" id=2]
-[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/invasion_alien_arm_icon.png" type="Texture" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_weapon_data.gd" type="Script" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/alien_arm.tscn" type="PackedScene" id=4]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/4/alien_arm_4_data.tres" type="Resource" id=5]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/alien_arm/3/alien_arm_3_effect_1.tres" type="Resource" id=6]
@@ -16,7 +16,6 @@ name = "WEAPON_ALIEN_ARM"
 tier = 2
 value = 20
 effects = [ ExtResource( 6 ) ]
-has_gameplay_modifications = false
 tracking_text = ""
 weapon_id = "weapon_alien_arm"
 type = 0
@@ -24,3 +23,4 @@ weapon_classes = [ 1 ]
 scene = ExtResource( 4 )
 stats = ExtResource( 1 )
 upgrades_into = ExtResource( 5 )
+weapon_classes_cl = [  ]

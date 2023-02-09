@@ -1,7 +1,7 @@
 [gd_resource type="Resource" load_steps=5 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon_icon.png" type="Texture" id=1]
-[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/invasion_metal_cannon_icon.png" type="Texture" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_weapon_data.gd" type="Script" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/4/metal_cannon_4_stats.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon.tscn" type="PackedScene" id=4]
 
@@ -14,10 +14,10 @@ name = "WEAPON_METAL_CANNON"
 tier = 3
 value = 91
 effects = [  ]
-has_gameplay_modifications = false
 tracking_text = ""
 weapon_id = "weapon_metal_cannon"
 type = 1
 weapon_classes = [ 2 ]
 scene = ExtResource( 4 )
 stats = ExtResource( 3 )
+weapon_classes_cl = [  ]

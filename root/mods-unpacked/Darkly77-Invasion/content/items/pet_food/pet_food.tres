@@ -1,7 +1,7 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=1]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/pet_food/pet_food.png" type="Texture" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/pet_food/invasion_pet_food.png" type="Texture" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/pet_food/pet_food_effect_1.tres" type="Resource" id=3]
 
 [resource]

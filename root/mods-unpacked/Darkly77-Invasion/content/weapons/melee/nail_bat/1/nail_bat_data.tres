@@ -2,8 +2,8 @@
 
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/1/nail_bat_stats.tres" type="Resource" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/2/nail_bat_2_data.tres" type="Resource" id=2]
-[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=3]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/nail_bat_icon.png" type="Texture" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_weapon_data.gd" type="Script" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/invasion_nail_bat_icon.png" type="Texture" id=4]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/nail_bat/nail_bat.tscn" type="PackedScene" id=5]
 
 [resource]
@@ -15,7 +15,6 @@ name = "Nail Bat"
 tier = 0
 value = 15
 effects = [  ]
-has_gameplay_modifications = false
 tracking_text = ""
 weapon_id = "weapon_nail_bat"
 type = 0
@@ -23,3 +22,4 @@ weapon_classes = [ 1 ]
 scene = ExtResource( 5 )
 stats = ExtResource( 1 )
 upgrades_into = ExtResource( 2 )
+weapon_classes_cl = [  ]

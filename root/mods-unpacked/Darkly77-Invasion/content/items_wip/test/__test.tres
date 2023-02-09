@@ -1,0 +1,23 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/invasion_placeholder.png" type="Texture" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-BFX/fx/effects_examples/bfx_turret_damage.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-BFX/fx/effects_examples/bfx_turret_crit_chance.tres" type="Resource" id=5]
+[ext_resource path="res://mods-unpacked/Darkly77-BFX/fx/effects_examples/bfx_turret_attack_speed.tres" type="Resource" id=6]
+
+[resource]
+script = ExtResource( 2 )
+my_id = "item_invasion_test_item"
+unlocked_by_default = false
+icon = ExtResource( 3 )
+name = "???"
+tier = 0
+value = 30
+effects = [ ExtResource( 6 ), ExtResource( 5 ), ExtResource( 4 ) ]
+has_gameplay_modifications = false
+tracking_text = ""
+unique = false
+max_nb = -1
+item_appearances = [  ]
+tags = [  ]

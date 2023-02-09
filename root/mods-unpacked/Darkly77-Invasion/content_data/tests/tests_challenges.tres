@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/challenges/tests/challenge_test_2.tres" type="Resource" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/challenges/tests/challenge_test_3.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/challenges/tests/challenge_test_1.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=4]
+
+[resource]
+script = ExtResource( 4 )
+items = [  ]
+characters = [  ]
+weapons = [  ]
+weapons_characters = [  ]
+debug_items = [  ]
+sets = [  ]
+challenges = [ ExtResource( 3 ), ExtResource( 1 ), ExtResource( 2 ) ]

@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://projectiles/player_projectile.tscn" type="PackedScene" id=1]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon_projectile/metal_cannon_projectile.png" type="Texture" id=2]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon_projectile/invasion_metal_cannon_projectile.png" type="Texture" id=2]
 
 [sub_resource type="Animation" id=1]
 length = 0.001
