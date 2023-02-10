@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=12 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_set_data.gd" type="Script" id=1]
+[ext_resource path="res://items/sets/set_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapon_sets/energy/4/set_4_effect_2.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapon_sets/energy/3/set_3_effect_1.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapon_sets/energy/4/set_4_effect_1.tres" type="Resource" id=4]
@@ -17,5 +17,3 @@ script = ExtResource( 1 )
 my_id = "set_energy"
 name = "SET_ENERGY"
 set_bonuses = [ [ ExtResource( 11 ), ExtResource( 9 ) ], [ ExtResource( 3 ), ExtResource( 10 ) ], [ ExtResource( 4 ), ExtResource( 2 ) ], [ ExtResource( 5 ), ExtResource( 7 ) ], [ ExtResource( 6 ), ExtResource( 8 ) ] ]
-set_index = 0
-weapon_class = 0

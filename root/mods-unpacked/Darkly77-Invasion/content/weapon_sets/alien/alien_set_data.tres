@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=12 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_set_data.gd" type="Script" id=1]
+[ext_resource path="res://items/sets/set_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapon_sets/alien/5/set_5_effect_2.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapon_sets/alien/2/set_2_effect_2.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapon_sets/alien/3/set_3_effect_2.tres" type="Resource" id=4]

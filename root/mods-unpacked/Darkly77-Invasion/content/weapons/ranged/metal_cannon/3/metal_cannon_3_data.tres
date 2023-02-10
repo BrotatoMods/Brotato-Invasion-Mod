@@ -1,10 +1,12 @@
-[gd_resource type="Resource" load_steps=6 format=2]
+[gd_resource type="Resource" load_steps=8 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_weapon_data.gd" type="Script" id=1]
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/invasion_metal_cannon_icon.png" type="Texture" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/3/metal_cannon_3_stats.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/4/metal_cannon_4_data.tres" type="Resource" id=4]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/ranged/metal_cannon/metal_cannon.tscn" type="PackedScene" id=5]
+[ext_resource path="res://items/sets/tool/tool_set_data.tres" type="Resource" id=6]
+[ext_resource path="res://items/sets/medieval/medieval_set_data.tres" type="Resource" id=7]
 
 [resource]
 script = ExtResource( 1 )
@@ -18,8 +20,7 @@ effects = [  ]
 tracking_text = ""
 weapon_id = "weapon_metal_cannon"
 type = 1
-weapon_classes = [ 2 ]
+sets = [ ExtResource( 7 ), ExtResource( 6 ) ]
 scene = ExtResource( 5 )
 stats = ExtResource( 3 )
 upgrades_into = ExtResource( 4 )
-weapon_classes_cl = [  ]

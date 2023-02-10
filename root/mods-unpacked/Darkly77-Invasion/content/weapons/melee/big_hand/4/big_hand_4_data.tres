@@ -1,9 +1,11 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=7 format=2]
 
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/4/big_hand_4_stats.tres" type="Resource" id=1]
-[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/weapon_sets/classes/cl_class_weapon_data.gd" type="Script" id=2]
+[ext_resource path="res://items/global/weapon_data.gd" type="Script" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/invasion_big_hand_icon.png" type="Texture" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapons/melee/big_hand/big_hand.tscn" type="PackedScene" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/weapon_sets/alien/alien_set_data.tres" type="Resource" id=5]
+[ext_resource path="res://items/sets/unarmed/unarmed_set_data.tres" type="Resource" id=6]
 
 [resource]
 script = ExtResource( 2 )
@@ -17,7 +19,6 @@ effects = [  ]
 tracking_text = ""
 weapon_id = "weapon_big_hand"
 type = 0
-weapon_classes = [ 4 ]
+sets = [ ExtResource( 6 ), ExtResource( 5 ) ]
 scene = ExtResource( 4 )
 stats = ExtResource( 1 )
-weapon_classes_cl = [  ]
