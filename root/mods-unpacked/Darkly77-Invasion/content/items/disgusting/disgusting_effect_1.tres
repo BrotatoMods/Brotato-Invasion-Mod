@@ -34,7 +34,7 @@ arg_format = 0
 [sub_resource type="Resource" id=5]
 script = ExtResource( 2 )
 arg_index = 4
-arg_sign = 3
+arg_sign = 4
 arg_value = 0
 arg_format = 0
 
@@ -45,7 +45,7 @@ text_key = "EFFECT_GAIN_STAT_FOR_EVERY_STAT"
 value = 3
 custom_key = ""
 storage_method = 0
-effect_sign = 0
+effect_sign = 4
 custom_args = [ SubResource( 1 ), SubResource( 2 ), SubResource( 3 ), SubResource( 4 ), SubResource( 5 ) ]
 nb_stat_scaled = -1
 stat_scaled = "stat_harvesting"
