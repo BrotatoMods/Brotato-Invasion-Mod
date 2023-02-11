@@ -1,7 +1,7 @@
 {
 	"name": "Invasion",
 	"namespace": "Darkly77",
-	"version_number": "0.8.1",
+	"version_number": "0.9.0",
 	"description": "Adds content from Space Gladiators",
 	"website_url": "https://github.com/BrotatoMods/Brotato-Invasion-Mod",
 	"dependencies": [
