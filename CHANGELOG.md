@@ -20,18 +20,52 @@ Showing most recent changes first.
 ## 0.9.0
 
 - New Items:
-	- Maggot Soup: +Harvesting, -MaxHP
-	- Magnet: +PickupRange, +Enemyspeed
-	- Precision: +RangedDmg, -AtkSpeed
+	- Maggot Soup:
+		- Chug down this noxious concoction and become imbued with the filthy power of maggots!
+		- +Harvesting, -MaxHP
+	- Magnet:
+		- Seems a bit too strong, it's pulling in everything!
+		- +PickupRange, +Enemyspeed
+	- Precision:
+		- Target training has taught you to slow down and focus your shots
+		- +RangedDmg, -AtkSpeed
+	- Family Heirloom:
+		- It's a magical... something... that imbues your turrets with new power. But having to hold it really throws you off your game
+		- +TurretCritChance, -CritChance
 	- Pepper *(same effect as Spicy Sauce used to have: +dmg against burning enemies)*
 - Tweaks:
-	- Abyssal Pact: Now legendary
+	- **All Shields** (Bloody, Siphoning, Plasma, Coin):** Now unique, fixed tag being set to `stat_armor` instead of `stat_dodge`
+	- Abyssal Pact: Now legendary, Lifesteal reduced (+25 > +20)
+	- Alien Artifact Alpha: Reduced penalty (-5 > -3)
+	- Alien Artifact Omega: Reduced penalty (-5 > -3)
+	- Alien Liver: Now has a negative effect (-MaxHP)
+	- Baby Clothes: Reworked, now gives +Dodge (+10) but reduces crit on dmg taken (-3)
 	- Beard: Reduced elemental bonus (+4 > +3)
+	- Bell: Reduced stats (Engineering +2 > +1, AtkSpeed +5 > +3), reduced cost
+	- Berserker's Mask: Removed -Harvesting, now deals 3 dmg p/sec
+	- Bloody Tooth: Reduced +Melee (+5 > +3), increased -MaxHP (-1 > -3)
+	- Cactus: Increased penalty (Luck -1 > -3)
+	- Cross: Increases -Harvesting penalty (-3 > -10)
+	- Cursed Octopus: Removed flat +Range
+	- Dead Fish: Now uncommon, increased cost to match
 	- Explosive Fruits: Removed all effects except the explosive fruits
+	- Golden Statue: Increased +Luck (+30 > +40)
+	- Jacob's Pride: Increased +Crit (+4 > +5), added -RangedDmg (-2), removed +Harvesting
 	- Jumbee: Reduced cost (70 > 55)
 	- Lost Soul's Cape: Reduced ranged damage gain (+5 > +3)
+	- Maggot Bag: Increased -Harvesting (-5 > -10)
+	- Magnificent Egg: Reduced +Harvesting (+15 > +10), increased -Engineering (-1 > -3)
+	- Metal Boots: Reduced speed (10 > 8), added penalty (-2 MeleeDmg)
 	- Mystery Machine: Penalty changed from -MaxHP to -RecylingRewards
+	- Nanobug: Removed +ExplosinDmg
+	- Pet Food: Now a cheap uncommon, increases %DmgPerStructure (+2% > +3%)
 	- Picture: Now gives reroll discount, removed all old effects
+	- Ring: Removed +PickupRange
+	- Skull: Reduced RangedDmg (+8 > +4), increased -LifeSteal penalty (-4 > -8), removed -Luck
+	- Spiky Shell: Reduced +Armor (2 > 1), increased -Dodge penalty (-4 > -5)
+	- Stitched Bag: Increase AtkSpeed penalty (-2 > -4)
+	- Surgical Bot: Increased cost (20 > 30)
+	- Water Bottle: Now Uncommon, increased +MaxHP and +Harvesting, changed -CritChance to -ElementalDmg
 - Removed:
 	- *These were removed because their effects or sprites were added to vanilla*
 	- Shield Breaker
@@ -62,7 +96,7 @@ Showing most recent changes first.
 
 - Integrated Chipset - Increases iframes duration
 - Mystery Machine - Gain +1 to 2 random stats when you level up
-- Shield Breaker - Deal more dmage against bosses (and elites)
+- Shield Breaker - Deal more damage against bosses (and elites)
 - Spicy Sauce - Bonus damage to burning enemies
 
 **Changes:**
