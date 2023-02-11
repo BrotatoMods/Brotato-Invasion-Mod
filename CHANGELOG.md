@@ -2,7 +2,10 @@
 
 Showing most recent changes first.
 
+- [0.9.0](#090)
+- [0.8.0 (Workshop)](#080-workshop)
 - [0.6.0 (ModLoader)](#060-modloader)
+- [0.7.0](#070)
 - [0.5.2](#052)
 - [0.5.1](#051)
 - [0.5.0](#050)
@@ -34,7 +37,7 @@ Showing most recent changes first.
 	- Fixed args for Monk's Blessing, Disgusting
 
 
-## 0.8.0
+## 0.8.0 (Workshop Update)
 
 - Workshop update
 - Add item: Explosive Barrels
