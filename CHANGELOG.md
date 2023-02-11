@@ -20,14 +20,18 @@ Showing most recent changes first.
 ## 0.9.0
 
 - New Items:
+	- Maggot Soup: +Harvesting, -MaxHP
+	- Magnet: +PickupRange, +Enemyspeed
+	- Precision: +RangedDmg, -AtkSpeed
 	- Pepper *(same effect as Spicy Sauce used to have: +dmg against burning enemies)*
 - Tweaks:
-	- Picture: Now gives reroll discount, removed all old effects
 	- Abyssal Pact: Now legendary
 	- Beard: Reduced elemental bonus (+4 > +3)
 	- Explosive Fruits: Removed all effects except the explosive fruits
 	- Jumbee: Reduced cost (70 > 55)
 	- Lost Soul's Cape: Reduced ranged damage gain (+5 > +3)
+	- Mystery Machine: Penalty changed from -MaxHP to -RecylingRewards
+	- Picture: Now gives reroll discount, removed all old effects
 - Removed:
 	- *These were removed because their effects or sprites were added to vanilla*
 	- Shield Breaker
