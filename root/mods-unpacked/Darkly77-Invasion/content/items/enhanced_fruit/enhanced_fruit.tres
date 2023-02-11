@@ -1,10 +1,8 @@
-[gd_resource type="Resource" load_steps=6 format=2]
+[gd_resource type="Resource" load_steps=4 format=2]
 
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/enhanced_fruit/enhanced_fruit_effect_1.tres" type="Resource" id=1]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/enhanced_fruit/enhanced_fruit_effect_2.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/enhanced_fruit/invasion_enhanced_fruit.png" type="Texture" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/enhanced_fruit/enhanced_fruit_effect_3.tres" type="Resource" id=5]
 
 [resource]
 script = ExtResource( 4 )
@@ -13,8 +11,8 @@ unlocked_by_default = true
 icon = ExtResource( 3 )
 name = "Explosive Fruits"
 tier = 1
-value = 40
-effects = [ ExtResource( 1 ), ExtResource( 2 ), ExtResource( 5 ) ]
+value = 45
+effects = [ ExtResource( 1 ) ]
 tracking_text = ""
 max_nb = 1
 item_appearances = [  ]

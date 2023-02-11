@@ -18,12 +18,20 @@ Showing most recent changes first.
 
 - New Items:
 	- Pepper *(same effect as Spicy Sauce used to have: +dmg against burning enemies)*
-- Reworks:
-	- Picture: Now gives reroll discount
+- Tweaks:
+	- Picture: Now gives reroll discount, removed all old effects
+	- Abyssal Pact: Now legendary
+	- Beard: Reduced elemental bonus (+4 > +3)
+	- Explosive Fruits: Removed all effects except the explosive fruits
+	- Jumbee: Reduced cost (70 > 55)
+	- Lost Soul's Cape: Reduced ranged damage gain (+5 > +3)
 - Removed:
+	- *These were removed because their effects or sprites were added to vanilla*
 	- Shield Breaker
 	- Spicy Sauce
 	- Rare Coin
+- Fixes:
+	- Fixed args for Monk's Blessing, Disgusting
 
 
 ## 0.8.0
