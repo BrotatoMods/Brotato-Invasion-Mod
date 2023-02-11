@@ -20,18 +20,14 @@ Showing most recent changes first.
 ## 0.9.0
 
 - New Items:
-	- Maggot Soup:
-		- Chug down this noxious concoction and become imbued with the filthy power of maggots!
-		- +Harvesting, -MaxHP
-	- Magnet:
-		- Seems a bit too strong, it's pulling in everything!
-		- +PickupRange, +Enemyspeed
-	- Precision:
-		- Target training has taught you to slow down and focus your shots
-		- +RangedDmg, -AtkSpeed
-	- Family Heirloom:
-		- It's a magical... something... that imbues your turrets with new power. But having to hold it really throws you off your game
-		- +TurretCritChance, -CritChance
+	- Maggot Soup: +Harvesting, -MaxHP
+		- > *Chug down this noxious concoction and become imbued with the filthy power of maggots!*
+	- Magnet: +PickupRange, +Enemyspeed
+		- > *Seems a bit too strong, it's pulling in everything!*
+	- Precision: +RangedDmg, -AtkSpeed
+		- > *Target training has taught you to slow down and focus your shots*
+	- Family Heirloom: +TurretCritChance, -CritChance
+		- > *It's a magical... something... that imbues your turrets with new power. But having it dangling from your neck really throws you off your game*
 	- Pepper *(same effect as Spicy Sauce used to have: +dmg against burning enemies)*
 - Tweaks:
 	- **All Shields** (Bloody, Siphoning, Plasma, Coin):** Now unique, fixed tag being set to `stat_armor` instead of `stat_dodge`
