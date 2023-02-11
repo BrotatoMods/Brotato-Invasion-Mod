@@ -5,11 +5,14 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "CHAR_SPECIFIC_GENERALIST_BACKPACK"
-text_key = ""
+key = ""
+text_key = "[EMPTY]"
 value = 1
+custom_key = ""
+storage_method = 0
 effect_sign = 3
-arg_signs = [  ]
+custom_args = [  ]
 characters = [ ExtResource( 2 ) ]
+note = "CHAR_SPECIFIC_GENERALIST_BACKPACK"
 grey_text = true
 add_linebreak = false

@@ -7,6 +7,7 @@ extends Effect
 
 ## TESTING
 export (Array, Resource) var characters = [] # Array of characters (character_data files)
+export (String) var note = ""           # Note text string (translateable)
 export (bool) var grey_text = true      # If true, makes the text grey
 export (bool) var add_linebreak = false # If true, adds a line break before the text
 
@@ -22,9 +23,11 @@ func unapply()->void :
 func get_args()->Array:
 	# NIL until the run starts, so required here to avoid a crash
 	if !RunData.current_character:
+		text_key = "[EMPTY]"
 		return []
 
 	if characters.size() == 0:
+		text_key = "[EMPTY]"
 		return []
 
 	var apply_text = false
@@ -42,7 +45,7 @@ func get_args()->Array:
 		text_key = "[EMPTY]"
 		return []
 	else:
-		text_key = key
+		text_key = note
 		# {0} = value (if set)
 		# {1} = Name of the current character
 		# {2} = Name of all characters this note applies to
