@@ -30,7 +30,7 @@ Showing most recent changes first.
 		- > *It's a magical... something... that imbues your turrets with new power. But having it dangling from your neck really throws you off your game*
 	- Pepper *(same effect as Spicy Sauce used to have: +dmg against burning enemies)*
 - Tweaks:
-	- **All Shields** (Bloody, Siphoning, Plasma, Coin):** Now unique, fixed tag being set to `stat_armor` instead of `stat_dodge`
+	- **All Shields** (Bloody, Siphoning, Plasma, Coin): Now unique, fixed tag being set to `stat_armor` instead of `stat_dodge`
 	- Abyssal Pact: Now legendary, Lifesteal reduced (+25 > +20)
 	- Alien Artifact Alpha: Reduced penalty (-5 > -3)
 	- Alien Artifact Omega: Reduced penalty (-5 > -3)
