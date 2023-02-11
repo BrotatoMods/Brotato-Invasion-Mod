@@ -4,10 +4,10 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "dodge_cap"
-text_key = "effect_dodge_cap"
-value = 75
+key = "stat_dodge"
+text_key = ""
+value = 15
 custom_key = ""
-storage_method = 0
+storage_method = 2
 effect_sign = 3
 custom_args = [  ]

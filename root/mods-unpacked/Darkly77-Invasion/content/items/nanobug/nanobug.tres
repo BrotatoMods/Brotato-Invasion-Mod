@@ -1,9 +1,8 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=4 format=2]
 
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/nanobug/invasion_nanobug.png" type="Texture" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/nanobug/nanobug_effect_1.tres" type="Resource" id=3]
-[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/nanobug/nanobug_effect_2.tres" type="Resource" id=4]
 
 [resource]
 script = ExtResource( 1 )
@@ -13,8 +12,7 @@ icon = ExtResource( 2 )
 name = "Nanobug"
 tier = 2
 value = 65
-effects = [ ExtResource( 3 ), ExtResource( 4 ) ]
-has_gameplay_modifications = false
+effects = [ ExtResource( 3 ) ]
 tracking_text = ""
 max_nb = 1
 item_appearances = [  ]

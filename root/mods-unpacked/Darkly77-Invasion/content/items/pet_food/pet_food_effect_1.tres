@@ -6,8 +6,10 @@
 script = ExtResource( 1 )
 key = "stat_percent_damage"
 text_key = "EFFECT_GAIN_STAT_FOR_EVERY_STAT"
-value = 2
+value = 3
+custom_key = ""
+storage_method = 0
 effect_sign = 4
-arg_signs = [ 0, 0, 0, 0, 3 ]
+custom_args = [  ]
 nb_stat_scaled = 1
 stat_scaled = "structure"

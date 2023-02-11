@@ -4,9 +4,9 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_harvesting"
-text_key = ""
-value = -200
+key = "lose_hp_per_second"
+text_key = "effect_lose_hp_per_second"
+value = 3
 custom_key = ""
 storage_method = 0
 effect_sign = 3

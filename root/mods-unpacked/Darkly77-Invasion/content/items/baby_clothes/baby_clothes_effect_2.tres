@@ -4,10 +4,10 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_dodge"
-text_key = ""
-value = 60
-custom_key = ""
+key = "stat_crit_chance"
+text_key = "effect_on_hit"
+value = -3
+custom_key = "temp_stats_on_hit"
 storage_method = 0
 effect_sign = 3
 custom_args = [  ]
