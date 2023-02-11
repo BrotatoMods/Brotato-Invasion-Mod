@@ -13,6 +13,32 @@ Showing most recent changes first.
 - [0.1.1](#011)
 - [0.1.0](#010)
 
+
+## 0.9.0
+
+- New Items:
+	- Pepper *(same effect as Spicy Sauce used to have: +dmg against burning enemies)*
+- Reworks:
+	- Picture: Now gives reroll discount
+- Removed:
+	- Shield Breaker
+	- Spicy Sauce
+	- Rare Coin
+
+
+## 0.8.0
+
+- Workshop update
+- Add item: Explosive Barrels
+- Finished Alien Arm
+- Continued work on Demon Stick
+
+
+## 0.7.0
+
+- Internal updates
+
+
 ## 0.6.0 (ModLoader)
 
 - Updates the mod to work with [ModLoader](https://github.com/GodotModding/godot-mod-loader)
@@ -26,8 +52,6 @@ Showing most recent changes first.
 
 **Changes:**
 
-- @todo: Updated Alien Arm
-- @todo: Updated Demon Stick
 - Rare Coin: Reworked. Now gives a % chance for free rerolls
 - Shields: Now proc on dodge instead of taking damage. Stat gains increased slightly to account for this
 
