@@ -4,9 +4,9 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_max_hp"
-text_key = ""
-value = -5
+key = "recycling_gains"
+text_key = "effect_recycling_gains"
+value = -20
 custom_key = ""
 storage_method = 0
 effect_sign = 3
