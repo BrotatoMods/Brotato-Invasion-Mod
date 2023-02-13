@@ -4,7 +4,7 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_luck"
+key = "stat_engineering"
 text_key = "EFFECT_DEAL_DMG_WHEN_PICKUP_GOLD"
 value = 100
 custom_key = "dmg_when_pickup_gold"
