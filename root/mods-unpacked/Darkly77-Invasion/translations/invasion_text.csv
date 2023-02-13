@@ -22,6 +22,7 @@ WEAPON_METAL_CANNON,Metal Cannon
 WEAPON_DEMON_STICK,Demon Stick
 WEAPON_CUDGEL,Cudgel
 WEAPON_ALIEN_ARM,Alien Arm
+WEAPON_BIG_HAND,Bruiser Fist
 CHAR_SPECIFIC_GENERALIST_BACKPACK,Generalist: Increases your max weapon type by {0}. Multiple stacks alternate between melee and ranged
 SET_ALIEN,Alien
 SET_ENERGY,Energy
