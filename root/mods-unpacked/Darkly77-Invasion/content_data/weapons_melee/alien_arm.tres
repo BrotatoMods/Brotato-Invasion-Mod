@@ -1,4 +1,4 @@
-[gd_resource type="Resource" load_steps=15 format=2]
+[gd_resource type="Resource" load_steps=16 format=2]
 
 [ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
 [ext_resource path="res://items/characters/loud/loud_data.tres" type="Resource" id=2]
@@ -14,13 +14,14 @@
 [ext_resource path="res://items/characters/gladiator/gladiator_data.tres" type="Resource" id=12]
 [ext_resource path="res://items/characters/demon/demon_data.tres" type="Resource" id=13]
 [ext_resource path="res://items/characters/generalist/generalist_data.tres" type="Resource" id=14]
+[ext_resource path="res://items/characters/hunter/hunter_data.tres" type="Resource" id=15]
 
 [resource]
 script = ExtResource( 1 )
 characters = [  ]
 items = [  ]
 weapons = [ ExtResource( 8 ), ExtResource( 9 ), ExtResource( 10 ), ExtResource( 11 ) ]
-weapons_characters = [ [ ExtResource( 6 ), ExtResource( 7 ), ExtResource( 2 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 3 ), ExtResource( 13 ), ExtResource( 14 ), ExtResource( 12 ) ], [  ], [  ], [  ] ]
+weapons_characters = [ [ ExtResource( 6 ), ExtResource( 7 ), ExtResource( 2 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 3 ), ExtResource( 13 ), ExtResource( 14 ), ExtResource( 12 ), ExtResource( 15 ) ], [  ], [  ], [  ] ]
 sets = [  ]
 challenges = [  ]
 debug_items = [  ]
