@@ -17,4 +17,4 @@ effects = [ ExtResource( 2 ), ExtResource( 3 ) ]
 tracking_text = ""
 max_nb = 3
 item_appearances = [  ]
-tags = [ "stat_max_hp", "stat_hp_regeneration" ]
+tags = [ "stat_elemental_damage" ]
