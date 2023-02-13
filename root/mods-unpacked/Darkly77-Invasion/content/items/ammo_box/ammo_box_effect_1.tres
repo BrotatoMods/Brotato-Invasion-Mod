@@ -6,16 +6,16 @@
 [sub_resource type="Resource" id=1]
 script = ExtResource( 2 )
 arg_index = 0
-arg_sign = 1
+arg_sign = 2
 arg_value = 5
 arg_format = 0
 
 [resource]
 script = ExtResource( 1 )
 key = "min_weapon_tier"
-text_key = "effect_min_weapon_tier"
+text_key = "EFFECT_SHOP_MIN_TIER"
 value = 1
 custom_key = ""
 storage_method = 2
-effect_sign = 1
+effect_sign = 2
 custom_args = [ SubResource( 1 ) ]
