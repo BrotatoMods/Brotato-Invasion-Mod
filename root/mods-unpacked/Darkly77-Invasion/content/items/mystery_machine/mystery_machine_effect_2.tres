@@ -5,7 +5,7 @@
 [resource]
 script = ExtResource( 1 )
 key = "recycling_gains"
-text_key = "effect_recycling_gains"
+text_key = "EFFECT_RECYCLING_GAINS_REDUCE"
 value = -20
 custom_key = ""
 storage_method = 0
