@@ -6,7 +6,7 @@
 script = ExtResource( 1 )
 key = "stat_attack_speed"
 text_key = ""
-value = -4
+value = -2
 custom_key = ""
 storage_method = 0
 effect_sign = 3
