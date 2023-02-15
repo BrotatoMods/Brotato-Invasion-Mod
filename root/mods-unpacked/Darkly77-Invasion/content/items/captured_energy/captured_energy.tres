@@ -20,4 +20,4 @@ effects = [ ExtResource( 7 ), ExtResource( 6 ), ExtResource( 3 ), ExtResource( 8
 tracking_text = ""
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_engineering", "stat_elemental_damage", "stat_hp_regeneration", "xp_gain" ]
+tags = [ "stat_engineering", "stat_elemental_damage", "xp_gain" ]
