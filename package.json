@@ -1,0 +1,20 @@
+{
+  "name": "brotato-invasion-mod",
+  "version": "1.0.0",
+  "description": "Huge mod with items and content from Space Gladiators",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrotatoMods/Brotato-Invasion-Mod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrotatoMods/Brotato-Invasion-Mod/issues"
+  },
+  "homepage": "https://github.com/BrotatoMods/Brotato-Invasion-Mod#readme",
+  "scripts": {
+	"changelog": "changelog-maker --markdown"
+  }
+}
