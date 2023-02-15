@@ -17,4 +17,4 @@ effects = [ ExtResource( 3 ), ExtResource( 5 ) ]
 tracking_text = ""
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_speed", "stat_dodge" ]
+tags = [ "stat_dodge" ]
