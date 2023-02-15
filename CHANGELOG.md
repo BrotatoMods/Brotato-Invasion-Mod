@@ -2,6 +2,8 @@
 
 Showing most recent changes first.
 
+<!--
+- [0.10.0](#0100)
 - [0.9.0](#090)
 - [0.8.0 (Workshop)](#080-workshop)
 - [0.6.0 (ModLoader)](#060-modloader)
@@ -15,6 +17,86 @@ Showing most recent changes first.
 - [0.1.1-fix](#011-fix)
 - [0.1.1](#011)
 - [0.1.0](#010)
+-->
+
+## 0.10.0
+
+Major balancing patch focusing on Uncommon items, plus weapon buffs and a few minor fixes.
+
+### Weapon Tweaks
+
+* \[[`684ca1d128`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/684ca1d128)] - Alien Arm: Increase scaling for MaxHP (eg. T1 = 5% > 10%)
+* \[[`5ec11b7b3d`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/5ec11b7b3d)] - Alien Arm: Add Hunter as a starting character
+* \[[`215e682c20`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/215e682c20)] - Alien Arm: Add more starting characters (Chunky, Gladiator, Demon, Generalist)
+* \[[`9947b118b8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/9947b118b8)] - Demon Stick: Increase bounce damage (0.5 > 0.75)
+* \[[`ca1f6bf868`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/ca1f6bf868)] - Demon Stick: Increase HPRegen scaling (T1/4 = 0.3/0.5 > 0.4/0.75)
+
+### Item Tweaks
+
+* \[[`6c3722c3e8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/6c3722c3e8)] - Ankh: Remove +MaxHP, add -Damage
+* \[[`beb6caccbc`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/beb6caccbc)] - Batteries: Reduced +Speed (3 > 2)
+* \[[`362c2265ba`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/362c2265ba)] - Blobfish: Increase ItemCost penalty (-4 > -5%)
+* \[[`24db218ec8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/24db218ec8)] - Bully Helmet: Now gives +RangedDamage instead of +%Damage
+* \[[`23871dad3e`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/23871dad3e)] - Cactus: Replace +MaxHP with +Melee
+* \[[`91e270ba9f`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/91e270ba9f)] - Captured Energy: Remove +HPRegen
+* \[[`3d2492f8f1`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/3d2492f8f1)] - Dead Fish: Reduce cost (60 > 50), Increase +Enemyspeed (+2% > +3)
+* \[[`2d2fc7e77b`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/2d2fc7e77b)] - Eyes: Change +CritChance (+5%) to +Range (+20)
+* \[[`60bd300dda`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/60bd300dda)] - Hairy Foot: Reduce HPRegen (3 > 2)
+* \[[`bfaae7ea84`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/bfaae7ea84)] - Horn: Reduced +MeleeDmg (3 > 2), reduced Range penalty (-8 > -5)
+* \[[`07f8c7d368`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/07f8c7d368)] - Horse Shoe: Remove +Speed, increase +Dodge (2 > 3)
+* \[[`1d5697e5ca`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/1d5697e5ca)] - Knowledge: Increased -Luck penalty
+* \[[`4da294eb0f`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/4da294eb0f)] - Knowledge: Increased +Elemental
+* \[[`7c45b89627`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/7c45b89627)] - Knowledge: Increased +XP
+* \[[`cd54bb802a`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/cd54bb802a)] - Maggot Soup: Fix tier being Uncommon, should be Rare
+* \[[`341a20557b`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/341a20557b)] - Maggot Soup: Reduce +Harvesting (30 > 25)
+* \[[`3ba1af9dea`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/3ba1af9dea)] - Metal Scrapper: Now Rare
+* \[[`8693222f70`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/8693222f70)] - Natural Scent: Reduced cost
+* \[[`9abc834e8a`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/9abc834e8a)] - Red Laser: Reduce +Range (100 > 50)
+* \[[`09c4e22724`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/09c4e22724)] - Red Laser: Remove +Elemental, remove +CritChance
+* \[[`43172eae14`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/43172eae14)] - Seismic Device: Use Engineering instead of Luck
+* \[[`1362a9c2f9`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/1362a9c2f9)] - Shields: Reduce received stats
+* \[[`8d6d1e2d0c`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/8d6d1e2d0c)] - Stitched Bag: Increase +Harvesting (+4 > 5), decrease -AtkSpeed (-4 > -2)
+* \[[`57947924fb`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/57947924fb)] - Stitched Bag: Increase +Harvesting (3 > 4)
+* \[[`f6ece70a18`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/f6ece70a18)] - Surgical Bot: (Rework) Now gives +1 HPRegen per +2 Engineering
+* \[[`4f7fa21b0a`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/4f7fa21b0a)] - Surgical Bot: Engineering +1 > +2
+* \[[`65897dc424`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/65897dc424)] - Surgical Bot: Uncommon
+
+### Fixes
+
+**Text:**
+* \[[`659740a15a`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/659740a15a)] - Ammo Box: Fix description (use the custom one instead of vanilla's)
+* \[[`cb2bc36fc4`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/cb2bc36fc4)] - Mystery Machine: Fix recycling gains saying "more" instead of "less"
+* \[[`a0e5b09dae`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/a0e5b09dae)] - Explosive Barrel: Change from plural (Barrels > Barrel)
+
+**Tags:**
+* \[[`38c2be1363`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/38c2be1363)] - Ammo Box - Fix being tagged as lifesteal
+* \[[`f4e0aade0d`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/f4e0aade0d)] - Barrel: Fix tags
+* \[[`79feff0bd8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/79feff0bd8)] - Blobfish: Fix tags
+* \[[`c6734ac572`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/c6734ac572)] - Bully Helmet: Fix tags
+* \[[`d2cdd39656`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/d2cdd39656)] - Captured Energy: Fix tags
+* \[[`1b17033f38`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/1b17033f38)] - Horse Shoe: fix tags
+* \[[`4de419042c`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/4de419042c)] - Necklace: Fix item tags
+* \[[`41ec2ef16c`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/41ec2ef16c)] - Pepper: Fix wrong item tags
+* \[[`3b68b50dfd`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/3b68b50dfd)] - Pocket Magician: Fix wrong tag
+* \[[`5bac65377e`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/5bac65377e)] - Poop: Fix item tags
+* \[[`b37cde3a9c`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/b37cde3a9c)] - Spiky Shell: Fix being tagged as Lifesteal instead of HPRegen
+
+**Args:**
+* \[[`68928feb16`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/68928feb16)] - Asteroid: Fix args
+* \[[`30cd1471bf`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/30cd1471bf)] - Devil Armor: Fix args
+* \[[`fba64381ba`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/fba64381ba)] - Monks Blessing: Fix args
+
+### Misc
+
+**Renames**
+* \[[`fcd5b26517`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/fcd5b26517)] - Rename "Big Hand" to "Bruiser Fist"
+* \[[`39458d7cf1`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/39458d7cf1)] - Rename "Precision" to "Target Reticle"
+
+**Other**
+* \[[`dfd98c1c17`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/dfd98c1c17)] - Invasion Info Item- Remove, as the Mods screen now shows the current version
+* \[[`2964958f4f`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/2964958f4f)] - Folder icon (desktop.ini) - for my own use
+* \[[`d00e3fe9de`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/d00e3fe9de)] - Update manifest to use BBCode (test)
+* \[[`cd8f7b8bd4`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/cd8f7b8bd4)] - Auto godot stuff
 
 
 ## 0.9.0
