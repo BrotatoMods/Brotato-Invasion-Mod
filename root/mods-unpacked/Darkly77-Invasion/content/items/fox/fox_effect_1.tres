@@ -6,7 +6,7 @@
 script = ExtResource( 1 )
 key = "neutral_gold_drops"
 text_key = "effect_neutral_gold_drops"
-value = 40
+value = 150
 custom_key = ""
 storage_method = 0
 effect_sign = 3
