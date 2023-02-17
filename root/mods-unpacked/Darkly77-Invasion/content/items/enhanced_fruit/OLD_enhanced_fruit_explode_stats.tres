@@ -20,3 +20,5 @@ sound_db_mod = -5
 is_healing = false
 recoil = 25
 recoil_duration = 0.1
+additional_cooldown_every_x_shots = -1
+additional_cooldown_multiplier = -1.0
