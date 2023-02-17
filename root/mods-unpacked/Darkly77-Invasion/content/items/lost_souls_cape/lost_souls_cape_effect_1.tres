@@ -5,9 +5,9 @@
 [resource]
 script = ExtResource( 1 )
 key = "stat_ranged_damage"
-text_key = "effect_on_hit"
+text_key = "EFFECT_BFX_TEMP_STATS_ON_HIT"
 value = 3
-custom_key = "temp_stats_on_hit"
+custom_key = "bfx_temp_stats_on_hit"
 storage_method = 0
 effect_sign = 3
 custom_args = [  ]
