@@ -6,8 +6,8 @@
 script = ExtResource( 1 )
 key = "number_of_enemies"
 text_key = ""
-value = 6
+value = 3
 custom_key = ""
 storage_method = 0
-effect_sign = 1
+effect_sign = 2
 custom_args = [  ]
