@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=5 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/challenges/cl_challenge_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ExpandedChallenges/challenges/ex_challenge_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/invasion_placeholder.png" type="Texture" id=2]
 [ext_resource path="res://items/characters/brawler/brawler_data.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/x_test/__test.tres" type="Resource" id=4]
@@ -15,7 +15,7 @@ tier = 0
 value = 1
 effects = [  ]
 tracking_text = ""
-description = "CHAL_CHARACTER_DANGER"
+description = "EXT_CHAL_CHAR_DANGER_ANY"
 reward_type = 0
 reward = ExtResource( 4 )
 number = 0

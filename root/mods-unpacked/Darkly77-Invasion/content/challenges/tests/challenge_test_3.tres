@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=6 format=2]
 
-[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/challenges/cl_challenge_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ExpandedChallenges/challenges/ex_challenge_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items_wip/invasion_placeholder.png" type="Texture" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/alien_artifact_2/alien_artifact_2.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/alien_artifact_1/alien_artifact_1.tres" type="Resource" id=4]
@@ -16,7 +16,7 @@ tier = 0
 value = 1
 effects = [  ]
 tracking_text = ""
-description = "CHAL_TEST3_DESCRIPTION"
+description = "EXT_CHAL_TEST_ALL_OPTIONS"
 reward_type = 0
 reward = ExtResource( 5 )
 number = 0
