@@ -4,9 +4,9 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_attack_speed"
+key = "stat_max_hp"
 text_key = ""
-value = 3
+value = -1
 custom_key = ""
 storage_method = 0
 effect_sign = 3
