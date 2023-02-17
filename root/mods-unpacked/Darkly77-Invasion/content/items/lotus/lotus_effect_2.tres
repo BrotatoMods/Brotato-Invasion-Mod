@@ -4,9 +4,9 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "stat_range"
+key = "stat_elemental_damage"
 text_key = ""
-value = -15
+value = 1
 custom_key = ""
 storage_method = 0
 effect_sign = 3
