@@ -17,7 +17,7 @@ EFFECT_MULTIPLY_STAT,Your current {1} is {2} by {0} [{3}]
 EFFECT_MULTIPLY_DOUBLE,Doubles your current {1} [{3}]
 EFFECT_MULTIPLY_HALF,Halves your current {1} [{3}]
 EFFECT_WEAPON_SLOT_ADD,Increase your weapon slots by {0}
-EFFECT_RECYCLING_GAINS_REDUCE,Gain {0} less materials from recycling items
+EFFECT_RECYCLING_GAINS_REDUCE,Gain {0} % less materials from recycling items
 WEAPON_METAL_CANNON,Metal Cannon
 WEAPON_DEMON_STICK,Demon Stick
 WEAPON_CUDGEL,Cudgel
