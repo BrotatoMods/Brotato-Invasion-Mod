@@ -6,7 +6,7 @@
 [sub_resource type="Resource" id=1]
 script = ExtResource( 2 )
 arg_index = 0
-arg_sign = 2
+arg_sign = 0
 arg_value = 5
 arg_format = 0
 
