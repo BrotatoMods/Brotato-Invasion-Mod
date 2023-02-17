@@ -1,9 +1,10 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=6 format=2]
 
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/metal_boots/metal_boots_effect_2.tres" type="Resource" id=1]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/metal_boots/metal_boots_effect_1.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/metal_boots/invasion_metal_boots.png" type="Texture" id=3]
 [ext_resource path="res://items/global/item_data.gd" type="Script" id=4]
+[ext_resource path="res://mods-unpacked/Darkly77-Invasion/content/items/metal_boots/metal_boots_effect_3.tres" type="Resource" id=5]
 
 [resource]
 script = ExtResource( 4 )
@@ -13,10 +14,8 @@ icon = ExtResource( 3 )
 name = "Metal Boots"
 tier = 2
 value = 70
-effects = [ ExtResource( 2 ), ExtResource( 1 ) ]
-has_gameplay_modifications = false
+effects = [ ExtResource( 2 ), ExtResource( 1 ), ExtResource( 5 ) ]
 tracking_text = ""
-unique = false
 max_nb = -1
 item_appearances = [  ]
 tags = [ "stat_armor", "stat_speed" ]
