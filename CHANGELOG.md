@@ -31,16 +31,23 @@ Major balancing patch focusing on Uncommon items, plus weapon buffs and a few mi
 * \[[`9947b118b8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/9947b118b8)] - Demon Stick: Increase bounce damage (0.5 > 0.75)
 * \[[`ca1f6bf868`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/ca1f6bf868)] - Demon Stick: Increase HPRegen scaling (T1/4 = 0.3/0.5 > 0.4/0.75)
 
-### Item Tweaks
+### Item Reworks
+
+* \[[`24db218ec8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/24db218ec8)] - Bully Helmet: Now gives +RangedDamage instead of +%Damage
+* \[[`2d2fc7e77b`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/2d2fc7e77b)] - Eyes: Change +CritChance (+5%) to +Range (+20)
+* \[[`23871dad3e`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/23871dad3e)] - Cactus: Replace +MaxHP with +Melee
+* \[[`43172eae14`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/43172eae14)] - Seismic Device: Use Engineering instead of Luck
+* \[[`f6ece70a18`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/f6ece70a18)] - Surgical Bot: (Rework) Now gives +1 HPRegen per +2 Engineering
+* \[[`4f7fa21b0a`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/4f7fa21b0a)] - Surgical Bot: Engineering +1 > +2
+* \[[`65897dc424`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/65897dc424)] - Surgical Bot: Uncommon
+
+### Item Balancing
 
 * \[[`6c3722c3e8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/6c3722c3e8)] - Ankh: Remove +MaxHP, add -Damage
 * \[[`beb6caccbc`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/beb6caccbc)] - Batteries: Reduced +Speed (3 > 2)
 * \[[`362c2265ba`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/362c2265ba)] - Blobfish: Increase ItemCost penalty (-4 > -5%)
-* \[[`24db218ec8`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/24db218ec8)] - Bully Helmet: Now gives +RangedDamage instead of +%Damage
-* \[[`23871dad3e`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/23871dad3e)] - Cactus: Replace +MaxHP with +Melee
 * \[[`91e270ba9f`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/91e270ba9f)] - Captured Energy: Remove +HPRegen
 * \[[`3d2492f8f1`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/3d2492f8f1)] - Dead Fish: Reduce cost (60 > 50), Increase +Enemyspeed (+2% > +3)
-* \[[`2d2fc7e77b`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/2d2fc7e77b)] - Eyes: Change +CritChance (+5%) to +Range (+20)
 * \[[`60bd300dda`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/60bd300dda)] - Hairy Foot: Reduce HPRegen (3 > 2)
 * \[[`bfaae7ea84`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/bfaae7ea84)] - Horn: Reduced +MeleeDmg (3 > 2), reduced Range penalty (-8 > -5)
 * \[[`07f8c7d368`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/07f8c7d368)] - Horse Shoe: Remove +Speed, increase +Dodge (2 > 3)
@@ -53,13 +60,9 @@ Major balancing patch focusing on Uncommon items, plus weapon buffs and a few mi
 * \[[`8693222f70`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/8693222f70)] - Natural Scent: Reduced cost
 * \[[`9abc834e8a`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/9abc834e8a)] - Red Laser: Reduce +Range (100 > 50)
 * \[[`09c4e22724`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/09c4e22724)] - Red Laser: Remove +Elemental, remove +CritChance
-* \[[`43172eae14`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/43172eae14)] - Seismic Device: Use Engineering instead of Luck
 * \[[`1362a9c2f9`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/1362a9c2f9)] - Shields: Reduce received stats
 * \[[`8d6d1e2d0c`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/8d6d1e2d0c)] - Stitched Bag: Increase +Harvesting (+4 > 5), decrease -AtkSpeed (-4 > -2)
 * \[[`57947924fb`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/57947924fb)] - Stitched Bag: Increase +Harvesting (3 > 4)
-* \[[`f6ece70a18`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/f6ece70a18)] - Surgical Bot: (Rework) Now gives +1 HPRegen per +2 Engineering
-* \[[`4f7fa21b0a`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/4f7fa21b0a)] - Surgical Bot: Engineering +1 > +2
-* \[[`65897dc424`](https://github.com/BrotatoMods/brotato-invasion-mod/commit/65897dc424)] - Surgical Bot: Uncommon
 
 ### Fixes
 
