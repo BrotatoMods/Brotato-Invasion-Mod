@@ -16,6 +16,6 @@ tier = 1
 value = 55
 effects = [ ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ) ]
 tracking_text = ""
-max_nb = 10
+max_nb = 3
 item_appearances = [  ]
 tags = [ "stat_ranged_damage", "less_enemy_speed", "more_enemies" ]
