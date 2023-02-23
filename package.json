@@ -1,20 +1,24 @@
 {
-  "name": "brotato-invasion-mod",
-  "version": "1.0.0",
-  "description": "Huge mod with items and content from Space Gladiators",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BrotatoMods/Brotato-Invasion-Mod.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BrotatoMods/Brotato-Invasion-Mod/issues"
-  },
-  "homepage": "https://github.com/BrotatoMods/Brotato-Invasion-Mod#readme",
-  "scripts": {
-	"changelog": "changelog-maker --markdown"
-  }
+	"name": "brotato-invasion-mod",
+	"version": "0.11.0",
+	"description": "Huge mod with items and content from Space Gladiators",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BrotatoMods/Brotato-Invasion-Mod.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/BrotatoMods/Brotato-Invasion-Mod/issues"
+	},
+	"homepage": "https://github.com/BrotatoMods/Brotato-Invasion-Mod#readme",
+	"scripts": {
+		"changelog": "conventional-changelog --infile CHANGELOG.md --outfile CHANGELOG.md --context changelog-config.json",
+		"changelog_old": "changelog-maker --markdown"
+	},
+	"devDependencies": {
+		"conventional-changelog-cli": "^2.2.2"
+	}
 }
