@@ -2,22 +2,73 @@
 
 Showing most recent changes first.
 
-<!--
-- [0.10.0](#0100)
-- [0.9.0](#090)
-- [0.8.0 (Workshop)](#080-workshop)
-- [0.6.0 (ModLoader)](#060-modloader)
-- [0.7.0](#070)
-- [0.5.2](#052)
-- [0.5.1](#051)
-- [0.5.0](#050)
-- [0.4.0 (Critters)](#040-critters)
-- [0.3.0 (Shields)](#030-shields)
-- [0.2.0 (Armor Pieces)](#020-armor-pieces)
-- [0.1.1-fix](#011-fix)
-- [0.1.1](#011)
-- [0.1.0](#010)
--->
+## 0.11.0 (2023-02-23)
+
+Balancing and fixes.
+
+### Rework
+
+* \[[`19def05`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/19def05)\] - Alien Liver: Gain +Harvesting per HPRegen
+* \[[`1315b02`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/1315b02)\] - Bell: Now gives -EnemyHP, but -MaxHP
+* \[[`1823926`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/1823926)\] - Enhanced Fruit: Gain +3 materials when you collect a fruit
+* \[[`c621757`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/c621757)\] - Lotus: Now Uncommon and gives +Ranged
+* \[[`d4c691d`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/d4c691d)\] - Mystery Machine: Now gives +15% Item Cost *(instead of negatively affecting recycling gains,
+* \[[`c07b1eb`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/c07b1eb)\] - Natural Scent: Now gives +Enemies but +Crit for the next wave
+* \[[`59ddc0e`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/59ddc0e)\] - Surgical Bot: Now gives +HPRegen per Engineering
+
+### Balance
+
+* \[[`7334111`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/7334111)\] - **All Shields**: Now have a negative (-Speed)
+* \[[`ef29018`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/ef29018)\] - Alien Artifact 1: Penalty on hit -3 > -4
+* \[[`1fdfa2d`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/1fdfa2d)\] - Alien Artifact 2: Reduce initial speed bonus (20 > 15)
+* \[[`80eb640`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/80eb640)\] - Baby Clothes: Reduce Crit on hit: -3 > -2
+* \[[`63544e3`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/63544e3)\] - Barbarian's Curse: MaxHP -20 > -25
+* \[[`eb25013`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/eb25013)\] - Bell: EnemyHP -2 > -1%
+* \[[`2e41a64`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/2e41a64)\] - Berserker's Mask: Reduce HP lost p/sec (3 > 2)
+* \[[`663eb93`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/663eb93)\] - Blood Fuel: Don't proc with things that don't trigger invulnerability time
+* \[[`2f76fb7`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/2f76fb7)\] - Bully Helmet: Max: 8 > 10, MoreEnemies: 6 > 3
+* \[[`2aa1780`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/2aa1780)\] - Bully Helmet: Increased no. of enemies (3 > 4), max number 10 > 3
+* \[[`916c9cd`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/916c9cd)\] - Chocolate: Reduce cost (60 > 40)
+* \[[`6102449`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/6102449)\] - Critters: Increased -Harvesting (-3 > -5)
+* \[[`b91a8cf`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/b91a8cf)\] - Eyes: Increase Luck (10 > 15)
+* \[[`c4cb501`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/c4cb501)\] - Family Heirloom: Crit Chance is now positive (-5% > +4%)
+* \[[`d2e02ea`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/d2e02ea)\] - Fox: Increase materials from trees (40 > 150%)
+* \[[`1f566b4`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/1f566b4)\] - Fox: Decreases drops from trees (150 > 100)
+* \[[`47122aa`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/47122aa)\] - Gun Extension: Increase -%Damage (-2% > -3%)
+* \[[`e87ff5c`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/e87ff5c)\] - Hairy Foot: Increased +ItemsPrice (2% > 3%)
+* \[[`be390cc`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/be390cc)\] - Lost Potato: %Damage: -20 > -15
+* \[[`899779a`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/899779a)\] - Lost Soul's Cape: Don't proc with things that don't trigger invulnerability time
+* \[[`d51e656`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/d51e656)\] - Lost Soul's Cape: Now Legendary
+* \[[`728b9d8`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/728b9d8)\] - Maggot Soup: Harvesting +25 > +35
+* \[[`b25c532`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/b25c532)\] - Magnet: Enemy Speed +6 > +4
+* \[[`30c566a`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/30c566a)\] - Tactician's Mustache: Add a downside (-Armor)
+* \[[`9a49431`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/9a49431)\] - Target Reticle: Increased -AttackSpeed (-15 > -20)
+* \[[`59b8182`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/59b8182)\] - Turtle: Increased -Speed (-1% > -2%)
+* \[[`d61ecfb`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/d61ecfb)\] - Waffle: Decrease cost (30 > 25)
+
+### Fixes
+
+* \[[`ec7420e`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/ec7420e)\] - Ammo Box: Fix args
+* \[[`da2571f`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/da2571f)\] - Baby Clothes: fix replacing Dodge instead of increasing it
+* \[[`7efdf64`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/7efdf64)\] - Bell: fix arg being negative
+* \[[`660b174`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/660b174)\] - Coral: Fix note text not being grey
+* \[[`f843f2a`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/f843f2a)\] - Metal Boots: fixed missing negative (-Melee)
+* \[[`eac5dab`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/eac5dab)\] - Mystery Machine: fixed not showing %
+
+### Misc
+
+* \[[`07100a0`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/07100a0)\] - 0.11.0 - version bump
+* \[[`5d72a19`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/5d72a19)\] - Challenges - Update test challenges to use new ExpandedChallenges dependency
+* \[[`d87ba0a`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/d87ba0a)\] - Challenges - Update test challenges to use new ExpandedChallenges dependency (cont.)
+* \[[`3ed4b40`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/3ed4b40)\] - Enhanced Fruits - Rename back from "Explosive Fruits"
+* \[[`c29b4ea`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/c29b4ea)\] - godot file touch
+* \[[`d13ed3f`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/d13ed3f)\] - godot file touch
+* \[[`dae8efc`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/dae8efc)\] - godot file touch
+* \[[`5888e17`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/5888e17)\] - Remove old files (shields)
+* \[[`67f6932`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/67f6932)\] - Update translations
+* \[[`c0ff7af`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/c0ff7af)\] - README - split some item changes into new "Item Reworks" section (v0.10.0)
+* \[[`42ab163`](https://github.com/BrotatoMods/Brotato-Invasion-Mod/commit/42ab163)\] - npm changelog
+
 
 ## 0.10.0
 
