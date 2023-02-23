@@ -8,6 +8,6 @@ key = "stat_dodge"
 text_key = ""
 value = 15
 custom_key = ""
-storage_method = 2
+storage_method = 0
 effect_sign = 3
 custom_args = [  ]
