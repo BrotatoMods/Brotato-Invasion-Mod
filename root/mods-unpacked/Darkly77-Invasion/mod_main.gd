@@ -7,12 +7,12 @@ var dir = ""
 var ext_dir = ""
 
 func _init(modLoader = ModLoader):
-	ModLoaderUtils.log_info("Init", INVASION_LOG)
-	dir = modLoader.UNPACKED_DIR + MOD_DIR
+	ModLoaderLog.info("Init", INVASION_LOG)
+	dir = ModLoaderMod.get_unpacked_dir() + MOD_DIR
 	# ext_dir = dir + "extensions/"
 
 	# Add translations
-	modLoader.add_translation_from_resource(dir + "translations/invasion_text.en.translation")
+	ModLoaderMod.add_translation(dir + "translations/invasion_text.en.translation")
 
 
 func _ready():
@@ -47,4 +47,4 @@ func _ready():
 	# ContentLoader.load_data(dir + "content_data/tests/tests_weapons_melee.tres", INVASION_LOG)
 	# ContentLoader.load_data(dir + "content_data/tests/tests_weapons_ranged.tres", INVASION_LOG)
 
-	ModLoaderUtils.log_info("Done", INVASION_LOG)
+	ModLoaderLog.info("Done", INVASION_LOG)
