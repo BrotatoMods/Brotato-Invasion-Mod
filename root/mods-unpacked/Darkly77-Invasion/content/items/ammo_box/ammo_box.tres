@@ -15,6 +15,6 @@ tier = 2
 value = 80
 effects = [ ExtResource( 4 ), ExtResource( 3 ) ]
 tracking_text = ""
-max_nb = -1
+max_nb = 1
 item_appearances = [  ]
 tags = [  ]
